@@ -18,12 +18,13 @@ organizations:
   url: "https://www.utas.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the use of crop models to understand G*E*M crop interactions.
+bio: My research interests include the use of crop models to understand GxExM crop interactions.
 
 interests:
-- Crop modelling across scales
-- Environmental analysis
+- Crop modeling across scales
+- Environmental data analysis
 - Soil-Plant-Climate interactions
+- Crop Model development
 
 education:
   courses:

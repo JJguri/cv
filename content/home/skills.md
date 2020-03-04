@@ -18,36 +18,55 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  description = ""
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = ""
+
+[[feature]]
+  icon = "markdown"
+  icon_pack = "fab"
+  name = "Markdown"
+  description = ""
 
 [[feature]]
   icon = "github"
   icon_pack = "fab"
   name = "GitHub"
-  description = "90%"
-  
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "20%"
-  
+  description = ""
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "80%"
+  description = ""
+
+[[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "Plotting"
+  description = ""
 
 [[feature]]
   icon = "globe-americas"
   icon_pack = "fas"
   name = "International Networking"
-  description = "100%" 
+  description = "" 
 
 [[feature]]
   icon = "comments"
   icon_pack = "far"
   name = "Communication"
-  description = "100%"
+  description = ""
+
+[[feature]]
+  icon = "users"
+  icon_pack = "fas"
+  name = "Team work"
+  description = ""
+
 
 +++
