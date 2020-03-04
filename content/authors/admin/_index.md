@@ -33,7 +33,7 @@ education:
     year: 2017
   - course: Agricultural Engineer
     institution: National University of Entre Ríos, Argentina
-    year: 2012
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -80,4 +80,4 @@ user_groups:
 - Visitors
 ---
 
-Jonathan is a Junior Research Fellow at the Tasmanian Institute of Agriculture, University of Tasmania. His research interests is in quantifying the effects of crop management and climate variability on soil-crop processes and integrating data into models at different spatial scales. So that effects can be scaled up to predict crop growth, both yield and quality and environmental impacts for better outcomes in agricultural systems. This requires a broad understanding of how environment influence crop growth; how rainfall, irrigation and fertiliser influence soil conditions; how crops obtain water and nutrients from the soil; how soil processes contribute to the loss of carbon and nitrogen; and how all these processes interact.
+Jonathan is a Junior Research Fellow at the Tasmanian Institute of Agriculture, University of Tasmania. His research interests are in quantifying the effects of crop management and climate variability on soil-crop-climate processes and integrating data into mechanistic models at different spatial scales. He is passionate to disentangle sources of uncertainties in biophysical and mathematical models to better predict crop growth, both yield and quality and environmental impacts in agricultural systems. This requires a broad understanding of how environment influence crop growth and development; how rainfall, irrigation and fertiliser influence soil conditions; how crops obtain water and nutrients from the soil; how soil processes contribute to the loss of carbon and nitrogen; and how all these processes interact.
