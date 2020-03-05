@@ -31,7 +31,7 @@ links:
   url: http://www.zalf.de/en/Pages/ZALF.aspx
 
 url_code: ""
-url_pdf: "files/course.pdf"
+url_pdf: "https://www.dropbox.com/s/aujntlixgo7r6a2/course.pdf?dl=0"
 url_slides: ""
 url_video: ""
 

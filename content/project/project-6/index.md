@@ -27,7 +27,7 @@ links:
   name:
   url: https://github.com/JJguri/bestiapop
 url_code: ""
-url_pdf: "files/paper_silo.pdf"
+url_pdf: "https://www.dropbox.com/s/00mcy5onulnpnnr/paper_silo.pdf?dl=0"
 url_slides: ""
 url_video: ""
 

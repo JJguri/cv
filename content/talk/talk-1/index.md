@@ -36,7 +36,7 @@ image:
 
 url_code: ""
 url_pdf: "https://www.dropbox.com/s/ayhehyq6519i13f/Ojeda%20et%20al.%2C%202020%20icrop2020.pdf?dl=0"
-url_slides: "https://www.dropbox.com/s/u839ddjr6rv8ks6/Ojeda%20ppt%20icrop2020.pdf?dl=0"
+url_slides: "https://www.dropbox.com/s/qnmoa3azotz9hof/ppt_icropm2020.pdf?dl=0"
 url_video: ""
 
 # Markdown Slides (optional).
