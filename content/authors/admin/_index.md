@@ -21,10 +21,10 @@ organizations:
 bio: My research interests include the use of crop models to understand GxExM crop interactions.
 
 interests:
-- Crop modeling across scales
+- Crop modelling across scales
 - Environmental data analysis
-- Soil-Plant-Climate interactions
-- Crop Model development
+- Soil-plant-climate interactions
+- Crop model development
 
 education:
   courses:
