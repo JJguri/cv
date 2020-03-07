@@ -38,7 +38,8 @@ summary: We quantify the data aggregation effects on potato yield and irrigation
 
 tags:
 - Data resolution
-- ScaleRegional modelling
+- Scale
+- Regional modelling
 - Data aggregation
 - Spatial heterogeneity
 - Model uncertainty
