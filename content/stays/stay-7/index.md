@@ -6,7 +6,8 @@ tags:
 - Modelling
 - APSIM Next Generation
 - Coding
-- C#
+- Crop rotations
+- Crop sequences
 
 date: "2019-07-31T00:00:00Z"
 
