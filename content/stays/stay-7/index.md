@@ -1,5 +1,5 @@
 ---
-slug: "oro-verde"
+slug: "oroverde"
 title: University of Entre Rios
 summary: 2019 - Course Coordinator
 tags:
