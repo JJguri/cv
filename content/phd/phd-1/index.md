@@ -37,9 +37,31 @@ slides: example
 
 ### About Ranju
 
+Ranju is a young researcher originally from Nepal. Ranju's research interest is within the field of water resources considering climate change impact and adaptation in water resources, ecohydrology and agriculture. She did her Master in Water Engineering and Management at the Asian Institute of Technology and then she worked as Research Associate for three years before to start her PhD at UTAS.
+
 **_Contact:_** Ranju.Chapagain@utas.edu.au
 
 ### About the project
+
+This project aims to quantify model prediction uncertainty in crop model system using example crops such as potato, for Tasmania and Australia and to test the hypothesis that predicted model outputs vary with the different sources of input, models used for simulation and model parameters.
+
+**General research question**
+- How do model outputs (e.g. crop yield, water and energy use efficiency) vary with different inputs, simulation models and model parameters while predicting uncertainty for crop model system using example crops such as potato at regional and national scale?
+
+**Specific research questions**
+- What are the dominant sources of uncertainty in crop model systems, using potato and wheat as example crops?
+- How much weight does each uncertainty source contribute to the total uncertainty?
+- What is the relative contribution of different sources of uncertainty with crop model systems, using potato as example crop?
+
+**Hypotheses**
+- Uncertainty in soil data outweighs uncertainty due to climate and management practices in crop model systems.
+- The weight of climate uncertainty is higher than other uncertainty sources in crop model systems.
+- The ensemble of crop models reduces uncertainty.
+
+**Objectives**
+- To assess uncertainty in crop model outputs (crop yield, water use efficiency and energy use efficiency) using example systems such as wheat and potato at state (Tasmania) and national scale.
+- To investigate the variability of uncertainty over time and space.
+- To determine the contribution made by each source to predict uncertainty.
 
 #### Location
 Tasmanian Institute of Agriculture, University of Tasmania, Tasmania, Australia
