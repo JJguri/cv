@@ -43,7 +43,9 @@ url_video: ""
 slides: example
 ---
 
-### Wageningen University, The Netherlands; University of Gottingen and Leibniz Centre for Agricultural Landscape Research, Germany
+### Wageningen University, Wageningen, The Netherlands
+### University of Göttingen, Göttingen, Germany
+### Leibniz Centre for Agricultural Landscape Research, Müncheberg, Germany
 
 #### Period
 29 May - 17 June 2018

@@ -37,8 +37,8 @@ url_video: ""
 slides: example
 ---
 
-### Faculty of Veterinary Science, The University of Sydney, Camden, NSW
-### Tasmanian Institute of Agriculture, University of Tasmania, Burnie, TAS
+### Faculty of Veterinary Science, The University of Sydney, Camden, NSW, Australia
+### Tasmanian Institute of Agriculture, University of Tasmania, Burnie, TAS, Australia
 
 #### Period
 From October to December 2013

@@ -38,7 +38,7 @@ url_video: ""
 slides: example
 ---
 
-### Georg-August-Universität Göttingen, Germany
+### Georg-August-Universität Göttingen, Göttingen, Germany
 
 #### Period
 20 Apr - 15 May 2019

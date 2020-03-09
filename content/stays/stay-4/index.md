@@ -39,7 +39,7 @@ url_video: ""
 slides: example
 ---
 
-### Leibniz Centre for Agricultural Landscape Research, Germany
+### Leibniz Centre for Agricultural Landscape Research, Müncheberg, Germany
 
 #### Period
 12 Jan - 1 Feb 2020

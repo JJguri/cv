@@ -42,7 +42,7 @@ url_video: ""
 slides: example
 ---
 
-### Lucerne Workshop and Potato modelling, Lincoln New Zealand
+### Lucerne Workshop and Potato Modelling, Lincoln, New Zealand
 
 #### Period
 8 Sep - 1 Oct 2019

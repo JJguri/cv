@@ -40,7 +40,7 @@ url_video: ""
 slides: example
 ---
 
-### Department of Agronomy, Purdue University, West Lafayette, Indiana
+### Department of Agronomy, Purdue University, West Lafayette, Indiana, US
 
 #### Period
 From May 2015 to Mar 2016
