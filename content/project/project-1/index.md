@@ -49,7 +49,7 @@ The project will be conducted collaboratively with livestock industry decision m
 University of Southern Queensland (Australia), University of Buenos Aires (Argentina), University of Entre Rios (Argentina), Instituto Nacional de Investigación Agropecuaria (Uruguay), Association of Regional Consortiums of Agricultural Experimentation (Argentina and Uruguay)
 
 #### Funded by
-Council on Australia Latin America Relations (COALAR) Department of Foreing Affairs and Trade, Australian Government.
+Council on Australia Latin America Relations (COALAR) Department of Foreign Affairs and Trade, Australian Government.
 
 #### Grant amount
 AUD$54,952

@@ -35,6 +35,10 @@ slides: example
 
 ### About Demlie
 
+Demlie Zelelew obtained his bachelor’s degree in Soil and Water Management and Engineering at Haramaya University in Ethiopia and his master’s degree in Water Management and Environmental Engineering at Vienna University of Natural Resources and Life Sciences in Austria. Demlie has been working in agricultural research institution in Ethiopia for the past ten years and his interest of research areas are agricultural water management, integrated water resources management, climate change, soil and water conservation, integrated watershed management, soil acidity and salinity management.
+
+Demlie is now a PhD candidate at University of Tasmania in Australia, and he is seeking a smart irrigation agriculture which has economical profitability and a reduced trade-offs on ecosystem services by looking productivity, greenhouse gas emissions, water use efficiency (water footprint) and selected soil and water quality indicating parameters.
+
 **_Contact:_** DemlieGebresellassie.Zelelew@utas.edu.au
 
 ### About the project
