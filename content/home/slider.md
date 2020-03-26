@@ -7,7 +7,7 @@ weight = 59  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 4000
+interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -28,12 +28,12 @@ height = "calc(100vh - 70px)"
   # overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  # cta_label = "Get Academic"
-  # cta_url = "https://sourcethemes.com/academic/"
-  # cta_icon_pack = "fas"
-  # cta_icon = "graduation-cap"
+  # Activate the button by specifying a URL and button label below.
+  # Deactivate by commenting out parameters, prefixing lines with `#`.
+   cta_label = "Watch potato sampling video"
+   cta_url = "https://www.dropbox.com/s/ekpfz4nb7ti7bgl/potato.MOV?dl=0"
+   cta_icon_pack = "fas"
+   cta_icon = "video"
 
 [[item]]
   # title = "Projects"
