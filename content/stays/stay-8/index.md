@@ -50,7 +50,7 @@ slides: example
 
 #### Activities
 
-We conducted a workshop with under our CRC Soils project in Brisbane. During this meeting we discussed current advances of model development on phosphorus and soil water dynamics. We also setup the main modelling priorities with farming group representatives. After this meeting, I was intensively working with Dr Pembleton and Ms Lai on the model calibration using national and international datasets. In collaboration with Dr Volenec and Brouder (Purdue University) we started the model calibration using lucerne as main case study. The next step of this project is to update the P submodel in the APSIM-Wheat model.
+We conducted a workshop under our CRC soil project in Brisbane. During this meeting, we discussed current advances in model development on phosphorus and soil water dynamics. We also set up the main modeling priorities with farming group representatives. After this meeting, I was intensively working with Dr. Pembleton and Ms. Lai on the model calibration using national and international datasets. In collaboration with Dr. Volenec and Brouder (Purdue University) we started the model calibration using lucerne as the main case study. The next steps of this project are the update of the P submodel in the APSIM-Wheat model and to parametrize APSIM Next Generation to model N dynamics in SugarCane systems.
 
 #### Achievements
 

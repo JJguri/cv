@@ -49,19 +49,19 @@ slides: example
 
 #### Activities
 
-I participated in a 2-week workshop organised by Dr Derrick Moot (Dryland Pastures Research Team) focused on lucerne eco-physiology and modelling. A group of more than 30 international researchers discussed how to better predict the behaviour of this crop using current modelling tools. The main topics discussed during this workshop are listed below: 
+I participated in a 2-week workshop organized by Dr. Derrick Moot (Dryland Pastures Research Team) focused on lucerne eco-physiology and modeling. A group of more than 30 international researchers discussed how to better predict the behavior of this crop using current modeling tools. The main topics discussed during this workshop are listed below: 
 
 * Growth and development.
 * Overview of current models being used. APSIM, STICS, HERMES.
 * Phenology and canopy characteristics.
 * Dry matter accumulation and partitioning, fall dormancy.
-* Soil water dynamics and modelling water stress effects on lucerne.
+* Soil water dynamics and modeling water stress effects on lucerne.
 * Soils, limiting situations, grazing and model applications.
 * Nitrogen fixation/soil carbon and N dynamics. 
 * Plant physiology, allometry, herbage quality, N dynamics.
-* On farm applications – examples for farm systems.
+* On-farm applications – examples for farm systems.
 
-I also spent one week at the Plant and Food Research Institute working with Dr Hamish Brown. We focused our work on the analysis of crop model configuration using the potato APSIM model as a case study.
+I also spent one week at the Plant and Food Research Institute working with Dr. Hamish Brown. We focused our work on the analysis of crop model configuration using the potato APSIM model as a case study.
 
 #### Achievements
 

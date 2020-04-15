@@ -49,16 +49,16 @@ url_video: ""
 slides: ""
 ---
 
-Good livestock management and policies are crucial to maintaining economic stability, while addressing the challenges of climate change. Yet the policies and practices guiding the industry vary by region and nation. 
+Good livestock management and policies are crucial to maintaining economic stability while addressing the challenges of climate change. Yet the policies and practices guiding the industry vary by region and nation. 
 
 We will assess how crop-livestock practices impact farm performance regionally under
 different climate change scenarios. Coupling existing multiple-scaling and remote-sensing
 techniques with advanced biophysical models we will evaluate drivers of yield variability for
-feed systems in Argentina, Uruguay and Australia.
+feed systems in Argentina, Uruguay, and Australia.
 
-This project will hold three workshops. The workshops aim to assess how crop-livestock management practices impact regional farming performance under different climate change scenarios. Technologies, which will be used to assess the yield variability for diverse forage cropping systems, include existing model-scaling and remote-sensing techniques developed in Argentina (the most advanced biophysical models in the world). These assessments will take place in Argentina, Uruguay, and Australia. The workshops will also strengthen crop-livestock management skills for the three countries in different areas: systems modelling (Australia), remote-sensing system (Argentina), and livestock systems analysis (Uruguay). 
+This project will hold three workshops. The workshops aim to assess how crop-livestock management practices impact regional farming performance under different climate change scenarios. Technologies, which will be used to assess the yield variability for diverse forage cropping systems, include existing model-scaling and remote-sensing techniques developed in Argentina (the most advanced biophysical models in the world). These assessments will take place in Argentina, Uruguay, and Australia. The workshops will also strengthen crop-livestock management skills for the three countries in different areas: systems modeling (Australia), remote-sensing system (Argentina), and livestock systems analysis (Uruguay). 
 
-The project will be conducted collaboratively with livestock industry decision makers who will perform foresighting exercises to explore alternative futures. This will facilitate the development of forage crop regional management and preparation for environmental impacts.
+The project will be conducted collaboratively with livestock industry decision-makers who will perform foresight exercises to explore alternative futures. This will facilitate the development of forage crop regional management and preparation for environmental impacts.
 
 #### Partners
 University of Southern Queensland (Australia), University of Buenos Aires (Argentina), University of Entre Rios (Argentina), Instituto Nacional de Investigación Agropecuaria (Uruguay), Association of Regional Consortiums of Agricultural Experimentation (Argentina and Uruguay)

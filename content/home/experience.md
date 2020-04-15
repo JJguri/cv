@@ -67,12 +67,12 @@ Tasmanian Institute of Agriculture (AUD $336,423)
 
 **Research**
 - Participate actively in the preparation for national and international proposals and research grants.
-- Participate in dissemination activities related with my research line.
-- Collect, analyze and interpret results, prepare seminars, workshop presentations, and present oral and written scientific reports papers in high quality journals.
+- Participate in dissemination activities related to my research line.
+- Collect, analyze and interpret results, prepare seminars, workshop presentations, and present oral and written scientific reports papers in high-quality journals.
 
 **Teaching**
 - Post-graduate (~15 students) and undergraduate (~50 students) courses on crop ecophysiology and agricultural systems.
-- Advised one Honours thesis (Bachelor degree in Agronomy) at National University of Entre Ríos. Honours thesis description: Impact of cover crops with different defoliation levels on soil carbon.
+- Advised one Honours thesis (Bachelor's degree in Agronomy) at the National University of Entre Ríos. Honors thesis description: Impact of cover crops with different defoliation levels on soil carbon.
 
 ###### Funded by:
 Research Council of Argentina, CONICET (AUD $35,568)

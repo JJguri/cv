@@ -37,7 +37,7 @@ slides: example
 
 ### About Ranju
 
-Ranju is a young researcher originally from Nepal. Ranju's research interest is within the field of water resources considering climate change impact and adaptation in water resources, ecohydrology and agriculture. She did her Master in Water Engineering and Management at the Asian Institute of Technology and then she worked as Research Associate for three years before to start her PhD at UTAS.
+Ranju is a young researcher originally from Nepal. Ranju's research interest is within the field of water resources considering climate change impact and adaptation in water resources, ecohydrology, and agriculture. She did her Master in Water Engineering and Management at the Asian Institute of Technology and then she worked as Research Associate for three years before starting her Ph.D. at UTAS.
 
 **_Contact:_** Ranju.Chapagain@utas.edu.au
 
@@ -46,12 +46,12 @@ Ranju is a young researcher originally from Nepal. Ranju's research interest is 
 This project aims to quantify model prediction uncertainty in crop model system using example crops such as potato, for Tasmania and Australia and to test the hypothesis that predicted model outputs vary with the different sources of input, models used for simulation and model parameters.
 
 **General research question**
-- How do model outputs (e.g. crop yield, water and energy use efficiency) vary with different inputs, simulation models and model parameters while predicting uncertainty for crop model system using example crops such as potato at regional and national scale?
+- How do model outputs (e.g. crop yield, water, and energy use efficiency) vary with different inputs, simulation models and model parameters while predicting uncertainty for crop model system using example crops such as potato at a regional and national scale?
 
 **Specific research questions**
 - What are the dominant sources of uncertainty in crop model systems, using potato and wheat as example crops?
 - How much weight does each uncertainty source contribute to the total uncertainty?
-- What is the relative contribution of different sources of uncertainty with crop model systems, using potato as example crop?
+- What is the relative contribution of different sources of uncertainty with crop model systems, using potato as an example crop?
 
 **Hypotheses**
 - Uncertainty in soil data outweighs uncertainty due to climate and management practices in crop model systems.

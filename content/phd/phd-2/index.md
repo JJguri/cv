@@ -50,8 +50,8 @@ Francesco enjoys playing basketball and guitar.
 
 ### About the project
 
-The proposed research aims at exploring which type of diversification can provide the benefits discussed above and in which context it can be a solution to sustainable agriculture with the overarching research question being To what extent can the productivity, profitability and sustainability of agricultural systems in Australia and globally benefit from being diverse? The two hypotheses to test and either providence evidence for or reject are:
-* Extensive/mixed agroecosystems are higher in diversity and/or more resilient to climate change than highly specialised systems, such as monocultures.
+The proposed research aims at exploring which type of diversification can provide the benefits discussed above and in which context it can be a solution to sustainable agriculture with the overarching research question being To what extent can the productivity, profitability, and sustainability of agricultural systems in Australia and globally benefit from being diverse? The two hypotheses to test and either providence evidence for or reject are:
+* Extensive/mixed agroecosystems are higher in diversity and/or more resilient to climate change than highly specialized systems, such as monocultures.
 * Increasing agricultural and tree biodiversity within the broader landscape will improve productivity, deliver ecosystem services, and improve rural livelihoods.
 
 #### Location

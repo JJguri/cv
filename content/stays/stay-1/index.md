@@ -45,7 +45,7 @@ From October to December 2013
 
 #### Activities
 
-As an APSIM trainee, I was a visiting scholar at the Dairy group of The University of Sydney in Camden and at the Tasmanian Institute of Agriculture, University of Tasmania. We used experimental field data collected in several locations of Argentina and Australia to evaluate the ability of APSIM Classic to simulate the growth patterns of annual and perennial forage crops, and to predict dry matter yields in these regions. We also evaluated the APSIM ability to predict forage dry matter yield and water productivity of multiple continuous forage crop sequences.
+As an APSIM trainee, I was a visiting scholar at the Dairy group of The University of Sydney in Camden and at the Tasmanian Institute of Agriculture, University of Tasmania. We used experimental field data collected in several locations of Argentina and Australia to evaluate the ability of APSIM Classic to simulate the growth patterns of annual and perennial forage crops and to predict dry matter yields in these regions. We also evaluated the APSIM ability to predict forage dry matter yield and water productivity of multiple continuous forage crop sequences.
 
 #### Achievements
 

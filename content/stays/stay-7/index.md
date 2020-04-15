@@ -49,12 +49,12 @@ slides: example
 
 #### Activities
 
-Dr Octavio Caviglia and I conducted a 3-day advanced modelling workshop at National University of Entre Rios. This workshop aimed to introduce the basis to run APSIM using real case studies from Argentina. The workshop included more than 15 participants (graduate and postgraduate students and INTA researchers). The main topics addressed were:
+Dr. Octavio Caviglia and I conducted a 3-day advanced modeling workshop at the National University of Entre Rios. This workshop aimed to introduce the basics to run APSIM using real case studies from Argentina. The workshop included more than 15 participants (graduate and postgraduate students and INTA researchers). The main topics addressed were:
 
-* Introduction to crop simulation models, modelling phases, spatial and temporal scales, statistical analyses.
-* Model complexity, model parameterisation and evaluation, sensitivity analysis and model intercomparison e.g. APSIM _vs._ others biophysical models such as DSSAT, STICS.
+* Introduction to crop simulation models, modeling phases, spatial and temporal scales, statistical analyses.
+* Model complexity, model parameterization, and evaluation, sensitivity analysis and model intercomparison e.g. APSIM _vs._ others biophysical models such as DSSAT, STICS.
 * Minimum data requirements for model simulation.
-* Modelling single crops, crop sequences and long-term rotations. Factorials and scenario analysis.
+* Modelling single crops, crop sequences, and long-term rotations. Factorials and scenario analysis.
 
 #### Achievements
 

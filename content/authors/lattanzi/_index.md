@@ -62,6 +62,6 @@ user_groups:
 ### Research visitor from Uruguay
 #### 12-13 November 2018
 
-Dr Lattanzi’s work focuses on the physiology, ecology and agronomy of forage plants. Since 2015, he is the Director of the Research Program on Pastures and Forages at the Instituto Nacional de Investigación Agropecuaria (INIA) Uruguay. His research spans from breeding of new cultivars to the design of management strategies for sown pastures and natural grasslands. Dr Lattanzi main research aim is to develop systems that combine efficient production with controlled environmental impact.
+Dr. Lattanzi’s work focuses on the physiology, ecology, and agronomy of forage plants. Since 2015, he is the Director of the Research Program on Pastures and Forages at the Instituto Nacional de Investigación Agropecuaria (INIA) Uruguay. His research spans from the breeding of new cultivars to the design of management strategies for sown pastures and natural grasslands. Dr. Lattanzi's main research aim is to develop systems that combine efficient production with controlled environmental impact.
 
-Dr Ojeda received the visit of Dr Lattanzi to discuss possible collaborations in the pasture and systems modelling space. During this short stay, they conducted two workshops at Sandy Bay and Cradle Coast Campus UTAS.
+Dr. Ojeda received the visit of Dr. Lattanzi to discuss possible collaborations in the pasture and systems modeling space. During this short stay, they conducted two workshops at Sandy Bay and Cradle Coast Campus UTAS.
