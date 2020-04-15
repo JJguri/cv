@@ -60,7 +60,7 @@ user_groups:
 - Visitors
 ---
 ### Research visitor from Argentina
-#### 16-20 March 2018
+#### 16-20 March 2020
 
 Jose is an Agricultural Engineer from University of Tucuman, Argentina. He worked as a biosecurity inspector for the National Argentinian Government who oversee exportation programs for citrus, blueberries and tobacco, and supervising the harvest in grain productions like soybean, maize and black bean before moving to Australia. While in Australia he worked in farms around New South Wales and Victoria to learn about Australia’s agricultural and livestock production systems.
 
