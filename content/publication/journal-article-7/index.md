@@ -35,7 +35,7 @@ tags:
 - Simulation modelling
 - Spatial variability
 - Temporal patterns
-- Climate change
+- Climate Change
 - Weather data
 
 featured: true

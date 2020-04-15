@@ -11,7 +11,7 @@ tags:
 - Input uncertainty
 - Drought
 - Heat stress
-- Climate change
+- Climate Change
 - Weather data
 
 date: "2019-04-20T00:00:00Z"

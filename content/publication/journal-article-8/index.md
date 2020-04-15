@@ -43,7 +43,7 @@ tags:
 - Data aggregation
 - Spatial heterogeneity
 - Model uncertainty
-- Climate change
+- Climate Change
 - Weather data 
 featured: true
 
