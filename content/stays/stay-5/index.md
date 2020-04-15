@@ -9,6 +9,10 @@ tags:
 - Data aggregation
 - Spatial heterogeneity
 - Input uncertainty
+- Drought
+- Heat stress
+- Climate change
+- Weather data
 
 date: "2019-04-20T00:00:00Z"
 

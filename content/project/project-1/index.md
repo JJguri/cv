@@ -7,6 +7,8 @@ tags:
 - Data asimilation
 - Spatio-temporal variability
 - APSIM Next Generation
+- Climate change
+- Weather data 
 
 date: "2019-11-29T00:00:00Z"
 
@@ -48,6 +50,11 @@ slides: ""
 ---
 
 Good livestock management and policies are crucial to maintaining economic stability, while addressing the challenges of climate change. Yet the policies and practices guiding the industry vary by region and nation. 
+
+We will assess how crop-livestock practices impact farm performance regionally under
+different climate change scenarios. Coupling existing multiple-scaling and remote-sensing
+techniques with advanced biophysical models we will evaluate drivers of yield variability for
+feed systems in Argentina, Uruguay and Australia.
 
 This project will hold three workshops. The workshops aim to assess how crop-livestock management practices impact regional farming performance under different climate change scenarios. Technologies, which will be used to assess the yield variability for diverse forage cropping systems, include existing model-scaling and remote-sensing techniques developed in Argentina (the most advanced biophysical models in the world). These assessments will take place in Argentina, Uruguay, and Australia. The workshops will also strengthen crop-livestock management skills for the three countries in different areas: systems modelling (Australia), remote-sensing system (Argentina), and livestock systems analysis (Uruguay). 
 

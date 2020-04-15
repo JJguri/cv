@@ -25,6 +25,7 @@ interests:
 - Environmental data analysis
 - Soil-plant-climate interactions
 - Crop model development
+- Climate change impact analysis 
 
 education:
   courses:
