@@ -39,7 +39,7 @@ date_format = "Jan 2006"
 - Point-based crop model calibration/validation under the Water for Profit program in Tasmania, Australia.
 - Develop a new potato module in APSIM Next Generation. Evaluating how accurately APSIM NG simulates potato productivity across several agricultural systems worldwide.
 
-Applied research and industry engagement**
+**Applied research and industry engagement**
 - Develop a virtual tool to analyze future scenarios to decision support for dual-purpose crops (canola and wheat) in Tasmania (Australia) in collaboration with GRDC and CSIRO.
 - Collect and organize several potato agricultural datasets (climate, soil and crop management) from industry partners across Tasmania (Simplot and McCain) for modelling purposes and scenario analysis with farmers.
 - Conduct workshops with Australian farming groups under a CRC Soil project focused on model development to evaluate the effect of soil constraints on crop and soil productivity.
