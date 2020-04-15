@@ -29,19 +29,25 @@ date_format = "Jan 2006"
 ###### Responsibilities:
   
 **Basic research and methods**
-- Quantification of crop model uncertainties (input, structure and parameter uncertainty) using sensitivity analysis tools. Lead a cooperative project with German and Spanish partners.
-- Examine alternative existing model-scaling techniques and assess the drivers of yield variability at regional scale (gridded based crop simulations) for the potential agricultural areas under several environments.
-- Point based crop model calibrations and validations under the Water for Profit project funded by DPIPWE, Tasmania.
-- Develop a new potato module in APSIM Next Gen. Evaluating how accurately APSIM Next Gen simulates potato productivity across several agricultural systems worldwide.
+- Uncertainty analysis in climate change impact studies for irrigated maize systems in Spain.
+- Impact assessment of livestock farm performances regionally under different climate change scenarios in Australia, Argentina, and Uruguay.
+- Development of a tool to download gridded climate data in an APSIM format from SILO datasets across Australia.
+- Model phenological variation with sowing date and cultivar for lentil and faba bean against the climatic patterns of frost and heat in Australia. 
+- Coupling existing multiple-scaling and remote-sensing techniques with advanced biophysical models to evaluate drivers of yield variability in Australia, Argentina, and Uruguay.
+- Quantification of crop model uncertainties (input, structure and parameter uncertainty) using sensitivity analysis tools such as Sobol, Morris, ANOVA.
+- Examine alternative existing model-scaling techniques and assess drivers of yield variability at the regional scale (gridded based crop simulations).
+- Point-based crop model calibration/validation under the Water for Profit program in Tasmania, Australia.
+- Develop a new potato module in APSIM Next Generation. Evaluating how accurately APSIM NG simulates potato productivity across several agricultural systems worldwide.
 
-**Applied research and industry engagement**
-- Developing a virtual tool to analyse future scenarios to decision support for dual-purpose crops (canola and wheat) in Tasmania in collaboration with Grains Research and Developmen Corporation and CSIRO.
-- Collecting and organize several potato agricultural datasets (climate, soil and crop management) from industry partners across Tasmania (Simplot and McCain) with modelling purposes.
-- Conduct workshops with Australian farming groups under a CRC Soil project focus on the development of model to evaluate the effect of soil coinstraints on crop productivity. 
+Applied research and industry engagement**
+- Develop a virtual tool to analyze future scenarios to decision support for dual-purpose crops (canola and wheat) in Tasmania (Australia) in collaboration with GRDC and CSIRO.
+- Collect and organize several potato agricultural datasets (climate, soil and crop management) from industry partners across Tasmania (Simplot and McCain) for modelling purposes and scenario analysis with farmers.
+- Conduct workshops with Australian farming groups under a CRC Soil project focused on model development to evaluate the effect of soil constraints on crop and soil productivity.
+- Lead workshops with livestock industry decision-makers who will perform foresight exercises to explore alternative futures under climate change scenarios in Argentina, Uruguay, and Australia.
 
-**Couching, supervision and leadership activities**
-- Supervise PhD students in collaboration with external co-supervisors (CSIRO, IMAS-UTAS).
-- UTAS Data Network Co-director (Mar-2019 to Nov-2019). Lead discussion and meeting for a group of people interested in data magement across the University.
+**Coaching, supervision and leadership activities**
+- Supervise Ph.D. students in collaboration with external co-supervisors (CSIRO Brisbane and Toowoomba).
+- UTAS Data Network Co-director (Mar-2019 to Nov-2019). Lead discussion and meeting for a group of researchers interested in data management across the University.
 
 ###### Funded by:
 Tasmanian Institute of Agriculture (AUD $336,423)
