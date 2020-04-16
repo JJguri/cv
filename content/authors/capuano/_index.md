@@ -34,10 +34,10 @@ education:
     year: 2020
   - course: Fumigation Treatments with Methyl Bromide and Cold air Chambers
     institution: CIAZT, Argentina
-    year: 2014
+    year: 2015
   - course: Agricultural Engineer
     institution: National University of Tucuman, Argentina
-    year: 2012
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
