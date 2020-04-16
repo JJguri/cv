@@ -21,8 +21,8 @@ organizations:
 #bio: My work focuses on the physiology, ecology and agronomy of forage plants.
 
 interests:
-- Farming Systems
-- Decision Support Systems
+- Farming systems
+- Decision support systems
 - Crop modelling
 - Whole-farm analysis
 - Systems modelling
