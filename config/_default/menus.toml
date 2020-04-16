@@ -24,28 +24,28 @@
   weight = 40
 
 [[main]]
+  name = "Partners"
+  url = "#people"
+  weight = 50
+  
+[[main]]
   name = "Projects"
   url = "#slider"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Research Exchange"
   url = "#stays"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "PhD Supervision"
   url = "#phd"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "Talks"
   url = "#talks"
-  weight = 80
-
-[[main]]
-  name = "Partners"
-  url = "#people"
   weight = 90
 
 [[main]]
