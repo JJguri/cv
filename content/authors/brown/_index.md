@@ -21,8 +21,8 @@ organizations:
 #bio: My work focuses on the physiology, ecology and agronomy of forage plants.
 
 interests:
-- Development of crop models
-- Genotype*environment interactions
+- Crop model development
+- Genotype-environment interactions
 - Crop eco-physiology
 - Model development 
 - Soil-plant-climate interactions
