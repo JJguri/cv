@@ -61,4 +61,4 @@ During the last 20 years, Dr. Brown developed knowledge of a wide range of proce
 
 Dr. Brown is also an expert in the field of crop and soil water studies where he has developed a detailed understanding of the impact of soil and weather on crop water use and crop growth. He has designed and commissioned sophisticated systems for soil water measurement and developed new approaches for monitoring canopy energy balance and estimating evapotranspiration.
 
-Dr. Brown and Dr. Ojeda are collaborating on the development of Python tools to test crop model configuration. They are also developing an updated version of a potato model in APSIM Next Generation.
+Dr. Brown and Dr. Ojeda are collaborating on the development of Python tools e.g. [PotatoCalibration](https://github.com/HamishBrownPFR/APSIMTools/blob/master/PotatoCalibration.ipynb) to test crop model configuration. They are also developing an updated version of a potato model in APSIM Next Generation.
