@@ -56,7 +56,7 @@ user_groups:
 - Collaborators in Australia
 ---
 
-Dr Waha is an agricultural geographer and geo-ecologist interested in multidisciplinary research to understand interactions between the atmosphere, biosphere and human societies of relevance for agricultural systems. She has been trained as a physical geographer and climate change impact scientist and earned MSc and PhD degrees from the universities of Leipzig and Potsdam in Germany and moved to Australia in 2014.
+Dr. Waha is an agricultural geographer and geo-ecologist interested in multidisciplinary research to understand interactions between the atmosphere, biosphere and human societies of relevance for agricultural systems. She has been trained as a physical geographer and climate change impact scientist and earned MSc and PhD degrees from the universities of Leipzig and Potsdam in Germany and moved to Australia in 2014.
 
 Katharina is a team leader in the Global Food and Nutrition Security group at CSIRO. Her two areas of interest are: climate change impacts on agriculture and adaptation, and the geography, structure and evolution of agricultural systems. Geographers are interested in anything affecting the spatial patterns of the Earth’s surface and for her, the most interesting drivers are global change and human development.
 
