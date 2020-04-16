@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "International Partners"
+title = "Partners"
 subtitle = ""
 
 [content]
@@ -17,8 +17,10 @@ subtitle = ""
                  "Researchers",
                  "Grad Students",
                  "Administration",
-                 "Visitors",
-                 "Alumni"]
+                 "International Visitors",
+                 "Alumni",
+                 "International Collaborators",
+                 "Collaborators in Australia"]
 
 [design]
   # Show user's social networking links? (true/false)

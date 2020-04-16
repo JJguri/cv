@@ -57,7 +57,7 @@ email: "fernando.lattanzi@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- International Visitors
 ---
 ### Research visitor from Uruguay
 #### 12-13 November 2018

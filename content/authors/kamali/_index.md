@@ -56,7 +56,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- International Visitors
 ---
 ### Research visitor from Germany
 #### 16 Feb to 11 Mar 2020

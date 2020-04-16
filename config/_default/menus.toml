@@ -44,7 +44,7 @@
   weight = 80
 
 [[main]]
-  name = "Visitors"
+  name = "Partners"
   url = "#people"
   weight = 90
 
