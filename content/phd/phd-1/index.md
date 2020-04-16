@@ -1,6 +1,6 @@
 ---
 slug: "ranju"
-title: Estimating Uncertainty in Agricultural Model Scaling
+title: Estimating Uncertainty in Crop Models
 summary: Ranju Chapagain
 tags:
 - Prediction uncertainty

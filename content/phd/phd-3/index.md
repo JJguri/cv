@@ -1,10 +1,13 @@
 ---
 slug: "demlie"
-title: Quantifying the economic and ecosystem services of irrigated agriculture, a spatial-statistical approach based on regional water flux predictions
+title: Modelling the effects of farming intensification on the productivity, profitability, greenhouse gas emissions and ecosystems services in agroforestry and livestock systems
 summary: Demlie Gebresellassie Zelelew
 tags:
-- Crop intensification
+- Livestock intensification
 - Modelling
+- Greenhouse gas emissions
+- Climate change
+- Ecosystems services
 
 date: "2020-01-16T00:00:00Z"
 
@@ -42,6 +45,13 @@ Demlie is now a Ph.D. candidate at the University of Tasmania in Australia, and 
 **_Contact:_** DemlieGebresellassie.Zelelew@utas.edu.au
 
 ### About the project
+
+The project has the following objectives:
+
+- Assess the land-use change of agroforestry and livestock farms and estimate its impact on GHG emissions and ecosystem services (e.g. N leaching) in Australia during the last three decades.
+- Compare the greenhouse gas emissions, profit and productivity for different levels of intensification (stocking rate, fertilizer, irrigation) as the proportion of trees on agroforestry farm increases.
+- Quantify the effect to increase the area of trees on ecosystems services such as biodiversity, soil water (leakage) and soil nitrogen (nitrate leaching) for a gradient of intensification in agroforestry and livestock systems.
+- Estimate the effects of future climate change on GHG emission, productivity, profitability and trade-offs on ecosystems services of a gradient of intensification in agroforestry and livestock systems.
 
 ### Location
 Tasmanian Institute of Agriculture, University of Tasmania, Tasmania, Australia
