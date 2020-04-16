@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Head of integrated crop system analysis group
+role: Head of Integrated Crop System Analysis Group
 
 # Organizations/Affiliations
 organizations:
