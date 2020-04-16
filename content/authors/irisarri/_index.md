@@ -32,13 +32,13 @@ education:
   courses:
   - course: PhD, Agricultural Science
     institution: University of Buenos Aires, Argentina 
-    year: 2016
+    year: 2012
   - course: MSc, Natural Resources
     institution: University of Buenos Aires, Argentina  
-    year: 2009
+    year: 2008
   - course: Agricultural Engineer
     institution: University of Buenos Aires, Argentina 
-    year: 2007
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
