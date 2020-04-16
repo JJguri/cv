@@ -69,4 +69,4 @@ user_groups:
 
 Dr. Rezaei's interest is the development and application of dynamic crop models to the analysis of agricultural systems' response to climate variability and change over large scales. In addition, he is interested to learn mechanisms of cereal responses to heat and drought stress at crop level.
 
-Dr. Ojeda and Dr. Rezaei are collaborating in a joint research project between Germany and Australia, writting papers and supervising Ph.D. students.
+Dr. Ojeda and Dr. Rezaei are collaborating in a joint research project between Germany and Australia [(UA-DAAD)]({{< ref"/content/project/project-2/index.md">}}), writting papers and supervising a [Ph.D. student]({{< ref"/content/phd/phd-1/index.md">}}).
