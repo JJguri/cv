@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sowing date | Academic</title>
+    <link>//localhost:1313/tags/sowing-date/</link>
+      <atom:link href="//localhost:1313/tags/sowing-date/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sowing date</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Sowing date</title>
+      <link>//localhost:1313/tags/sowing-date/</link>
+    </image>
+    
+    <item>
+      <title>ZALF</title>
+      <link>//localhost:1313/stays/zalf/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/zalf/</guid>
+      <description>&lt;h3 id=&#34;leibniz-centre-for-agricultural-landscape-research-müncheberg-germany&#34;&gt;Leibniz Centre for Agricultural Landscape Research, Müncheberg, Germany&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;12 Jan - 1 Feb 2020&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;I was working in collaboration with Dr. Bahareh Kamali, Dr. Heidi Webber at the Leibniz Centre for Agricultural Landscape Research. I also interacted with Dr. Ignacio Lorite Torres (IFAPA, Spain) who is also a key collaborator of this research project. We quantified the share of different drivers of yield variability stemming from climatic factors (drought, heat stress, climate change) and non-climatic factors (irrigation strategy and cultivars) for irrigated systems and measured the associated uncertainty of each driver in climate change impact studies. We used a combination of process-based crop models with machine-learning algorithms to explore the underlying reasons for yield variability over 18 years of irrigated maize in Andalusia, Spain. The drivers of variability were identified at different irrigation strategies, cultivated with different cultivars. The underlying factors of yield variability were measured and the possible pathways to reduce yield variabilities were investigated. More specifically, we addressed the below key questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Which climatic and non-climatic factors are dominant in explaining irrigated maize yield variability for impact assessment studies? Which factor contributes the greatest share to yield variability?&lt;/li&gt;
+&lt;li&gt;How do the drivers of maize yield variability differ under different genotypes, irrigation strategies, sowing dates, and crop model structures?&lt;/li&gt;
+&lt;li&gt;How do the roles of different factors change under different climatic extremes?&lt;/li&gt;
+&lt;li&gt;What is the level of uncertainty stemming from different drivers for climate change impact assessment studies?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Two manuscripts in preparation to be submitted soon.&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr Bahareh Kamali, Dr Heidi Webber, Dr Frank Ewert (Leibniz Centre for Agricultural Landscape Research)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Australia-Germany Joint Research Co-operation Scheme, Universities Australia, German Academic Exchange Service (DAAD)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regional modelling | Academic</title>
+    <link>//localhost:1313/tags/regional-modelling/</link>
+      <atom:link href="//localhost:1313/tags/regional-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Regional modelling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Regional modelling</title>
+      <link>//localhost:1313/tags/regional-modelling/</link>
+    </image>
+    
+    <item>
+      <title>Effects of soil- and climate data aggregation on simulated potato yield and irrigation water requirement</title>
+      <link>//localhost:1313/publication/effects-of-data-aggregation/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/effects-of-data-aggregation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Gottingen</title>
+      <link>//localhost:1313/stays/gottingen/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/gottingen/</guid>
+      <description>&lt;h3 id=&#34;georg-august-universität-göttingen-göttingen-germany&#34;&gt;Georg-August-Universität Göttingen, Göttingen, Germany&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;20 Apr - 15 May 2019&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;In collaboration with Dr. Ehsan Eyshi Rezaei and Dr. Stefan Siebert at the University of Gottingen, we worked in a research paper based on quantifying data aggregation effects (from soil [DAEs] and climate [DAEc] ) of model input data and their combined impacts for simulated irrigated and rainfed yield and irrigation water requirements (IWR). This study highlights the need to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Separately quantify the impact of input data aggregation on model outputs to inform about data aggregation error.&lt;/li&gt;
+&lt;li&gt;Identify those variables that explain these aggregation errors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In line with previous studies, DAEc was mainly driven by differences in elevation and DAEs were largely influenced by soil properties. Climate input data, mainly rainfall, play a key role as a driver of potato yield variability at high spatial resolution. At coarser resolutions, soil data aggregation can strongly affect simulated potato yield (under rainfed conditions) and IWR. This study can guide crop modelers when choosing the spatial resolution for regional simulation related to regional water use and climate change impact assessments. More research is needed to assess model responses to other potato management practices, such as nitrogen fertilization rate, planting density, and genotype. Crop modeling using input data at coarse resolution needs to consider DAEc and DAEs to quantify the bias associated with data aggregation. This bias, which may be significant, may skew decisionmaking at the regional level.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Paper published in Science of the Total Environment&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;p&gt;Dr Ehsan Eyshi Rezaei and Dr Stefan Siebert&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Australia-Germany Joint Research Co-operation Scheme, Universities Australia, German Academic Exchange Service (DAAD)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

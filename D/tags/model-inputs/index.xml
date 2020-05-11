@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model inputs | Academic</title>
+    <link>//localhost:1313/tags/model-inputs/</link>
+      <atom:link href="//localhost:1313/tags/model-inputs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Model inputs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Model inputs</title>
+      <link>//localhost:1313/tags/model-inputs/</link>
+    </image>
+    
+    <item>
+      <title>The BestiaPop - A Python package to automatically generate gridded climate data for crop models</title>
+      <link>//localhost:1313/project/project-6/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/project-6/</guid>
+      <description>&lt;p&gt;Climate data is an essential input for crop models to predict crop growth and development using site-specific (point) or gridded climate data. While point data is currently available in a readily APSIM format, gridded data is stored in NetCDF files which are difficult to store and convert to an input file readable by APSIM or other crop models. We developed BestiaPop, a Python package that allows model users to automatically download SILO&amp;rsquo;s (Scientific Information for Land Owners) gridded climate data in an APSIM format. The package offers the possibility to select a range of grids (5 km × 5 km resolution) and years producing a file with climate data available at SILO. The package was tested across areas suitable for potato (Solanum tuberosum L.) in Tasmania, Australia. A total of 1731 climate files across 20 years (1998-2017) were automatically downloaded and the spatio-temporal variability of climate inputs was mapped. The case study reveals that the implemented BestiaPop is a useful and efficient tool to automatically download gridded climate data in an APSIM format and could be extended to other crop models and regions across Australia.&lt;/p&gt;
+&lt;h4 id=&#34;parterns&#34;&gt;Parterns&lt;/h4&gt;
+&lt;p&gt;Diego Perez @darkquasar (Hydro Tasmania)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

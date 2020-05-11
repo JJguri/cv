@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>//localhost:1313/authors/</link>
+      <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Mon, 03 Feb 2020 17:20:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Authors</title>
+      <link>//localhost:1313/authors/</link>
+    </image>
+    
+    <item>
+      <title>Brown JN</title>
+      <link>//localhost:1313/authors/brown-jn/</link>
+      <pubDate>Mon, 03 Feb 2020 17:20:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/brown-jn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ewert F</title>
+      <link>//localhost:1313/authors/ewert-f/</link>
+      <pubDate>Mon, 03 Feb 2020 17:20:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/ewert-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eyshi Rezaei E</title>
+      <link>//localhost:1313/authors/eyshi-rezaei-e/</link>
+      <pubDate>Mon, 03 Feb 2020 17:20:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/eyshi-rezaei-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harris RMB</title>
+      <link>//localhost:1313/authors/harris-rmb/</link>
+      <pubDate>Mon, 03 Feb 2020 17:20:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/harris-rmb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kamali B</title>
+      <link>//localhost:1313/authors/kamali-b/</link>
+      <pubDate>Mon, 03 Feb 2020 17:20:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/kamali-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kidd DB</title>
+      <link>//localhost:1313/authors/kidd-db/</link>
+      <pubDate>Mon, 03 Feb 2020 17:20:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/kidd-db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meinke H</title>
+      <link>//localhost:1313/authors/meinke-h/</link>
+      <pubDate>Mon, 03 Feb 2020 17:20:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/meinke-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammed CL</title>
+      <link>//localhost:1313/authors/mohammed-cl/</link>
+      <pubDate>Mon, 03 Feb 2020 17:20:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/mohammed-cl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ojeda JJ</title>
+      <link>//localhost:1313/authors/ojeda-jj/</link>
+      <pubDate>Mon, 03 Feb 2020 17:20:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/ojeda-jj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remeny TA</title>
+      <link>//localhost:1313/authors/remeny-ta/</link>
+      <pubDate>Mon, 03 Feb 2020 17:20:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/remeny-ta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siebert S</title>
+      <link>//localhost:1313/authors/siebert-s/</link>
+      <pubDate>Mon, 03 Feb 2020 17:20:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/siebert-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webb MA</title>
+      <link>//localhost:1313/authors/webb-ma/</link>
+      <pubDate>Mon, 03 Feb 2020 17:20:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/webb-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webber HA</title>
+      <link>//localhost:1313/authors/webber-ha/</link>
+      <pubDate>Mon, 03 Feb 2020 17:20:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/webber-ha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brown J</title>
+      <link>//localhost:1313/authors/brown-j/</link>
+      <pubDate>Mon, 03 Feb 2020 09:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/brown-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapagain R</title>
+      <link>//localhost:1313/authors/chapagain-r/</link>
+      <pubDate>Mon, 03 Feb 2020 09:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/chapagain-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harris R</title>
+      <link>//localhost:1313/authors/harris-r/</link>
+      <pubDate>Mon, 03 Feb 2020 09:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/harris-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammed C</title>
+      <link>//localhost:1313/authors/mohammed-c/</link>
+      <pubDate>Mon, 03 Feb 2020 09:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/mohammed-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remenyi T</title>
+      <link>//localhost:1313/authors/remenyi-t/</link>
+      <pubDate>Mon, 03 Feb 2020 09:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/remenyi-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agnusdei MG</title>
+      <link>//localhost:1313/authors/agnusdei-mg/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/agnusdei-mg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caviglia OP</title>
+      <link>//localhost:1313/authors/caviglia-op/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/caviglia-op/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Irisarri JGN</title>
+      <link>//localhost:1313/authors/irisarri-jgn/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/irisarri-jgn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Errecart PM</title>
+      <link>//localhost:1313/authors/errecart-pm/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/errecart-pm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brouder SM</title>
+      <link>//localhost:1313/authors/brouder-sm/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/brouder-sm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volenec JJ</title>
+      <link>//localhost:1313/authors/volenec-jj/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/volenec-jj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garcia SC</title>
+      <link>//localhost:1313/authors/garcia-sc/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/garcia-sc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Islam MR</title>
+      <link>//localhost:1313/authors/islam-mr/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/islam-mr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pembleton KG</title>
+      <link>//localhost:1313/authors/pembleton-kg/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/pembleton-kg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/admin/</guid>
+      <description>&lt;p&gt;Jonathan is a Junior Research Fellow at the Tasmanian Institute of Agriculture, University of Tasmania. His research interests are in quantifying the effects of crop management and climate variability on soil-crop processes and integrating data into mechanistic models at different spatial scales. He has a passionate interest in disentangle sources of uncertainties in biophysical and mathematical models to better predict crop growth, both yield and quality and environmental impacts in agricultural systems. This requires a broad understanding of how the environment influences crop growth and development; how rainfall, irrigation, and fertilizer influence soil conditions; how crops obtain water and nutrients from the soil; how soil processes contribute to the loss of carbon and nitrogen; and how all these processes interact.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/authors/brown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/brown/</guid>
+      <description>&lt;p&gt;During the last 20 years, Dr. Brown developed knowledge of a wide range of processes that span a range of traditional disciplines. However, his greatest strength is in the ability to integrate knowledge from various fields and sources into models that summarise this knowledge and provide frameworks and tools for ongoing research and extension. As a result, he has become an expert in plant model development and application. The types of models he develops and the applications are broad but he is particularly interested in the expansion of plant models to better account for the effects of a wider range of biotic and abiotic factors.&lt;/p&gt;
+&lt;p&gt;Dr. Brown is also an expert in the field of crop and soil water studies where he has developed a detailed understanding of the impact of soil and weather on crop water use and crop growth. He has designed and commissioned sophisticated systems for soil water measurement and developed new approaches for monitoring canopy energy balance and estimating evapotranspiration.&lt;/p&gt;
+&lt;p&gt;Dr. Brown and Dr. Ojeda are collaborating on the development of Python tools e.g. 
+&lt;a href=&#34;https://github.com/HamishBrownPFR/APSIMTools/blob/master/PotatoCalibration.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PotatoCalibration&lt;/a&gt; to test crop model configuration. They are also developing an updated version of a potato model in APSIM Next Generation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/authors/capuano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/capuano/</guid>
+      <description>&lt;h3 id=&#34;research-visitor-from-argentina&#34;&gt;Research visitor from Argentina&lt;/h3&gt;
+&lt;h4 id=&#34;16-20-march-2020&#34;&gt;16-20 March 2020&lt;/h4&gt;
+&lt;p&gt;Jose is an Agricultural Engineer from University of Tucuman, Argentina. He worked as a biosecurity inspector for the National Argentinian Government who oversee exportation programs for citrus, blueberries and tobacco, and supervising the harvest in grain productions like soybean, maize and black bean before moving to Australia. While in Australia he worked in farms around New South Wales and Victoria to learn about Australia’s agricultural and livestock production systems.&lt;/p&gt;
+&lt;p&gt;Jose participated in the 
+&lt;a href=&#34;//localhost:1313/project/project-4/&#34;&gt;APSIM Potato Modelling Project&lt;/a&gt; helping Dr. Ojeda and his team gathering potato samples from commercial farms (Simplot and McCain) located across Central and Northern Tasmania and recording relevant data for the project. He is currently looking for jobs related to Tasmania’s fruit and horticultural industries, biosecurity and research projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/authors/irisarri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/irisarri/</guid>
+      <description>&lt;p&gt;Dr. Irisarri is a member of 
+&lt;a href=&#34;http://lart.agro.uba.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LART&lt;/a&gt; the main provider of monthly forage production information in Argentina and Uruguay through remote sensing. Dr. Irisarri and Dr. Ojeda trought the 
+&lt;a href=&#34;//localhost:1313/project/project-1/&#34;&gt;COALAR project&lt;/a&gt; funded by DFAT Australia and focused on understanding how crop-livestock management practices impact farm performance regionally under different climate change scenarios in Australia, Argentina, and Uruguay.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/authors/kamali/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/kamali/</guid>
+      <description>&lt;h3 id=&#34;research-visitor-from-germany&#34;&gt;Research visitor from Germany&lt;/h3&gt;
+&lt;h4 id=&#34;16-feb-to-11-mar-2020&#34;&gt;16 Feb to 11 Mar 2020&lt;/h4&gt;
+&lt;p&gt;Dr. Kamali is a post-doctoral researcher in the Research Platform &amp;ldquo;Models &amp;amp; Simulation&amp;rdquo; at the Leibniz Centre for Agricultural Landscape Research (ZALF), Germany. Dr. Kamali&amp;rsquo;s general research interest is large scale agroecosystem modeling, development, and implementation of approaches for model calibration, parameter estimation, and data assimilation. She is interested to learn methods to assimilate real-time remote-sensing data into agro-ecosystem models for a more accurate prediction of agricultural productivity and improved management of agricultural systems.&lt;/p&gt;
+&lt;p&gt;Dr. Ojeda hosted Dr. Kamali in Hobart to work in a joint research project under the 
+&lt;a href=&#34;//localhost:1313/project/project-2/&#34;&gt;Australia-Germany Joint Research Co-operation Scheme&lt;/a&gt;. They used a combination of process-based crop models with machine-learning algorithms to explore the underlying reasons for yield variability over 18 years of irrigated maize in Andalusia, Spain. The drivers of variability were identified at different irrigation strategies, cultivated with different cultivars. The underlying factors of yield variability were measured and the possible pathways to reduce yield variabilities were investigated. They are writing two papers together which will be submitted soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/authors/lattanzi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/lattanzi/</guid>
+      <description>&lt;h3 id=&#34;research-visitor-from-uruguay&#34;&gt;Research visitor from Uruguay&lt;/h3&gt;
+&lt;h4 id=&#34;12-13-november-2018&#34;&gt;12-13 November 2018&lt;/h4&gt;
+&lt;p&gt;Dr. Lattanzi’s work focuses on the physiology, ecology, and agronomy of forage plants. Since 2015, he is the Director of the Research Program on Pastures and Forages at the Instituto Nacional de Investigación Agropecuaria (INIA) Uruguay. His research spans from the breeding of new cultivars to the design of management strategies for sown pastures and natural grasslands. Dr. Lattanzi&amp;rsquo;s main research aim is to develop systems that combine efficient production with controlled environmental impact.&lt;/p&gt;
+&lt;p&gt;Dr. Ojeda received the visit of Dr. Lattanzi to discuss possible collaborations in the pasture and systems modeling space. During this short stay, they conducted two workshops at Sandy Bay and Cradle Coast Campus UTAS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/authors/pembleton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/pembleton/</guid>
+      <description>&lt;p&gt;Dr Keith Pembleton is an Associate Professor in Plant Agricultural Science and the Group Research Leader of the Agricultural Systems Modelling Research group at the University of Southern Queensland (USQ). He has a diverse research and teaching portfolio ranging from pasture and crop physiology and agronomy to whole farm system and catchment modelling and analysis. He has a long history of working alongside and providing research support to the Australian dairy industry in both the temperature and subtropical dairy regions.&lt;/p&gt;
+&lt;p&gt;Dr Pembleton&amp;rsquo;s research group brings together biophysical crop and soil modellers with software developers to develop new and novel applications of existing models as well as develop new models and tools. At the centre of his program is a focus on understanding and minimising the risks within forage production systems. Dr Pembleton is the chair of the APSIM Initiative reference panel which has been established to promote the development and use of the science modules and infrastructure software of APSIM.&lt;/p&gt;
+&lt;p&gt;Dr Ojeda and Dr Pembleton started collaborations 7 years ago and they continue building research projects together. Currently, they are collaborating in two modelling projects. One project 
+&lt;a href=&#34;//localhost:1313/project/project-3/&#34;&gt;(CRC)&lt;/a&gt; is focused on the development of models to predict the effect of soil constraints on crop productivity. The second project 
+&lt;a href=&#34;//localhost:1313/project/project-1/&#34;&gt;(COALAR)&lt;/a&gt; aims to develop an integrated tool (remote sensing and biophysical models) to assess the impact of climate change on livestock productivity in Australia and Latin America.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/authors/rezaei/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/rezaei/</guid>
+      <description>&lt;p&gt;Dr. Rezaei&amp;rsquo;s interest is the development and application of dynamic crop models to the analysis of agricultural systems&amp;rsquo; response to climate variability and change over large scales. In addition, he is interested to learn mechanisms of cereal responses to heat and drought stress at crop level.&lt;/p&gt;
+&lt;p&gt;Dr. Ojeda and Dr. Rezaei are collaborating in a joint research project between Germany and Australia 
+&lt;a href=&#34;//localhost:1313/project/project-2/&#34;&gt;(UA-DAAD)&lt;/a&gt;, writting papers and supervising a 
+&lt;a href=&#34;//localhost:1313/phd/ranju/&#34;&gt;Ph.D. student&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/authors/waha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/waha/</guid>
+      <description>&lt;p&gt;Dr. Waha is an agricultural geographer and geo-ecologist interested in multidisciplinary research to understand interactions between the atmosphere, biosphere and human societies of relevance for agricultural systems. She has been trained as a physical geographer and climate change impact scientist and earned MSc and PhD degrees from the universities of Leipzig and Potsdam in Germany and moved to Australia in 2014.&lt;/p&gt;
+&lt;p&gt;Katharina is a team leader in the 
+&lt;a href=&#34;https://research.csiro.au/foodglobalsecurity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Food Systems and Global Change Team&lt;/a&gt; at CSIRO. Her two areas of interest are: climate change impacts on agriculture and adaptation, and the geography, structure and evolution of agricultural systems. Geographers are interested in anything affecting the spatial patterns of the Earth’s surface and for her, the most interesting drivers are global change and human development.&lt;/p&gt;
+&lt;p&gt;Core methods and tools that she develops and/or deploys are process-based cropping systems modelling, spatial analysis with GIS and R, scenario analysis, social science methods, uncertainty analysis, data integration and multi-scale analysis. Her recent research aims at contributing to a better understanding of the relationship between agricultural diversification and food security and the importance of multiple cropping for food production.&lt;/p&gt;
+&lt;p&gt;Dr. Waha and Dr. Ojeda conducted a joint 
+&lt;a href=&#34;//localhost:1313/phd/francesco/&#34;&gt;Ph.D. project&lt;/a&gt; between CSIRO and UTAS. This project aims to explore the benefits and limits of agricultural diversification in contrasting farming systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/authors/webber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/webber/</guid>
+      <description>&lt;p&gt;Dr. Webber is the leader of the integrated crop system analysis group at the Leibniz Centre for Agricultural Landscape Research. She develops modelling approaches to assess crop response to climate and abiotic stressors. Her research portfolio is focused on integrated biophysical, economic and policy assessments in diverse cropping systems.&lt;/p&gt;
+&lt;p&gt;Dr. Ojeda and Dr. Webber are collaborating on a joint research project between German and Australian organizations 
+&lt;a href=&#34;//localhost:1313/project/project-2/&#34;&gt;(UA-DAAD)&lt;/a&gt;. This project focuses on the analysis of climatic and non-climatic factors of yield variability in irrigated cropping systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

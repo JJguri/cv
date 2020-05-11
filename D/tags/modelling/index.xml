@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modelling | Academic</title>
+    <link>//localhost:1313/tags/modelling/</link>
+      <atom:link href="//localhost:1313/tags/modelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Modelling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Mon, 03 Feb 2020 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Modelling</title>
+      <link>//localhost:1313/tags/modelling/</link>
+    </image>
+    
+    <item>
+      <title>Historical and current approaches to decompose uncertainty in crop model predictions (poster)</title>
+      <link>//localhost:1313/talk/icropm-poster/</link>
+      <pubDate>Mon, 03 Feb 2020 09:00:00 +0000</pubDate>
+      <guid>//localhost:1313/talk/icropm-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the effects of farming intensification on the productivity, profitability, greenhouse gas emissions and ecosystems services in agroforestry and livestock systems</title>
+      <link>//localhost:1313/phd/demlie/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/phd/demlie/</guid>
+      <description>&lt;h3 id=&#34;about-demlie&#34;&gt;About Demlie&lt;/h3&gt;
+&lt;p&gt;Demlie Zelelew obtained his bachelor’s degree in Soil and Water Management and Engineering at Haramaya University in Ethiopia and his master’s degree in Water Management and Environmental Engineering at Vienna University of Natural Resources and Life Sciences in Austria. Demlie has been working in an agricultural research institution in Ethiopia for the past ten years and his interest in research areas are agricultural water management, integrated water resources management, climate change, soil and water conservation, integrated watershed management, crop modeling, water pollution, soil acidity, and salinity management.&lt;/p&gt;
+&lt;p&gt;Demlie is now a Ph.D. candidate at the University of Tasmania in Australia, and he is seeking smart irrigation agriculture which has economical profitability and reduced trade-offs on ecosystem services by looking at productivity, greenhouse gas emissions, water use efficiency (water footprint) and selected soil and water quality indicating parameters.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Contact:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;mailto:DemlieGebresellassie.Zelelew@utas.edu.au&#34;&gt;DemlieGebresellassie.Zelelew@utas.edu.au&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;about-the-project&#34;&gt;About the project&lt;/h3&gt;
+&lt;p&gt;The project has the following objectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Assess the land-use change of agroforestry and livestock farms and estimate its impact on GHG emissions and ecosystem services (e.g. N leaching) in Australia during the last three decades.&lt;/li&gt;
+&lt;li&gt;Compare the greenhouse gas emissions, profit and productivity for different levels of intensification (stocking rate, fertilizer, irrigation) as the proportion of trees on agroforestry farm increases.&lt;/li&gt;
+&lt;li&gt;Quantify the effect to increase the area of trees on ecosystems services such as biodiversity, soil water (leakage) and soil nitrogen (nitrate leaching) for a gradient of intensification in agroforestry and livestock systems.&lt;/li&gt;
+&lt;li&gt;Estimate the effects of future climate change on GHG emission, productivity, profitability and trade-offs on ecosystems services of a gradient of intensification in agroforestry and livestock systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
+&lt;p&gt;Tasmanian Institute of Agriculture, University of Tasmania, Tasmania, Australia&lt;/p&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;From January 2020 to January 2024&lt;/p&gt;
+&lt;h4 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h4&gt;
+&lt;p&gt;Dr Jonathan Ojeda, Dr Beth Penrose (primary supervisor), Dr Matt Harrison, Prof Caroline Mohammed (TIA-UTAS).&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;UTAS Tuition Fee: AUD$144,900&lt;/li&gt;
+&lt;li&gt;Tasmania Graduate Research Scholarship living allowance: AUD$108,328&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Entre Rios</title>
+      <link>//localhost:1313/stays/oroverde/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/oroverde/</guid>
+      <description>&lt;h3 id=&#34;apsim-advanced-training-workshop-oro-verde-argentina&#34;&gt;APSIM Advanced Training Workshop, Oro Verde, Argentina&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;31 Jul - 2 Aug 2019&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;Dr. Octavio Caviglia and I conducted a 3-day advanced modeling workshop at the National University of Entre Rios. This workshop aimed to introduce the basics to run APSIM using real case studies from Argentina. The workshop included more than 15 participants (graduate and postgraduate students and INTA researchers). The main topics addressed were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to crop simulation models, modeling phases, spatial and temporal scales, statistical analyses.&lt;/li&gt;
+&lt;li&gt;Model complexity, model parameterization, and evaluation, sensitivity analysis and model intercomparison e.g. APSIM &lt;em&gt;vs.&lt;/em&gt; others biophysical models such as DSSAT, STICS.&lt;/li&gt;
+&lt;li&gt;Minimum data requirements for model simulation.&lt;/li&gt;
+&lt;li&gt;Modelling single crops, crop sequences, and long-term rotations. Factorials and scenario analysis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Initial discussions about future collaborations and PhD student interchange between organisations&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;p&gt;Dr Octavio Caviglia&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;National University of Entre Rios&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>APSIM Classic | Academic</title>
+    <link>//localhost:1313/tags/apsim-classic/</link>
+      <atom:link href="//localhost:1313/tags/apsim-classic/index.xml" rel="self" type="application/rss+xml" />
+    <description>APSIM Classic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>APSIM Classic</title>
+      <link>//localhost:1313/tags/apsim-classic/</link>
+    </image>
+    
+    <item>
+      <title>University of Southern Queensland</title>
+      <link>//localhost:1313/stays/usq/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/usq/</guid>
+      <description>&lt;h3 id=&#34;university-of-southern-queensland-toowoomba-qld-australia&#34;&gt;University of Southern Queensland, Toowoomba, QLD, Australia&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;15 Dec - 21 Dec 2019&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;We conducted a workshop under our CRC soil project in Brisbane. During this meeting, we discussed current advances in model development on phosphorus and soil water dynamics. We also set up the main modeling priorities with farming group representatives. After this meeting, I was intensively working with Dr. Pembleton and Ms. Lai on the model calibration using national and international datasets. In collaboration with Dr. Volenec and Brouder (Purdue University) we started the model calibration using lucerne as the main case study. The next steps of this project are the update of the P submodel in the APSIM-Wheat model and to parametrize APSIM Next Generation to model N dynamics in SugarCane systems.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Current development of a Phosphorus model in APSIM Classic for lucerne under Australian and US environments&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers&#34;&gt;Host Researchers&lt;/h4&gt;
+&lt;p&gt;Dr Keith Pembleton and Ms Chloe Lai&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;CRC for High Performance Soils Ltd. Australia&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The BestiaPop - A Python package to automatically generate gridded climate data for crop models</title>
+      <link>//localhost:1313/project/project-6/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/project-6/</guid>
+      <description>&lt;p&gt;Climate data is an essential input for crop models to predict crop growth and development using site-specific (point) or gridded climate data. While point data is currently available in a readily APSIM format, gridded data is stored in NetCDF files which are difficult to store and convert to an input file readable by APSIM or other crop models. We developed BestiaPop, a Python package that allows model users to automatically download SILO&amp;rsquo;s (Scientific Information for Land Owners) gridded climate data in an APSIM format. The package offers the possibility to select a range of grids (5 km × 5 km resolution) and years producing a file with climate data available at SILO. The package was tested across areas suitable for potato (Solanum tuberosum L.) in Tasmania, Australia. A total of 1731 climate files across 20 years (1998-2017) were automatically downloaded and the spatio-temporal variability of climate inputs was mapped. The case study reveals that the implemented BestiaPop is a useful and efficient tool to automatically download gridded climate data in an APSIM format and could be extended to other crop models and regions across Australia.&lt;/p&gt;
+&lt;h4 id=&#34;parterns&#34;&gt;Parterns&lt;/h4&gt;
+&lt;p&gt;Diego Perez @darkquasar (Hydro Tasmania)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelling forage yield and water productivity of continuous crop sequences in the Argentinian Pampas</title>
+      <link>//localhost:1313/publication/modelling-crop-sequences/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/modelling-crop-sequences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purdue University</title>
+      <link>//localhost:1313/stays/purdue/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/purdue/</guid>
+      <description>&lt;h3 id=&#34;department-of-agronomy-purdue-university-west-lafayette-indiana-us&#34;&gt;Department of Agronomy, Purdue University, West Lafayette, Indiana, US&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;From May 2015 to Mar 2016&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;I modified APSIM Classic so that it could accurately predict growth and yield of switchgrass and Miscanthus; two plant species that are not yet represented in this large, multi-species model. I altered two existing APSIM sub-models (lucerne, sugarcane) using knowledge of species-specific differences in growth, development and agronomic practices. In brief, the modifications for Miscanthus include radiation use efficiency and biomass partitioning. The modifications for Switchgrass were more extensive and included the thermal time calculation, biomass partitioning, radiation use efficiency, transpiration efficiency, temperature dependency of photosynthesis and the light extinction coefficient. I also assembled large databases for soils and weather that I could subsequently associate with site-specific yield data of both species and successfully calibrated and validated both of these new sub-models. These new APSIM sub-models predict the yield of both species across broad geographies from the East Coast to the Great Plains of the US.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I altered the APSIM maize model routine in substantive ways to predict corn yield in continuous corn and soybean-corn rotations. First, I successfully calibrated and validated the model using data from the Eastern corn belt of the US. I then used water flow and agronomic data from Purdue’s Water Quality Field Station (WQFS) to calibrate the water use/drainage sub-routine of water balance data that can be obtained. This enabled to make improvement in the APSIM maize model not otherwise possible.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Publications&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ojeda JJ, Volenec JJ, Brouder SM, Caviglia OP, Agnusdei MG (2017) Evaluation of Agricultural Production Systems Simulator (APSIM) as yield predictor of Panicum virgatum and Miscanthus x giganteus in several US environments. Global Change Biology Bioenergy. 9, 796-816. doi:10.1111/gcbb.12384&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ojeda JJ, Volenec JJ, Brouder SM, Caviglia OP, Agnusdei MG (2018) Modelling stover and grain yields, and subsurface artificial drainage from long-term corn rotations using APSIM. Agricultural Water Management. 195, 154-171. doi:10.1016/j.agwat.2017.10.010&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Model development&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Adaption of APSIM Sugar and Lucerne to represent Miscanthus and Switchgrass&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This code contains simulations of Sugar adapted to represent Miscanthus and Lucerne to represent Switchgrass.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/APSIMInitiative/APSIMClassic/tree/master/Examples/BioEnergy&#34;&gt;https://github.com/APSIMInitiative/APSIMClassic/tree/master/Examples/BioEnergy&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers&#34;&gt;Host Researchers&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr Jeffrey Volenec and Dr Sylvie Brouder (Purdue University)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Fulbright Fellowship, Fulbright Commission, United States&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;AUD $37,000&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Sydney and University of Tasmania</title>
+      <link>//localhost:1313/stays/uni-sydney-tas/</link>
+      <pubDate>Sat, 12 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/uni-sydney-tas/</guid>
+      <description>&lt;h3 id=&#34;faculty-of-veterinary-science-the-university-of-sydney-camden-nsw-australia&#34;&gt;Faculty of Veterinary Science, The University of Sydney, Camden, NSW, Australia&lt;/h3&gt;
+&lt;h3 id=&#34;tasmanian-institute-of-agriculture-university-of-tasmania-burnie-tas-australia&#34;&gt;Tasmanian Institute of Agriculture, University of Tasmania, Burnie, TAS, Australia&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;From October to December 2013&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;As an APSIM trainee, I was a visiting scholar at the Dairy group of The University of Sydney in Camden and at the Tasmanian Institute of Agriculture, University of Tasmania. We used experimental field data collected in several locations of Argentina and Australia to evaluate the ability of APSIM Classic to simulate the growth patterns of annual and perennial forage crops and to predict dry matter yields in these regions. We also evaluated the APSIM ability to predict forage dry matter yield and water productivity of multiple continuous forage crop sequences.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Two research collaborative papers published in high impact scientific journals.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ojeda JJ, Pembleton KG, Islam MR, Agnusdei MG, Garcia SC (2016) Evaluation of the agricultural production systems simulator simulating Lucerne and annual ryegrass dry matter yield in the Argentine Pampas and south-eastern Australia. Agricultural Systems. 143, 61-75. Publication derived from my PhD thesis. doi:10.1016/j.agsy.2015.12.005&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ojeda JJ, Pembleton KG, Islam MR, Caviglia OP, Agnusdei MG, Garcia SC (2018) Modelling forage yield and water productivity of continuous crop sequences in the Argentinian Pampas. European Journal of Agronomy. 92, 84-96. Publication derived from PhD thesis. doi: 10.1016/j.eja.2017.10.004&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;host-researchers&#34;&gt;Host Researchers&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr Keith Pembleton (Tasmanian Institute of Agriculture)&lt;/li&gt;
+&lt;li&gt;Dr Rafiq Islam and Dr Sergio (Yani) Garcia (University of Sydney)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Funded by INNOVA-T Grant and funding from INTA, The University of Sydney and University of Tasmania.&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;AUD $15,000&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

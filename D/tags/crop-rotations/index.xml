@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crop rotations | Academic</title>
+    <link>//localhost:1313/tags/crop-rotations/</link>
+      <atom:link href="//localhost:1313/tags/crop-rotations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Crop rotations</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Crop rotations</title>
+      <link>//localhost:1313/tags/crop-rotations/</link>
+    </image>
+    
+    <item>
+      <title>University of Entre Rios</title>
+      <link>//localhost:1313/stays/oroverde/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/oroverde/</guid>
+      <description>&lt;h3 id=&#34;apsim-advanced-training-workshop-oro-verde-argentina&#34;&gt;APSIM Advanced Training Workshop, Oro Verde, Argentina&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;31 Jul - 2 Aug 2019&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;Dr. Octavio Caviglia and I conducted a 3-day advanced modeling workshop at the National University of Entre Rios. This workshop aimed to introduce the basics to run APSIM using real case studies from Argentina. The workshop included more than 15 participants (graduate and postgraduate students and INTA researchers). The main topics addressed were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to crop simulation models, modeling phases, spatial and temporal scales, statistical analyses.&lt;/li&gt;
+&lt;li&gt;Model complexity, model parameterization, and evaluation, sensitivity analysis and model intercomparison e.g. APSIM &lt;em&gt;vs.&lt;/em&gt; others biophysical models such as DSSAT, STICS.&lt;/li&gt;
+&lt;li&gt;Minimum data requirements for model simulation.&lt;/li&gt;
+&lt;li&gt;Modelling single crops, crop sequences, and long-term rotations. Factorials and scenario analysis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Initial discussions about future collaborations and PhD student interchange between organisations&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;p&gt;Dr Octavio Caviglia&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;National University of Entre Rios&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

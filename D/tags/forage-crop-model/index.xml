@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forage crop model | Academic</title>
+    <link>//localhost:1313/tags/forage-crop-model/</link>
+      <atom:link href="//localhost:1313/tags/forage-crop-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Forage crop model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Tue, 15 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Forage crop model</title>
+      <link>//localhost:1313/tags/forage-crop-model/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of the agricultural production systems simulator simulating Lucerne and annual ryegrass dry matter yield in the Argentine Pampas and south-eastern Australia</title>
+      <link>//localhost:1313/publication/modelling-lucerne-raygrass/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/modelling-lucerne-raygrass/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

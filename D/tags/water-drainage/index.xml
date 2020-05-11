@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water drainage | Academic</title>
+    <link>//localhost:1313/tags/water-drainage/</link>
+      <atom:link href="//localhost:1313/tags/water-drainage/index.xml" rel="self" type="application/rss+xml" />
+    <description>Water drainage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Wed, 11 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Water drainage</title>
+      <link>//localhost:1313/tags/water-drainage/</link>
+    </image>
+    
+    <item>
+      <title>Modelling stover and grain yields, and subsurface artificial drainage from long-term corn rotations using APSIM</title>
+      <link>//localhost:1313/publication/drainage-corn-rotations/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/drainage-corn-rotations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purdue University</title>
+      <link>//localhost:1313/stays/purdue/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/purdue/</guid>
+      <description>&lt;h3 id=&#34;department-of-agronomy-purdue-university-west-lafayette-indiana-us&#34;&gt;Department of Agronomy, Purdue University, West Lafayette, Indiana, US&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;From May 2015 to Mar 2016&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;I modified APSIM Classic so that it could accurately predict growth and yield of switchgrass and Miscanthus; two plant species that are not yet represented in this large, multi-species model. I altered two existing APSIM sub-models (lucerne, sugarcane) using knowledge of species-specific differences in growth, development and agronomic practices. In brief, the modifications for Miscanthus include radiation use efficiency and biomass partitioning. The modifications for Switchgrass were more extensive and included the thermal time calculation, biomass partitioning, radiation use efficiency, transpiration efficiency, temperature dependency of photosynthesis and the light extinction coefficient. I also assembled large databases for soils and weather that I could subsequently associate with site-specific yield data of both species and successfully calibrated and validated both of these new sub-models. These new APSIM sub-models predict the yield of both species across broad geographies from the East Coast to the Great Plains of the US.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I altered the APSIM maize model routine in substantive ways to predict corn yield in continuous corn and soybean-corn rotations. First, I successfully calibrated and validated the model using data from the Eastern corn belt of the US. I then used water flow and agronomic data from Purdue’s Water Quality Field Station (WQFS) to calibrate the water use/drainage sub-routine of water balance data that can be obtained. This enabled to make improvement in the APSIM maize model not otherwise possible.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Publications&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ojeda JJ, Volenec JJ, Brouder SM, Caviglia OP, Agnusdei MG (2017) Evaluation of Agricultural Production Systems Simulator (APSIM) as yield predictor of Panicum virgatum and Miscanthus x giganteus in several US environments. Global Change Biology Bioenergy. 9, 796-816. doi:10.1111/gcbb.12384&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ojeda JJ, Volenec JJ, Brouder SM, Caviglia OP, Agnusdei MG (2018) Modelling stover and grain yields, and subsurface artificial drainage from long-term corn rotations using APSIM. Agricultural Water Management. 195, 154-171. doi:10.1016/j.agwat.2017.10.010&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Model development&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Adaption of APSIM Sugar and Lucerne to represent Miscanthus and Switchgrass&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This code contains simulations of Sugar adapted to represent Miscanthus and Lucerne to represent Switchgrass.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/APSIMInitiative/APSIMClassic/tree/master/Examples/BioEnergy&#34;&gt;https://github.com/APSIMInitiative/APSIMClassic/tree/master/Examples/BioEnergy&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers&#34;&gt;Host Researchers&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr Jeffrey Volenec and Dr Sylvie Brouder (Purdue University)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Fulbright Fellowship, Fulbright Commission, United States&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;AUD $37,000&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

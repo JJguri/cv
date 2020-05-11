@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agricultural Production Systems Simulator | Academic</title>
+    <link>//localhost:1313/tags/agricultural-production-systems-simulator/</link>
+      <atom:link href="//localhost:1313/tags/agricultural-production-systems-simulator/index.xml" rel="self" type="application/rss+xml" />
+    <description>Agricultural Production Systems Simulator</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Thu, 23 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Agricultural Production Systems Simulator</title>
+      <link>//localhost:1313/tags/agricultural-production-systems-simulator/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of Agricultural Production Systems Simulator as yield predictor of Panicum virgatum and Miscanthus x giganteus in several US environments</title>
+      <link>//localhost:1313/publication/modelling-bioenergy-crops/</link>
+      <pubDate>Thu, 23 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/modelling-bioenergy-crops/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

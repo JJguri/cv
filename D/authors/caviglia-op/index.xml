@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caviglia OP | Academic</title>
+    <link>//localhost:1313/authors/caviglia-op/</link>
+      <atom:link href="//localhost:1313/authors/caviglia-op/index.xml" rel="self" type="application/rss+xml" />
+    <description>Caviglia OP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Caviglia OP</title>
+      <link>//localhost:1313/authors/caviglia-op/</link>
+    </image>
+    
+    <item>
+      <title>Modelling inter-annual variation in dry matter yield and precipitation use efficiency of perennial pastures and annual forage crops sequences</title>
+      <link>//localhost:1313/publication/modelling-variation-dm-yield/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/modelling-variation-dm-yield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forage yield, water- and solar radiation-productivities of perennial pastures and annual crops sequences in the south-eastern Pampas of Argentina</title>
+      <link>//localhost:1313/publication/resource-productivities/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/resource-productivities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vertical distribution of root biomass and soil carbon stocks in forage cropping systems</title>
+      <link>//localhost:1313/publication/root-c-distribution/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/root-c-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling stover and grain yields, and subsurface artificial drainage from long-term corn rotations using APSIM</title>
+      <link>//localhost:1313/publication/drainage-corn-rotations/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/drainage-corn-rotations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling forage yield and water productivity of continuous crop sequences in the Argentinian Pampas</title>
+      <link>//localhost:1313/publication/modelling-crop-sequences/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/modelling-crop-sequences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Agricultural Production Systems Simulator as yield predictor of Panicum virgatum and Miscanthus x giganteus in several US environments</title>
+      <link>//localhost:1313/publication/modelling-bioenergy-crops/</link>
+      <pubDate>Thu, 23 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/modelling-bioenergy-crops/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

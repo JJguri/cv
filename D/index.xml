@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>//localhost:1313/</link>
+      <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Mon, 03 Feb 2020 17:20:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Academic</title>
+      <link>//localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Multi-resolution analysis of aggregated spatial data to simulate yield and irrigation water demand at regional scales (oral presentation)</title>
+      <link>//localhost:1313/talk/icropm-talk/</link>
+      <pubDate>Mon, 03 Feb 2020 17:20:00 +0000</pubDate>
+      <guid>//localhost:1313/talk/icropm-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical and current approaches to decompose uncertainty in crop model predictions (poster)</title>
+      <link>//localhost:1313/talk/icropm-poster/</link>
+      <pubDate>Mon, 03 Feb 2020 09:00:00 +0000</pubDate>
+      <guid>//localhost:1313/talk/icropm-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the effects of farming intensification on the productivity, profitability, greenhouse gas emissions and ecosystems services in agroforestry and livestock systems</title>
+      <link>//localhost:1313/phd/demlie/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/phd/demlie/</guid>
+      <description>&lt;h3 id=&#34;about-demlie&#34;&gt;About Demlie&lt;/h3&gt;
+&lt;p&gt;Demlie Zelelew obtained his bachelor’s degree in Soil and Water Management and Engineering at Haramaya University in Ethiopia and his master’s degree in Water Management and Environmental Engineering at Vienna University of Natural Resources and Life Sciences in Austria. Demlie has been working in an agricultural research institution in Ethiopia for the past ten years and his interest in research areas are agricultural water management, integrated water resources management, climate change, soil and water conservation, integrated watershed management, crop modeling, water pollution, soil acidity, and salinity management.&lt;/p&gt;
+&lt;p&gt;Demlie is now a Ph.D. candidate at the University of Tasmania in Australia, and he is seeking smart irrigation agriculture which has economical profitability and reduced trade-offs on ecosystem services by looking at productivity, greenhouse gas emissions, water use efficiency (water footprint) and selected soil and water quality indicating parameters.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Contact:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;mailto:DemlieGebresellassie.Zelelew@utas.edu.au&#34;&gt;DemlieGebresellassie.Zelelew@utas.edu.au&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;about-the-project&#34;&gt;About the project&lt;/h3&gt;
+&lt;p&gt;The project has the following objectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Assess the land-use change of agroforestry and livestock farms and estimate its impact on GHG emissions and ecosystem services (e.g. N leaching) in Australia during the last three decades.&lt;/li&gt;
+&lt;li&gt;Compare the greenhouse gas emissions, profit and productivity for different levels of intensification (stocking rate, fertilizer, irrigation) as the proportion of trees on agroforestry farm increases.&lt;/li&gt;
+&lt;li&gt;Quantify the effect to increase the area of trees on ecosystems services such as biodiversity, soil water (leakage) and soil nitrogen (nitrate leaching) for a gradient of intensification in agroforestry and livestock systems.&lt;/li&gt;
+&lt;li&gt;Estimate the effects of future climate change on GHG emission, productivity, profitability and trade-offs on ecosystems services of a gradient of intensification in agroforestry and livestock systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
+&lt;p&gt;Tasmanian Institute of Agriculture, University of Tasmania, Tasmania, Australia&lt;/p&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;From January 2020 to January 2024&lt;/p&gt;
+&lt;h4 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h4&gt;
+&lt;p&gt;Dr Jonathan Ojeda, Dr Beth Penrose (primary supervisor), Dr Matt Harrison, Prof Caroline Mohammed (TIA-UTAS).&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;UTAS Tuition Fee: AUD$144,900&lt;/li&gt;
+&lt;li&gt;Tasmania Graduate Research Scholarship living allowance: AUD$108,328&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ZALF</title>
+      <link>//localhost:1313/stays/zalf/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/zalf/</guid>
+      <description>&lt;h3 id=&#34;leibniz-centre-for-agricultural-landscape-research-müncheberg-germany&#34;&gt;Leibniz Centre for Agricultural Landscape Research, Müncheberg, Germany&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;12 Jan - 1 Feb 2020&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;I was working in collaboration with Dr. Bahareh Kamali, Dr. Heidi Webber at the Leibniz Centre for Agricultural Landscape Research. I also interacted with Dr. Ignacio Lorite Torres (IFAPA, Spain) who is also a key collaborator of this research project. We quantified the share of different drivers of yield variability stemming from climatic factors (drought, heat stress, climate change) and non-climatic factors (irrigation strategy and cultivars) for irrigated systems and measured the associated uncertainty of each driver in climate change impact studies. We used a combination of process-based crop models with machine-learning algorithms to explore the underlying reasons for yield variability over 18 years of irrigated maize in Andalusia, Spain. The drivers of variability were identified at different irrigation strategies, cultivated with different cultivars. The underlying factors of yield variability were measured and the possible pathways to reduce yield variabilities were investigated. More specifically, we addressed the below key questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Which climatic and non-climatic factors are dominant in explaining irrigated maize yield variability for impact assessment studies? Which factor contributes the greatest share to yield variability?&lt;/li&gt;
+&lt;li&gt;How do the drivers of maize yield variability differ under different genotypes, irrigation strategies, sowing dates, and crop model structures?&lt;/li&gt;
+&lt;li&gt;How do the roles of different factors change under different climatic extremes?&lt;/li&gt;
+&lt;li&gt;What is the level of uncertainty stemming from different drivers for climate change impact assessment studies?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Two manuscripts in preparation to be submitted soon.&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr Bahareh Kamali, Dr Heidi Webber, Dr Frank Ewert (Leibniz Centre for Agricultural Landscape Research)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Australia-Germany Joint Research Co-operation Scheme, Universities Australia, German Academic Exchange Service (DAAD)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Southern Queensland</title>
+      <link>//localhost:1313/stays/usq/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/usq/</guid>
+      <description>&lt;h3 id=&#34;university-of-southern-queensland-toowoomba-qld-australia&#34;&gt;University of Southern Queensland, Toowoomba, QLD, Australia&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;15 Dec - 21 Dec 2019&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;We conducted a workshop under our CRC soil project in Brisbane. During this meeting, we discussed current advances in model development on phosphorus and soil water dynamics. We also set up the main modeling priorities with farming group representatives. After this meeting, I was intensively working with Dr. Pembleton and Ms. Lai on the model calibration using national and international datasets. In collaboration with Dr. Volenec and Brouder (Purdue University) we started the model calibration using lucerne as the main case study. The next steps of this project are the update of the P submodel in the APSIM-Wheat model and to parametrize APSIM Next Generation to model N dynamics in SugarCane systems.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Current development of a Phosphorus model in APSIM Classic for lucerne under Australian and US environments&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers&#34;&gt;Host Researchers&lt;/h4&gt;
+&lt;p&gt;Dr Keith Pembleton and Ms Chloe Lai&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;CRC for High Performance Soils Ltd. Australia&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Crop-livestock adaptation to climate change based on modelling and remote-sensing</title>
+      <link>//localhost:1313/project/project-1/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/project-1/</guid>
+      <description>&lt;p&gt;Good livestock management and policies are crucial to maintaining economic stability while addressing the challenges of climate change. Yet the policies and practices guiding the industry vary by region and nation.&lt;/p&gt;
+&lt;p&gt;We will assess how crop-livestock practices impact farm performance regionally under
+different climate change scenarios. Coupling existing multiple-scaling and remote-sensing
+techniques with advanced biophysical models we will evaluate drivers of yield variability for
+feed systems in Argentina, Uruguay, and Australia.&lt;/p&gt;
+&lt;p&gt;This project will hold three workshops. The workshops aim to assess how crop-livestock management practices impact regional farming performance under different climate change scenarios. Technologies, which will be used to assess the yield variability for diverse forage cropping systems, include existing model-scaling and remote-sensing techniques developed in Argentina (the most advanced biophysical models in the world). These assessments will take place in Argentina, Uruguay, and Australia. The workshops will also strengthen crop-livestock management skills for the three countries in different areas: systems modeling (Australia), remote-sensing system (Argentina), and livestock systems analysis (Uruguay).&lt;/p&gt;
+&lt;p&gt;The project will be conducted collaboratively with livestock industry decision-makers who will perform foresight exercises to explore alternative futures. This will facilitate the development of forage crop regional management and preparation for environmental impacts.&lt;/p&gt;
+&lt;h4 id=&#34;partners&#34;&gt;Partners&lt;/h4&gt;
+&lt;p&gt;University of Southern Queensland (Australia), University of Buenos Aires (Argentina), University of Entre Rios (Argentina), Instituto Nacional de Investigación Agropecuaria (Uruguay), Association of Regional Consortiums of Agricultural Experimentation (Argentina and Uruguay)&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Council on Australia Latin America Relations (COALAR) Department of Foreign Affairs and Trade, Australian Government.&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;AUD$54,952&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effects of soil- and climate data aggregation on simulated potato yield and irrigation water requirement</title>
+      <link>//localhost:1313/publication/effects-of-data-aggregation/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/effects-of-data-aggregation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Entre Rios</title>
+      <link>//localhost:1313/stays/oroverde/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/oroverde/</guid>
+      <description>&lt;h3 id=&#34;apsim-advanced-training-workshop-oro-verde-argentina&#34;&gt;APSIM Advanced Training Workshop, Oro Verde, Argentina&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;31 Jul - 2 Aug 2019&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;Dr. Octavio Caviglia and I conducted a 3-day advanced modeling workshop at the National University of Entre Rios. This workshop aimed to introduce the basics to run APSIM using real case studies from Argentina. The workshop included more than 15 participants (graduate and postgraduate students and INTA researchers). The main topics addressed were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to crop simulation models, modeling phases, spatial and temporal scales, statistical analyses.&lt;/li&gt;
+&lt;li&gt;Model complexity, model parameterization, and evaluation, sensitivity analysis and model intercomparison e.g. APSIM &lt;em&gt;vs.&lt;/em&gt; others biophysical models such as DSSAT, STICS.&lt;/li&gt;
+&lt;li&gt;Minimum data requirements for model simulation.&lt;/li&gt;
+&lt;li&gt;Modelling single crops, crop sequences, and long-term rotations. Factorials and scenario analysis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Initial discussions about future collaborations and PhD student interchange between organisations&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;p&gt;Dr Octavio Caviglia&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;National University of Entre Rios&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The benefits and limits of diversity in agricultural systems</title>
+      <link>//localhost:1313/phd/francesco/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/phd/francesco/</guid>
+      <description>&lt;h3 id=&#34;about-francesco&#34;&gt;About Francesco&lt;/h3&gt;
+&lt;p&gt;Francesco is a PhD Student with the Tasmanian Institute of Agriculture of the University of Tasmania (UTAS) and CSIRO Agriculture and Food in Australia. With a background in environmental economics, his PhD research focuses on the environmental and socio-economic benefits of increasing biodiversity in different agricultural systems.&lt;/p&gt;
+&lt;p&gt;Prior to starting his PhD, Francesco was a visiting researcher with the Institute for Conservation and Sustainable Development of the Amazon (IDESAM) in Brazil. He was involved in work that investigated ways to increase socio-economic benefits for local farming communities and the sustainability of farms by converting traditional coffee plantations to agroforestry systems in the Brazilian Amazon. Francesco has also worked as a research fellow for the Development Impact Unit of Bioversity International, one of the CGIAR centres, in Rome.&lt;/p&gt;
+&lt;p&gt;Francesco enjoys playing basketball and guitar.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Contact:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;mailto:Francesco.Tacconi@csiro.au&#34;&gt;Francesco.Tacconi@csiro.au&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;about-the-project&#34;&gt;About the project&lt;/h3&gt;
+&lt;p&gt;The proposed research aims at exploring which type of diversification can provide the benefits discussed above and in which context it can be a solution to sustainable agriculture with the overarching research question being to what extent can the productivity, profitability, and sustainability of agricultural systems in Australia and globally benefit from being diverse? The two hypotheses to test and either providence evidence for or reject are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Extensive/mixed agroecosystems are higher in diversity and/or more resilient to climate change than highly specialized systems, such as monocultures.&lt;/li&gt;
+&lt;li&gt;Increasing agricultural and tree biodiversity within the broader landscape will improve productivity, deliver ecosystem services, and improve rural livelihoods.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;location&#34;&gt;Location&lt;/h4&gt;
+&lt;p&gt;St. Lucia CSIRO, Brisbane, Australia&lt;/p&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;From June 2019 to June 2023&lt;/p&gt;
+&lt;h4 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h4&gt;
+&lt;p&gt;Dr Jonathan Ojeda (Primary from UTAS), Dr Katharina Waha (CSIRO), Dr Peat Leith (TIA-UTAS)&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;University of Tasmania CSIRO and Australian Sustainable Agriculture Elite Scholarship (CSIRO-TIA/UTAS)&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;Total: AUD$303,226&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;UTAS Tuition Fee: AUD$144,900&lt;/li&gt;
+&lt;li&gt;Tasmania Graduate Research Scholarship and CSIRO living allowance: AUD$108,328&lt;/li&gt;
+&lt;li&gt;Australian Sustainable Agriculture Elite Scholarship: AUD$49,998&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lincoln University and P&amp;F</title>
+      <link>//localhost:1313/stays/lincoln/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/lincoln/</guid>
+      <description>&lt;h3 id=&#34;lucerne-workshop-and-potato-modelling-lincoln-new-zealand&#34;&gt;Lucerne Workshop and Potato Modelling, Lincoln, New Zealand&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;8 Sep - 1 Oct 2019&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;I participated in a 2-week workshop organized by Dr. Derrick Moot (Dryland Pastures Research Team) focused on lucerne eco-physiology and modeling. A group of more than 30 international researchers discussed how to better predict the behavior of this crop using current modeling tools. The main topics discussed during this workshop are listed below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Growth and development.&lt;/li&gt;
+&lt;li&gt;Overview of current models being used. APSIM, STICS, HERMES.&lt;/li&gt;
+&lt;li&gt;Phenology and canopy characteristics.&lt;/li&gt;
+&lt;li&gt;Dry matter accumulation and partitioning, fall dormancy.&lt;/li&gt;
+&lt;li&gt;Soil water dynamics and modeling water stress effects on lucerne.&lt;/li&gt;
+&lt;li&gt;Soils, limiting situations, grazing and model applications.&lt;/li&gt;
+&lt;li&gt;Nitrogen fixation/soil carbon and N dynamics.&lt;/li&gt;
+&lt;li&gt;Plant physiology, allometry, herbage quality, N dynamics.&lt;/li&gt;
+&lt;li&gt;On-farm applications – examples for farm systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also spent one week at the Plant and Food Research Institute working with Dr. Hamish Brown. We focused our work on the analysis of crop model configuration using the potato APSIM model as a case study.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Paper under review &lt;em&gt;in-silico&lt;/em&gt; Plants&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;p&gt;Dr Derrick Moot and Dr Hamish Brown&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Tasmanian Institute of Agriculture and Lincoln University&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Gottingen</title>
+      <link>//localhost:1313/stays/gottingen/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/gottingen/</guid>
+      <description>&lt;h3 id=&#34;georg-august-universität-göttingen-göttingen-germany&#34;&gt;Georg-August-Universität Göttingen, Göttingen, Germany&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;20 Apr - 15 May 2019&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;In collaboration with Dr. Ehsan Eyshi Rezaei and Dr. Stefan Siebert at the University of Gottingen, we worked in a research paper based on quantifying data aggregation effects (from soil [DAEs] and climate [DAEc] ) of model input data and their combined impacts for simulated irrigated and rainfed yield and irrigation water requirements (IWR). This study highlights the need to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Separately quantify the impact of input data aggregation on model outputs to inform about data aggregation error.&lt;/li&gt;
+&lt;li&gt;Identify those variables that explain these aggregation errors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In line with previous studies, DAEc was mainly driven by differences in elevation and DAEs were largely influenced by soil properties. Climate input data, mainly rainfall, play a key role as a driver of potato yield variability at high spatial resolution. At coarser resolutions, soil data aggregation can strongly affect simulated potato yield (under rainfed conditions) and IWR. This study can guide crop modelers when choosing the spatial resolution for regional simulation related to regional water use and climate change impact assessments. More research is needed to assess model responses to other potato management practices, such as nitrogen fertilization rate, planting density, and genotype. Crop modeling using input data at coarse resolution needs to consider DAEc and DAEs to quantify the bias associated with data aggregation. This bias, which may be significant, may skew decisionmaking at the regional level.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Paper published in Science of the Total Environment&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;p&gt;Dr Ehsan Eyshi Rezaei and Dr Stefan Siebert&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Australia-Germany Joint Research Co-operation Scheme, Universities Australia, German Academic Exchange Service (DAAD)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimating Uncertainty in Crop Models</title>
+      <link>//localhost:1313/phd/ranju/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/phd/ranju/</guid>
+      <description>&lt;h3 id=&#34;about-ranju&#34;&gt;About Ranju&lt;/h3&gt;
+&lt;p&gt;Ranju is a young researcher originally from Nepal. Ranju&amp;rsquo;s research interest is within the field of water resources considering climate change impact and adaptation in water resources, ecohydrology, and agriculture. She did her Master in Water Engineering and Management at the Asian Institute of Technology and then she worked as Research Associate for three years before starting her Ph.D. at UTAS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Contact:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;mailto:Ranju.Chapagain@utas.edu.au&#34;&gt;Ranju.Chapagain@utas.edu.au&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;about-the-project&#34;&gt;About the project&lt;/h3&gt;
+&lt;p&gt;This project aims to quantify model prediction uncertainty in crop model system using example crops such as potato, for Tasmania and Australia and to test the hypothesis that predicted model outputs vary with the different sources of input, models used for simulation and model parameters.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;General research question&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How do model outputs (e.g. crop yield, water, and energy use efficiency) vary with different inputs, simulation models and model parameters while predicting uncertainty for crop model system using example crops such as potato at a regional and national scale?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Specific research questions&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the dominant sources of uncertainty in crop model systems, using potato and wheat as example crops?&lt;/li&gt;
+&lt;li&gt;How much weight does each uncertainty source contribute to the total uncertainty?&lt;/li&gt;
+&lt;li&gt;What is the relative contribution of different sources of uncertainty with crop model systems, using potato as an example crop?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Hypotheses&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uncertainty in soil data outweighs uncertainty due to climate and management practices in crop model systems.&lt;/li&gt;
+&lt;li&gt;The weight of climate uncertainty is higher than other uncertainty sources in crop model systems.&lt;/li&gt;
+&lt;li&gt;The ensemble of crop models reduces uncertainty.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To assess uncertainty in crop model outputs (crop yield, water use efficiency and energy use efficiency) using example systems such as wheat and potato at state (Tasmania) and national scale.&lt;/li&gt;
+&lt;li&gt;To investigate the variability of uncertainty over time and space.&lt;/li&gt;
+&lt;li&gt;To determine the contribution made by each source to predict uncertainty.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;location&#34;&gt;Location&lt;/h4&gt;
+&lt;p&gt;Tasmanian Institute of Agriculture, University of Tasmania, Tasmania, Australia&lt;/p&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;From March 2019 to March 2023&lt;/p&gt;
+&lt;h4 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h4&gt;
+&lt;p&gt;Dr Jonathan Ojeda (primary supervisor), Dr Bec Harris and Dr Tom Remenyi (Geography and Spatial Sciences-UTAS), Dr Neil Huth and Dr Jaci Brown (CSIRO), Prof Caroline Mohammed (TIA-UTAS).&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;University of Tasmania and Australian Sustainable Agriculture Elite Scholarship (CSIRO-TIA/UTAS)&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;Total: AUD$303,226&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;UTAS Tuition Fee: AUD$144,900&lt;/li&gt;
+&lt;li&gt;Tasmania Graduate Research Scholarship living allowance: AUD$108,328&lt;/li&gt;
+&lt;li&gt;Australian Sustainable Agriculture Elite Scholarship: AUD$49,998&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards high water productivity in agriculture based on multi-scale modelling</title>
+      <link>//localhost:1313/project/project-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/project-2/</guid>
+      <description>&lt;p&gt;Sustainable land and water management are faced with various challenges at the field, farm and larger regional and market scales. Natural resources are managed at field-scale but policy settings are usually regional or national. Likewise, the scalability of agricultural systems (i.e. methods used to integrate data and models at different scales) is often ignored or only partially represented. This project will investigate how water management impacts crop productivity regionally in Australia. We will apply existing model-scaling techniques and assess the drivers of yield variability for diverse Australian agricultural systems, and further contrast these results with those from a case study in Spain. This innovative research will combine strengths in irrigated agriculture at field-scale (TIA-UTAS) with multi-scale modeling, multi-model analysis (UoG-ZALF) and integrated biophysical-socio-economics assessments (ZALF). I will receive training from two German ECRs and transfer these new skills to Australia. Drs Rezaei and Kamali will extend the regional assessments and agro-hydrological modeling tested in Europe to new environments (Australia) as case studies their current projects. Together, with this new collaboration as a basis, we will develop methods that can support improved water risk management and plan with a better understanding of the drivers of yield variability and scaling methods.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/static/img/paperB.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
+&lt;p&gt;University of Göttingen (Prof Stefan Siebert, Dr Ehsan Eyshi Rezaei), Leibniz Centre for Agricultural Landscape Research (ZALF) (Dr Bahareh Kamali, Dr Heidi Webber, Dr Frank Ewert), Germany.&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Australia-Germany Joint Research Co-operation Scheme, Universities Australia, German Academic Exchange Service (DAAD).&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;AUD$40,360&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>APSIM Potato model development</title>
+      <link>//localhost:1313/project/project-4/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/project-4/</guid>
+      <description>&lt;p&gt;Potato farmers often need to face up with complex interactions (genotype [G] * management [M] * environment [E]), which are difficult and costly to diagnose and ameliorate. The specific nature of such interactions and the significant cost to address improvement decisions is an ideal use case for DSS. On the other hand, there were limited modeling studies based on combined analysis of genotype [G] * management [M] * environment [E], which are key to assessing tuber yield variability (spatial and temporal). This project is developing an improved and complete version of the released APSIM Potato model based on a G&lt;em&gt;M&lt;/em&gt;E approach. This model would be a first step towards the development of several APSIM sub-models to simulate tuber yield for different potato genotypes under different crop management strategies. The model should be able to describe in a mechanistic way the processes that have been previously identified as the key determinant of water use, total dry biomass production, and tuber production (e.g. number stems per tuber, phenology, genotypic parameters, etc.).&lt;/p&gt;
+&lt;p&gt;The project has three main research branches:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developing a methodological approach for assessing errors during simulation configuration using Python&lt;/li&gt;
+&lt;li&gt;Model developing using a test set of 426 experiments conducted from 1970 to 2019 in 19 countries (55 locations) including 44 cultivars.&lt;/li&gt;
+&lt;li&gt;Model testing using real farm data across Tasmania (Simplot and McCain farms)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;partners&#34;&gt;Partners&lt;/h4&gt;
+&lt;p&gt;Plant and Food Research New Zealand (Dr Hamish Brown), CSIRO (Dr Neil Huth, Dean Holzworth), Tasmanian Institute of Agriculture (John McPhee) Simplot Tasmania (Frank Mulcahy, Ed Blanchard), McCain Tasmania (Rodney Smith).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving the representation of soil productivity/constraints in existing DSS and modelling platforms</title>
+      <link>//localhost:1313/project/project-3/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/project-3/</guid>
+      <description>&lt;p&gt;Farmers often face complex and multiple soil constraints to agricultural production which are difficult and costly to diagnose, assess and ameliorate.  The site-specific nature of such multiple soil constraints and significant cost to address means amelioration decisions an ideal use case for Decision Support Systems (DSS) and models.  Unfortunately, the suite of models and DSS used in Australian agriculture have a limited ability to represent a diversity of soil constraints and how they interact to impact crop and pasture production. Essentially, only nitrogen fertility and soil water dynamics in dryland environments are well represented. Improvements to DSS and biophysical model soil components such as phosphorus (a key macronutrient) present the opportunity to enhance the current DSS and models to provide increased reliability of predictions that can be used in the paddock.  This project will improve already exiting and widely used DSSs (e.g. ARM Online, Yield Prophet and Soil Water App) though developing and improving soil constraint modules in their underlying analysis engines (e.g. APSIM and HowLeaky?) behind them. By focusing on DSS with existing user bases will ensure early and rapid adoption of the project&amp;rsquo;s science outcomes and will provide enhanced decision support to the agricultural sector for addressing complex soil productivity/constraint challenges that limit farm productivity.  Ultimately, this will help with farm decision-makers formulate interventions and new management strategies to improve farm productivity.&lt;/p&gt;
+&lt;h4 id=&#34;partners&#34;&gt;Partners&lt;/h4&gt;
+&lt;p&gt;University of Southern Queensland (Assoc Prof Keith Pembleton, Mr Roy Anderson and Chloe Lai), Federation University (Dr Nathan Robinson), NSW DPI (Dr Simon Clarendon), Burdekin Productivity Services (Mr Rob Milla), West Midlands Group (Dr Nathan Craig), Riverine Plains Inc (Dr Cassandra Schefe).&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;CRC for High Performance Soils Ltd. Australia&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;AUD$693,731&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The BestiaPop - A Python package to automatically generate gridded climate data for crop models</title>
+      <link>//localhost:1313/project/project-6/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/project-6/</guid>
+      <description>&lt;p&gt;Climate data is an essential input for crop models to predict crop growth and development using site-specific (point) or gridded climate data. While point data is currently available in a readily APSIM format, gridded data is stored in NetCDF files which are difficult to store and convert to an input file readable by APSIM or other crop models. We developed BestiaPop, a Python package that allows model users to automatically download SILO&amp;rsquo;s (Scientific Information for Land Owners) gridded climate data in an APSIM format. The package offers the possibility to select a range of grids (5 km × 5 km resolution) and years producing a file with climate data available at SILO. The package was tested across areas suitable for potato (Solanum tuberosum L.) in Tasmania, Australia. A total of 1731 climate files across 20 years (1998-2017) were automatically downloaded and the spatio-temporal variability of climate inputs was mapped. The case study reveals that the implemented BestiaPop is a useful and efficient tool to automatically download gridded climate data in an APSIM format and could be extended to other crop models and regions across Australia.&lt;/p&gt;
+&lt;h4 id=&#34;parterns&#34;&gt;Parterns&lt;/h4&gt;
+&lt;p&gt;Diego Perez @darkquasar (Hydro Tasmania)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncertainty decomposition in crop models</title>
+      <link>//localhost:1313/project/project-5/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/project-5/</guid>
+      <description>&lt;h2 id=&#34;phd-project-estimating-uncertainty-in-agricultural-crop-models&#34;&gt;PhD Project: Estimating Uncertainty in Agricultural Crop Models&lt;/h2&gt;
+&lt;p&gt;Crop models are an essential tool for simulating crop growth, development and yield at different scales (e.g. field, basin, region, national, global). Crop models produce actionable information on issues related to food security, climate change, land-use change, and market dynamics. Despite increasing importance and use, various sources of uncertainty exist in the modeling process due to the “impossibility to model the cropping system with complete determinism”. In this Ph.D. project, by uncertainty, we mean “any departure from the unachievable ideal of complete determinism”. Uncertainty exists in each step of the crop modeling processes. Observational data is imperfect and often non-standard, with varying sources over different spatial and temporal scales. This can lead to uncertainty surrounding inputs selected, but also has implications during model development (e.g. model structure) and tuning (e.g. model parameter selection). Hence, uncertainty can be grouped into three categories- a) observation uncertainty, b) prediction uncertainty and c) model uncertainty. These three categories of uncertainty are closely related but different from one another. Addressing these uncertainties is extremely important, as this will allow the user to better understand the level of confidence in the model outputs and select actionable practices accordingly. As such, this Ph.D. project focuses on the historical and current research gaps, trends and challenges in estimating uncertainty in crop modeling to answer the following research questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Are temporal dynamics considered in model uncertainty assessments (e.g. future scenarios)? If so, is there a bias to assess future climate uncertainty?&lt;/li&gt;
+&lt;li&gt;How does crop model uncertainty decompose? Does the decomposition follow any methodology? Does each assessment specify the model uncertainty source analyzed, and if so, which source of model uncertainty is considered? Are interactions between sources of uncertainties considered?&lt;/li&gt;
+&lt;li&gt;Is there a predominance of studies assessing model uncertainty for a specific model output (e.g. crop yield)?&lt;/li&gt;
+&lt;li&gt;Which statistics or mathematical approaches (e.g. Bayesian, ANOVA) are used to quantify the model uncertainties?&lt;/li&gt;
+&lt;li&gt;Which key gaps exist in understanding, characterizing, and assessing crop model uncertainty? Which are the possible ways to reduce crop model uncertainty?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;parterns&#34;&gt;Parterns&lt;/h4&gt;
+&lt;p&gt;University of Göttingen (Dr Ehsan Eyshi Rezaei), INRA (Dr Daniel Wallach)&lt;/p&gt;
+&lt;h4 id=&#34;phd-student&#34;&gt;PhD Student&lt;/h4&gt;
+&lt;p&gt;Ranju Chapagain&lt;/p&gt;
+&lt;h4 id=&#34;primary-supervisor&#34;&gt;Primary supervisor&lt;/h4&gt;
+&lt;p&gt;Dr Jonathan Ojeda&lt;/p&gt;
+&lt;h4 id=&#34;co-supervisors&#34;&gt;Co-supervisors&lt;/h4&gt;
+&lt;p&gt;Dr Harris R and Dr Remenyi T (Geography and Spatial Sciences-UTAS), Dr Huth N and Dr Brown J (CSIRO), Prof Mohammed C (TIA-UTAS).&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;University of Tasmania and Australian Sustainable Agriculture Elite Scholarship (CSIRO-TIA/UTAS)&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;Total: AUD$303,226&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;UTAS Tuition Fee: AUD$144,900&lt;/li&gt;
+&lt;li&gt;Tasmania Graduate Research Scholarship living allowance: AUD$108,328&lt;/li&gt;
+&lt;li&gt;Australian Sustainable Agriculture Elite Scholarship: AUD$49,998&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wageningen University, University of Gottingen and ZALF</title>
+      <link>//localhost:1313/stays/wageningen/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/wageningen/</guid>
+      <description>&lt;h3 id=&#34;wageningen-university-wageningen-the-netherlands&#34;&gt;Wageningen University, Wageningen, The Netherlands&lt;/h3&gt;
+&lt;h3 id=&#34;university-of-göttingen-göttingen-germany&#34;&gt;University of Göttingen, Göttingen, Germany&lt;/h3&gt;
+&lt;h3 id=&#34;leibniz-centre-for-agricultural-landscape-research-müncheberg-germany&#34;&gt;Leibniz Centre for Agricultural Landscape Research, Müncheberg, Germany&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;29 May - 17 June 2018&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Postgraduate Course The Netherlands&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I attended to a 6-day Postgraduate Course (3-8 June 2018) entitled “Fundamentals of Crop Physiology in a Changing World and organized by the C.T. De Wit Graduate School Production Ecology &amp;amp; Resource Conservation at Wageningen University in collaboration with the University of Florida.&lt;/p&gt;
+&lt;p&gt;Course lecturers included Frank Ewert, Ken Boote, Pierre Martre, Paul Struik, Xinyou Yin, Jochem Evers, Melanie Correll, and many others. The course focused on the fundamental knowledge and insight one must have about crops to be able to adapt agronomic practices to the changing world. The toolbox in this course was a variety of plant and crop models. The overall goal of this course was to understand the effects of temperature, light, CO2, and water on the carbon source-sink relationships of plants and to improve the underlying models.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Research visit Germany&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I conducted a 4-day research visit to collaborators at the University of Gottingen and Leibniz Centre for Agricultural Landscape Research to discuss a project submission.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;We wrote a research proposal under the Australia-Germany Joint Research Co-operation Scheme which was granted (AUD$40,360).&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof Stefan Siebert, Dr Ehsan Eyshi Rezaei (University of Göttingen)&lt;/li&gt;
+&lt;li&gt;Dr Bahareh Kamali, Dr Heidi Webber, Dr Frank Ewert (Leibniz Centre for Agricultural Landscape Research)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Research Travel Funding Water for Profit Program, Tasmanian Institute of Agriculture&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;AUD $6,000&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelling inter-annual variation in dry matter yield and precipitation use efficiency of perennial pastures and annual forage crops sequences</title>
+      <link>//localhost:1313/publication/modelling-variation-dm-yield/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/modelling-variation-dm-yield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forage yield, water- and solar radiation-productivities of perennial pastures and annual crops sequences in the south-eastern Pampas of Argentina</title>
+      <link>//localhost:1313/publication/resource-productivities/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/resource-productivities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vertical distribution of root biomass and soil carbon stocks in forage cropping systems</title>
+      <link>//localhost:1313/publication/root-c-distribution/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/root-c-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling stover and grain yields, and subsurface artificial drainage from long-term corn rotations using APSIM</title>
+      <link>//localhost:1313/publication/drainage-corn-rotations/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/drainage-corn-rotations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling forage yield and water productivity of continuous crop sequences in the Argentinian Pampas</title>
+      <link>//localhost:1313/publication/modelling-crop-sequences/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/modelling-crop-sequences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Agricultural Production Systems Simulator as yield predictor of Panicum virgatum and Miscanthus x giganteus in several US environments</title>
+      <link>//localhost:1313/publication/modelling-bioenergy-crops/</link>
+      <pubDate>Thu, 23 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/modelling-bioenergy-crops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of the agricultural production systems simulator simulating Lucerne and annual ryegrass dry matter yield in the Argentine Pampas and south-eastern Australia</title>
+      <link>//localhost:1313/publication/modelling-lucerne-raygrass/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/modelling-lucerne-raygrass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purdue University</title>
+      <link>//localhost:1313/stays/purdue/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/purdue/</guid>
+      <description>&lt;h3 id=&#34;department-of-agronomy-purdue-university-west-lafayette-indiana-us&#34;&gt;Department of Agronomy, Purdue University, West Lafayette, Indiana, US&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;From May 2015 to Mar 2016&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;I modified APSIM Classic so that it could accurately predict growth and yield of switchgrass and Miscanthus; two plant species that are not yet represented in this large, multi-species model. I altered two existing APSIM sub-models (lucerne, sugarcane) using knowledge of species-specific differences in growth, development and agronomic practices. In brief, the modifications for Miscanthus include radiation use efficiency and biomass partitioning. The modifications for Switchgrass were more extensive and included the thermal time calculation, biomass partitioning, radiation use efficiency, transpiration efficiency, temperature dependency of photosynthesis and the light extinction coefficient. I also assembled large databases for soils and weather that I could subsequently associate with site-specific yield data of both species and successfully calibrated and validated both of these new sub-models. These new APSIM sub-models predict the yield of both species across broad geographies from the East Coast to the Great Plains of the US.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I altered the APSIM maize model routine in substantive ways to predict corn yield in continuous corn and soybean-corn rotations. First, I successfully calibrated and validated the model using data from the Eastern corn belt of the US. I then used water flow and agronomic data from Purdue’s Water Quality Field Station (WQFS) to calibrate the water use/drainage sub-routine of water balance data that can be obtained. This enabled to make improvement in the APSIM maize model not otherwise possible.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Publications&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ojeda JJ, Volenec JJ, Brouder SM, Caviglia OP, Agnusdei MG (2017) Evaluation of Agricultural Production Systems Simulator (APSIM) as yield predictor of Panicum virgatum and Miscanthus x giganteus in several US environments. Global Change Biology Bioenergy. 9, 796-816. doi:10.1111/gcbb.12384&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ojeda JJ, Volenec JJ, Brouder SM, Caviglia OP, Agnusdei MG (2018) Modelling stover and grain yields, and subsurface artificial drainage from long-term corn rotations using APSIM. Agricultural Water Management. 195, 154-171. doi:10.1016/j.agwat.2017.10.010&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Model development&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Adaption of APSIM Sugar and Lucerne to represent Miscanthus and Switchgrass&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This code contains simulations of Sugar adapted to represent Miscanthus and Lucerne to represent Switchgrass.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/APSIMInitiative/APSIMClassic/tree/master/Examples/BioEnergy&#34;&gt;https://github.com/APSIMInitiative/APSIMClassic/tree/master/Examples/BioEnergy&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers&#34;&gt;Host Researchers&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr Jeffrey Volenec and Dr Sylvie Brouder (Purdue University)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Fulbright Fellowship, Fulbright Commission, United States&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;AUD $37,000&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Sydney and University of Tasmania</title>
+      <link>//localhost:1313/stays/uni-sydney-tas/</link>
+      <pubDate>Sat, 12 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/uni-sydney-tas/</guid>
+      <description>&lt;h3 id=&#34;faculty-of-veterinary-science-the-university-of-sydney-camden-nsw-australia&#34;&gt;Faculty of Veterinary Science, The University of Sydney, Camden, NSW, Australia&lt;/h3&gt;
+&lt;h3 id=&#34;tasmanian-institute-of-agriculture-university-of-tasmania-burnie-tas-australia&#34;&gt;Tasmanian Institute of Agriculture, University of Tasmania, Burnie, TAS, Australia&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;From October to December 2013&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;As an APSIM trainee, I was a visiting scholar at the Dairy group of The University of Sydney in Camden and at the Tasmanian Institute of Agriculture, University of Tasmania. We used experimental field data collected in several locations of Argentina and Australia to evaluate the ability of APSIM Classic to simulate the growth patterns of annual and perennial forage crops and to predict dry matter yields in these regions. We also evaluated the APSIM ability to predict forage dry matter yield and water productivity of multiple continuous forage crop sequences.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Two research collaborative papers published in high impact scientific journals.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ojeda JJ, Pembleton KG, Islam MR, Agnusdei MG, Garcia SC (2016) Evaluation of the agricultural production systems simulator simulating Lucerne and annual ryegrass dry matter yield in the Argentine Pampas and south-eastern Australia. Agricultural Systems. 143, 61-75. Publication derived from my PhD thesis. doi:10.1016/j.agsy.2015.12.005&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ojeda JJ, Pembleton KG, Islam MR, Caviglia OP, Agnusdei MG, Garcia SC (2018) Modelling forage yield and water productivity of continuous crop sequences in the Argentinian Pampas. European Journal of Agronomy. 92, 84-96. Publication derived from PhD thesis. doi: 10.1016/j.eja.2017.10.004&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;host-researchers&#34;&gt;Host Researchers&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr Keith Pembleton (Tasmanian Institute of Agriculture)&lt;/li&gt;
+&lt;li&gt;Dr Rafiq Islam and Dr Sergio (Yani) Garcia (University of Sydney)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Funded by INNOVA-T Grant and funding from INTA, The University of Sydney and University of Tasmania.&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;AUD $15,000&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stays | Academic</title>
+    <link>//localhost:1313/stays/</link>
+      <atom:link href="//localhost:1313/stays/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stays</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Stays</title>
+      <link>//localhost:1313/stays/</link>
+    </image>
+    
+    <item>
+      <title>ZALF</title>
+      <link>//localhost:1313/stays/zalf/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/zalf/</guid>
+      <description>&lt;h3 id=&#34;leibniz-centre-for-agricultural-landscape-research-müncheberg-germany&#34;&gt;Leibniz Centre for Agricultural Landscape Research, Müncheberg, Germany&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;12 Jan - 1 Feb 2020&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;I was working in collaboration with Dr. Bahareh Kamali, Dr. Heidi Webber at the Leibniz Centre for Agricultural Landscape Research. I also interacted with Dr. Ignacio Lorite Torres (IFAPA, Spain) who is also a key collaborator of this research project. We quantified the share of different drivers of yield variability stemming from climatic factors (drought, heat stress, climate change) and non-climatic factors (irrigation strategy and cultivars) for irrigated systems and measured the associated uncertainty of each driver in climate change impact studies. We used a combination of process-based crop models with machine-learning algorithms to explore the underlying reasons for yield variability over 18 years of irrigated maize in Andalusia, Spain. The drivers of variability were identified at different irrigation strategies, cultivated with different cultivars. The underlying factors of yield variability were measured and the possible pathways to reduce yield variabilities were investigated. More specifically, we addressed the below key questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Which climatic and non-climatic factors are dominant in explaining irrigated maize yield variability for impact assessment studies? Which factor contributes the greatest share to yield variability?&lt;/li&gt;
+&lt;li&gt;How do the drivers of maize yield variability differ under different genotypes, irrigation strategies, sowing dates, and crop model structures?&lt;/li&gt;
+&lt;li&gt;How do the roles of different factors change under different climatic extremes?&lt;/li&gt;
+&lt;li&gt;What is the level of uncertainty stemming from different drivers for climate change impact assessment studies?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Two manuscripts in preparation to be submitted soon.&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr Bahareh Kamali, Dr Heidi Webber, Dr Frank Ewert (Leibniz Centre for Agricultural Landscape Research)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Australia-Germany Joint Research Co-operation Scheme, Universities Australia, German Academic Exchange Service (DAAD)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Southern Queensland</title>
+      <link>//localhost:1313/stays/usq/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/usq/</guid>
+      <description>&lt;h3 id=&#34;university-of-southern-queensland-toowoomba-qld-australia&#34;&gt;University of Southern Queensland, Toowoomba, QLD, Australia&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;15 Dec - 21 Dec 2019&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;We conducted a workshop under our CRC soil project in Brisbane. During this meeting, we discussed current advances in model development on phosphorus and soil water dynamics. We also set up the main modeling priorities with farming group representatives. After this meeting, I was intensively working with Dr. Pembleton and Ms. Lai on the model calibration using national and international datasets. In collaboration with Dr. Volenec and Brouder (Purdue University) we started the model calibration using lucerne as the main case study. The next steps of this project are the update of the P submodel in the APSIM-Wheat model and to parametrize APSIM Next Generation to model N dynamics in SugarCane systems.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Current development of a Phosphorus model in APSIM Classic for lucerne under Australian and US environments&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers&#34;&gt;Host Researchers&lt;/h4&gt;
+&lt;p&gt;Dr Keith Pembleton and Ms Chloe Lai&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;CRC for High Performance Soils Ltd. Australia&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Entre Rios</title>
+      <link>//localhost:1313/stays/oroverde/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/oroverde/</guid>
+      <description>&lt;h3 id=&#34;apsim-advanced-training-workshop-oro-verde-argentina&#34;&gt;APSIM Advanced Training Workshop, Oro Verde, Argentina&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;31 Jul - 2 Aug 2019&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;Dr. Octavio Caviglia and I conducted a 3-day advanced modeling workshop at the National University of Entre Rios. This workshop aimed to introduce the basics to run APSIM using real case studies from Argentina. The workshop included more than 15 participants (graduate and postgraduate students and INTA researchers). The main topics addressed were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to crop simulation models, modeling phases, spatial and temporal scales, statistical analyses.&lt;/li&gt;
+&lt;li&gt;Model complexity, model parameterization, and evaluation, sensitivity analysis and model intercomparison e.g. APSIM &lt;em&gt;vs.&lt;/em&gt; others biophysical models such as DSSAT, STICS.&lt;/li&gt;
+&lt;li&gt;Minimum data requirements for model simulation.&lt;/li&gt;
+&lt;li&gt;Modelling single crops, crop sequences, and long-term rotations. Factorials and scenario analysis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Initial discussions about future collaborations and PhD student interchange between organisations&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;p&gt;Dr Octavio Caviglia&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;National University of Entre Rios&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lincoln University and P&amp;F</title>
+      <link>//localhost:1313/stays/lincoln/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/lincoln/</guid>
+      <description>&lt;h3 id=&#34;lucerne-workshop-and-potato-modelling-lincoln-new-zealand&#34;&gt;Lucerne Workshop and Potato Modelling, Lincoln, New Zealand&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;8 Sep - 1 Oct 2019&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;I participated in a 2-week workshop organized by Dr. Derrick Moot (Dryland Pastures Research Team) focused on lucerne eco-physiology and modeling. A group of more than 30 international researchers discussed how to better predict the behavior of this crop using current modeling tools. The main topics discussed during this workshop are listed below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Growth and development.&lt;/li&gt;
+&lt;li&gt;Overview of current models being used. APSIM, STICS, HERMES.&lt;/li&gt;
+&lt;li&gt;Phenology and canopy characteristics.&lt;/li&gt;
+&lt;li&gt;Dry matter accumulation and partitioning, fall dormancy.&lt;/li&gt;
+&lt;li&gt;Soil water dynamics and modeling water stress effects on lucerne.&lt;/li&gt;
+&lt;li&gt;Soils, limiting situations, grazing and model applications.&lt;/li&gt;
+&lt;li&gt;Nitrogen fixation/soil carbon and N dynamics.&lt;/li&gt;
+&lt;li&gt;Plant physiology, allometry, herbage quality, N dynamics.&lt;/li&gt;
+&lt;li&gt;On-farm applications – examples for farm systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also spent one week at the Plant and Food Research Institute working with Dr. Hamish Brown. We focused our work on the analysis of crop model configuration using the potato APSIM model as a case study.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Paper under review &lt;em&gt;in-silico&lt;/em&gt; Plants&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;p&gt;Dr Derrick Moot and Dr Hamish Brown&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Tasmanian Institute of Agriculture and Lincoln University&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Gottingen</title>
+      <link>//localhost:1313/stays/gottingen/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/gottingen/</guid>
+      <description>&lt;h3 id=&#34;georg-august-universität-göttingen-göttingen-germany&#34;&gt;Georg-August-Universität Göttingen, Göttingen, Germany&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;20 Apr - 15 May 2019&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;In collaboration with Dr. Ehsan Eyshi Rezaei and Dr. Stefan Siebert at the University of Gottingen, we worked in a research paper based on quantifying data aggregation effects (from soil [DAEs] and climate [DAEc] ) of model input data and their combined impacts for simulated irrigated and rainfed yield and irrigation water requirements (IWR). This study highlights the need to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Separately quantify the impact of input data aggregation on model outputs to inform about data aggregation error.&lt;/li&gt;
+&lt;li&gt;Identify those variables that explain these aggregation errors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In line with previous studies, DAEc was mainly driven by differences in elevation and DAEs were largely influenced by soil properties. Climate input data, mainly rainfall, play a key role as a driver of potato yield variability at high spatial resolution. At coarser resolutions, soil data aggregation can strongly affect simulated potato yield (under rainfed conditions) and IWR. This study can guide crop modelers when choosing the spatial resolution for regional simulation related to regional water use and climate change impact assessments. More research is needed to assess model responses to other potato management practices, such as nitrogen fertilization rate, planting density, and genotype. Crop modeling using input data at coarse resolution needs to consider DAEc and DAEs to quantify the bias associated with data aggregation. This bias, which may be significant, may skew decisionmaking at the regional level.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Paper published in Science of the Total Environment&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;p&gt;Dr Ehsan Eyshi Rezaei and Dr Stefan Siebert&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Australia-Germany Joint Research Co-operation Scheme, Universities Australia, German Academic Exchange Service (DAAD)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wageningen University, University of Gottingen and ZALF</title>
+      <link>//localhost:1313/stays/wageningen/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/wageningen/</guid>
+      <description>&lt;h3 id=&#34;wageningen-university-wageningen-the-netherlands&#34;&gt;Wageningen University, Wageningen, The Netherlands&lt;/h3&gt;
+&lt;h3 id=&#34;university-of-göttingen-göttingen-germany&#34;&gt;University of Göttingen, Göttingen, Germany&lt;/h3&gt;
+&lt;h3 id=&#34;leibniz-centre-for-agricultural-landscape-research-müncheberg-germany&#34;&gt;Leibniz Centre for Agricultural Landscape Research, Müncheberg, Germany&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;29 May - 17 June 2018&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Postgraduate Course The Netherlands&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I attended to a 6-day Postgraduate Course (3-8 June 2018) entitled “Fundamentals of Crop Physiology in a Changing World and organized by the C.T. De Wit Graduate School Production Ecology &amp;amp; Resource Conservation at Wageningen University in collaboration with the University of Florida.&lt;/p&gt;
+&lt;p&gt;Course lecturers included Frank Ewert, Ken Boote, Pierre Martre, Paul Struik, Xinyou Yin, Jochem Evers, Melanie Correll, and many others. The course focused on the fundamental knowledge and insight one must have about crops to be able to adapt agronomic practices to the changing world. The toolbox in this course was a variety of plant and crop models. The overall goal of this course was to understand the effects of temperature, light, CO2, and water on the carbon source-sink relationships of plants and to improve the underlying models.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Research visit Germany&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I conducted a 4-day research visit to collaborators at the University of Gottingen and Leibniz Centre for Agricultural Landscape Research to discuss a project submission.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;We wrote a research proposal under the Australia-Germany Joint Research Co-operation Scheme which was granted (AUD$40,360).&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof Stefan Siebert, Dr Ehsan Eyshi Rezaei (University of Göttingen)&lt;/li&gt;
+&lt;li&gt;Dr Bahareh Kamali, Dr Heidi Webber, Dr Frank Ewert (Leibniz Centre for Agricultural Landscape Research)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Research Travel Funding Water for Profit Program, Tasmanian Institute of Agriculture&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;AUD $6,000&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Purdue University</title>
+      <link>//localhost:1313/stays/purdue/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/purdue/</guid>
+      <description>&lt;h3 id=&#34;department-of-agronomy-purdue-university-west-lafayette-indiana-us&#34;&gt;Department of Agronomy, Purdue University, West Lafayette, Indiana, US&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;From May 2015 to Mar 2016&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;I modified APSIM Classic so that it could accurately predict growth and yield of switchgrass and Miscanthus; two plant species that are not yet represented in this large, multi-species model. I altered two existing APSIM sub-models (lucerne, sugarcane) using knowledge of species-specific differences in growth, development and agronomic practices. In brief, the modifications for Miscanthus include radiation use efficiency and biomass partitioning. The modifications for Switchgrass were more extensive and included the thermal time calculation, biomass partitioning, radiation use efficiency, transpiration efficiency, temperature dependency of photosynthesis and the light extinction coefficient. I also assembled large databases for soils and weather that I could subsequently associate with site-specific yield data of both species and successfully calibrated and validated both of these new sub-models. These new APSIM sub-models predict the yield of both species across broad geographies from the East Coast to the Great Plains of the US.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I altered the APSIM maize model routine in substantive ways to predict corn yield in continuous corn and soybean-corn rotations. First, I successfully calibrated and validated the model using data from the Eastern corn belt of the US. I then used water flow and agronomic data from Purdue’s Water Quality Field Station (WQFS) to calibrate the water use/drainage sub-routine of water balance data that can be obtained. This enabled to make improvement in the APSIM maize model not otherwise possible.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Publications&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ojeda JJ, Volenec JJ, Brouder SM, Caviglia OP, Agnusdei MG (2017) Evaluation of Agricultural Production Systems Simulator (APSIM) as yield predictor of Panicum virgatum and Miscanthus x giganteus in several US environments. Global Change Biology Bioenergy. 9, 796-816. doi:10.1111/gcbb.12384&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ojeda JJ, Volenec JJ, Brouder SM, Caviglia OP, Agnusdei MG (2018) Modelling stover and grain yields, and subsurface artificial drainage from long-term corn rotations using APSIM. Agricultural Water Management. 195, 154-171. doi:10.1016/j.agwat.2017.10.010&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Model development&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Adaption of APSIM Sugar and Lucerne to represent Miscanthus and Switchgrass&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This code contains simulations of Sugar adapted to represent Miscanthus and Lucerne to represent Switchgrass.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/APSIMInitiative/APSIMClassic/tree/master/Examples/BioEnergy&#34;&gt;https://github.com/APSIMInitiative/APSIMClassic/tree/master/Examples/BioEnergy&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers&#34;&gt;Host Researchers&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr Jeffrey Volenec and Dr Sylvie Brouder (Purdue University)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Fulbright Fellowship, Fulbright Commission, United States&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;AUD $37,000&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Sydney and University of Tasmania</title>
+      <link>//localhost:1313/stays/uni-sydney-tas/</link>
+      <pubDate>Sat, 12 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/uni-sydney-tas/</guid>
+      <description>&lt;h3 id=&#34;faculty-of-veterinary-science-the-university-of-sydney-camden-nsw-australia&#34;&gt;Faculty of Veterinary Science, The University of Sydney, Camden, NSW, Australia&lt;/h3&gt;
+&lt;h3 id=&#34;tasmanian-institute-of-agriculture-university-of-tasmania-burnie-tas-australia&#34;&gt;Tasmanian Institute of Agriculture, University of Tasmania, Burnie, TAS, Australia&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;From October to December 2013&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;As an APSIM trainee, I was a visiting scholar at the Dairy group of The University of Sydney in Camden and at the Tasmanian Institute of Agriculture, University of Tasmania. We used experimental field data collected in several locations of Argentina and Australia to evaluate the ability of APSIM Classic to simulate the growth patterns of annual and perennial forage crops and to predict dry matter yields in these regions. We also evaluated the APSIM ability to predict forage dry matter yield and water productivity of multiple continuous forage crop sequences.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Two research collaborative papers published in high impact scientific journals.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ojeda JJ, Pembleton KG, Islam MR, Agnusdei MG, Garcia SC (2016) Evaluation of the agricultural production systems simulator simulating Lucerne and annual ryegrass dry matter yield in the Argentine Pampas and south-eastern Australia. Agricultural Systems. 143, 61-75. Publication derived from my PhD thesis. doi:10.1016/j.agsy.2015.12.005&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ojeda JJ, Pembleton KG, Islam MR, Caviglia OP, Agnusdei MG, Garcia SC (2018) Modelling forage yield and water productivity of continuous crop sequences in the Argentinian Pampas. European Journal of Agronomy. 92, 84-96. Publication derived from PhD thesis. doi: 10.1016/j.eja.2017.10.004&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;host-researchers&#34;&gt;Host Researchers&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr Keith Pembleton (Tasmanian Institute of Agriculture)&lt;/li&gt;
+&lt;li&gt;Dr Rafiq Islam and Dr Sergio (Yani) Garcia (University of Sydney)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Funded by INNOVA-T Grant and funding from INTA, The University of Sydney and University of Tasmania.&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;AUD $15,000&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

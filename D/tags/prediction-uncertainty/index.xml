@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prediction uncertainty | Academic</title>
+    <link>//localhost:1313/tags/prediction-uncertainty/</link>
+      <atom:link href="//localhost:1313/tags/prediction-uncertainty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prediction uncertainty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Prediction uncertainty</title>
+      <link>//localhost:1313/tags/prediction-uncertainty/</link>
+    </image>
+    
+    <item>
+      <title>Estimating Uncertainty in Crop Models</title>
+      <link>//localhost:1313/phd/ranju/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/phd/ranju/</guid>
+      <description>&lt;h3 id=&#34;about-ranju&#34;&gt;About Ranju&lt;/h3&gt;
+&lt;p&gt;Ranju is a young researcher originally from Nepal. Ranju&amp;rsquo;s research interest is within the field of water resources considering climate change impact and adaptation in water resources, ecohydrology, and agriculture. She did her Master in Water Engineering and Management at the Asian Institute of Technology and then she worked as Research Associate for three years before starting her Ph.D. at UTAS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Contact:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;mailto:Ranju.Chapagain@utas.edu.au&#34;&gt;Ranju.Chapagain@utas.edu.au&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;about-the-project&#34;&gt;About the project&lt;/h3&gt;
+&lt;p&gt;This project aims to quantify model prediction uncertainty in crop model system using example crops such as potato, for Tasmania and Australia and to test the hypothesis that predicted model outputs vary with the different sources of input, models used for simulation and model parameters.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;General research question&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How do model outputs (e.g. crop yield, water, and energy use efficiency) vary with different inputs, simulation models and model parameters while predicting uncertainty for crop model system using example crops such as potato at a regional and national scale?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Specific research questions&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the dominant sources of uncertainty in crop model systems, using potato and wheat as example crops?&lt;/li&gt;
+&lt;li&gt;How much weight does each uncertainty source contribute to the total uncertainty?&lt;/li&gt;
+&lt;li&gt;What is the relative contribution of different sources of uncertainty with crop model systems, using potato as an example crop?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Hypotheses&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uncertainty in soil data outweighs uncertainty due to climate and management practices in crop model systems.&lt;/li&gt;
+&lt;li&gt;The weight of climate uncertainty is higher than other uncertainty sources in crop model systems.&lt;/li&gt;
+&lt;li&gt;The ensemble of crop models reduces uncertainty.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To assess uncertainty in crop model outputs (crop yield, water use efficiency and energy use efficiency) using example systems such as wheat and potato at state (Tasmania) and national scale.&lt;/li&gt;
+&lt;li&gt;To investigate the variability of uncertainty over time and space.&lt;/li&gt;
+&lt;li&gt;To determine the contribution made by each source to predict uncertainty.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;location&#34;&gt;Location&lt;/h4&gt;
+&lt;p&gt;Tasmanian Institute of Agriculture, University of Tasmania, Tasmania, Australia&lt;/p&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;From March 2019 to March 2023&lt;/p&gt;
+&lt;h4 id=&#34;supervisors&#34;&gt;Supervisors&lt;/h4&gt;
+&lt;p&gt;Dr Jonathan Ojeda (primary supervisor), Dr Bec Harris and Dr Tom Remenyi (Geography and Spatial Sciences-UTAS), Dr Neil Huth and Dr Jaci Brown (CSIRO), Prof Caroline Mohammed (TIA-UTAS).&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;University of Tasmania and Australian Sustainable Agriculture Elite Scholarship (CSIRO-TIA/UTAS)&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;Total: AUD$303,226&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;UTAS Tuition Fee: AUD$144,900&lt;/li&gt;
+&lt;li&gt;Tasmania Graduate Research Scholarship living allowance: AUD$108,328&lt;/li&gt;
+&lt;li&gt;Australian Sustainable Agriculture Elite Scholarship: AUD$49,998&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncertainty decomposition in crop models</title>
+      <link>//localhost:1313/project/project-5/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/project-5/</guid>
+      <description>&lt;h2 id=&#34;phd-project-estimating-uncertainty-in-agricultural-crop-models&#34;&gt;PhD Project: Estimating Uncertainty in Agricultural Crop Models&lt;/h2&gt;
+&lt;p&gt;Crop models are an essential tool for simulating crop growth, development and yield at different scales (e.g. field, basin, region, national, global). Crop models produce actionable information on issues related to food security, climate change, land-use change, and market dynamics. Despite increasing importance and use, various sources of uncertainty exist in the modeling process due to the “impossibility to model the cropping system with complete determinism”. In this Ph.D. project, by uncertainty, we mean “any departure from the unachievable ideal of complete determinism”. Uncertainty exists in each step of the crop modeling processes. Observational data is imperfect and often non-standard, with varying sources over different spatial and temporal scales. This can lead to uncertainty surrounding inputs selected, but also has implications during model development (e.g. model structure) and tuning (e.g. model parameter selection). Hence, uncertainty can be grouped into three categories- a) observation uncertainty, b) prediction uncertainty and c) model uncertainty. These three categories of uncertainty are closely related but different from one another. Addressing these uncertainties is extremely important, as this will allow the user to better understand the level of confidence in the model outputs and select actionable practices accordingly. As such, this Ph.D. project focuses on the historical and current research gaps, trends and challenges in estimating uncertainty in crop modeling to answer the following research questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Are temporal dynamics considered in model uncertainty assessments (e.g. future scenarios)? If so, is there a bias to assess future climate uncertainty?&lt;/li&gt;
+&lt;li&gt;How does crop model uncertainty decompose? Does the decomposition follow any methodology? Does each assessment specify the model uncertainty source analyzed, and if so, which source of model uncertainty is considered? Are interactions between sources of uncertainties considered?&lt;/li&gt;
+&lt;li&gt;Is there a predominance of studies assessing model uncertainty for a specific model output (e.g. crop yield)?&lt;/li&gt;
+&lt;li&gt;Which statistics or mathematical approaches (e.g. Bayesian, ANOVA) are used to quantify the model uncertainties?&lt;/li&gt;
+&lt;li&gt;Which key gaps exist in understanding, characterizing, and assessing crop model uncertainty? Which are the possible ways to reduce crop model uncertainty?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;parterns&#34;&gt;Parterns&lt;/h4&gt;
+&lt;p&gt;University of Göttingen (Dr Ehsan Eyshi Rezaei), INRA (Dr Daniel Wallach)&lt;/p&gt;
+&lt;h4 id=&#34;phd-student&#34;&gt;PhD Student&lt;/h4&gt;
+&lt;p&gt;Ranju Chapagain&lt;/p&gt;
+&lt;h4 id=&#34;primary-supervisor&#34;&gt;Primary supervisor&lt;/h4&gt;
+&lt;p&gt;Dr Jonathan Ojeda&lt;/p&gt;
+&lt;h4 id=&#34;co-supervisors&#34;&gt;Co-supervisors&lt;/h4&gt;
+&lt;p&gt;Dr Harris R and Dr Remenyi T (Geography and Spatial Sciences-UTAS), Dr Huth N and Dr Brown J (CSIRO), Prof Mohammed C (TIA-UTAS).&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;University of Tasmania and Australian Sustainable Agriculture Elite Scholarship (CSIRO-TIA/UTAS)&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;Total: AUD$303,226&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;UTAS Tuition Fee: AUD$144,900&lt;/li&gt;
+&lt;li&gt;Tasmania Graduate Research Scholarship living allowance: AUD$108,328&lt;/li&gt;
+&lt;li&gt;Australian Sustainable Agriculture Elite Scholarship: AUD$49,998&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

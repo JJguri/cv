@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crop eco-physiology | Academic</title>
+    <link>//localhost:1313/tags/crop-eco-physiology/</link>
+      <atom:link href="//localhost:1313/tags/crop-eco-physiology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Crop eco-physiology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Crop eco-physiology</title>
+      <link>//localhost:1313/tags/crop-eco-physiology/</link>
+    </image>
+    
+    <item>
+      <title>Lincoln University and P&amp;F</title>
+      <link>//localhost:1313/stays/lincoln/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/lincoln/</guid>
+      <description>&lt;h3 id=&#34;lucerne-workshop-and-potato-modelling-lincoln-new-zealand&#34;&gt;Lucerne Workshop and Potato Modelling, Lincoln, New Zealand&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;8 Sep - 1 Oct 2019&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;I participated in a 2-week workshop organized by Dr. Derrick Moot (Dryland Pastures Research Team) focused on lucerne eco-physiology and modeling. A group of more than 30 international researchers discussed how to better predict the behavior of this crop using current modeling tools. The main topics discussed during this workshop are listed below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Growth and development.&lt;/li&gt;
+&lt;li&gt;Overview of current models being used. APSIM, STICS, HERMES.&lt;/li&gt;
+&lt;li&gt;Phenology and canopy characteristics.&lt;/li&gt;
+&lt;li&gt;Dry matter accumulation and partitioning, fall dormancy.&lt;/li&gt;
+&lt;li&gt;Soil water dynamics and modeling water stress effects on lucerne.&lt;/li&gt;
+&lt;li&gt;Soils, limiting situations, grazing and model applications.&lt;/li&gt;
+&lt;li&gt;Nitrogen fixation/soil carbon and N dynamics.&lt;/li&gt;
+&lt;li&gt;Plant physiology, allometry, herbage quality, N dynamics.&lt;/li&gt;
+&lt;li&gt;On-farm applications – examples for farm systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also spent one week at the Plant and Food Research Institute working with Dr. Hamish Brown. We focused our work on the analysis of crop model configuration using the potato APSIM model as a case study.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Paper under review &lt;em&gt;in-silico&lt;/em&gt; Plants&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;p&gt;Dr Derrick Moot and Dr Hamish Brown&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Tasmanian Institute of Agriculture and Lincoln University&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

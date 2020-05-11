@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weather data | Academic</title>
+    <link>//localhost:1313/tags/weather-data/</link>
+      <atom:link href="//localhost:1313/tags/weather-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weather data</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Weather data</title>
+      <link>//localhost:1313/tags/weather-data/</link>
+    </image>
+    
+    <item>
+      <title>ZALF</title>
+      <link>//localhost:1313/stays/zalf/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/zalf/</guid>
+      <description>&lt;h3 id=&#34;leibniz-centre-for-agricultural-landscape-research-müncheberg-germany&#34;&gt;Leibniz Centre for Agricultural Landscape Research, Müncheberg, Germany&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;12 Jan - 1 Feb 2020&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;I was working in collaboration with Dr. Bahareh Kamali, Dr. Heidi Webber at the Leibniz Centre for Agricultural Landscape Research. I also interacted with Dr. Ignacio Lorite Torres (IFAPA, Spain) who is also a key collaborator of this research project. We quantified the share of different drivers of yield variability stemming from climatic factors (drought, heat stress, climate change) and non-climatic factors (irrigation strategy and cultivars) for irrigated systems and measured the associated uncertainty of each driver in climate change impact studies. We used a combination of process-based crop models with machine-learning algorithms to explore the underlying reasons for yield variability over 18 years of irrigated maize in Andalusia, Spain. The drivers of variability were identified at different irrigation strategies, cultivated with different cultivars. The underlying factors of yield variability were measured and the possible pathways to reduce yield variabilities were investigated. More specifically, we addressed the below key questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Which climatic and non-climatic factors are dominant in explaining irrigated maize yield variability for impact assessment studies? Which factor contributes the greatest share to yield variability?&lt;/li&gt;
+&lt;li&gt;How do the drivers of maize yield variability differ under different genotypes, irrigation strategies, sowing dates, and crop model structures?&lt;/li&gt;
+&lt;li&gt;How do the roles of different factors change under different climatic extremes?&lt;/li&gt;
+&lt;li&gt;What is the level of uncertainty stemming from different drivers for climate change impact assessment studies?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Two manuscripts in preparation to be submitted soon.&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr Bahareh Kamali, Dr Heidi Webber, Dr Frank Ewert (Leibniz Centre for Agricultural Landscape Research)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Australia-Germany Joint Research Co-operation Scheme, Universities Australia, German Academic Exchange Service (DAAD)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Crop-livestock adaptation to climate change based on modelling and remote-sensing</title>
+      <link>//localhost:1313/project/project-1/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/project-1/</guid>
+      <description>&lt;p&gt;Good livestock management and policies are crucial to maintaining economic stability while addressing the challenges of climate change. Yet the policies and practices guiding the industry vary by region and nation.&lt;/p&gt;
+&lt;p&gt;We will assess how crop-livestock practices impact farm performance regionally under
+different climate change scenarios. Coupling existing multiple-scaling and remote-sensing
+techniques with advanced biophysical models we will evaluate drivers of yield variability for
+feed systems in Argentina, Uruguay, and Australia.&lt;/p&gt;
+&lt;p&gt;This project will hold three workshops. The workshops aim to assess how crop-livestock management practices impact regional farming performance under different climate change scenarios. Technologies, which will be used to assess the yield variability for diverse forage cropping systems, include existing model-scaling and remote-sensing techniques developed in Argentina (the most advanced biophysical models in the world). These assessments will take place in Argentina, Uruguay, and Australia. The workshops will also strengthen crop-livestock management skills for the three countries in different areas: systems modeling (Australia), remote-sensing system (Argentina), and livestock systems analysis (Uruguay).&lt;/p&gt;
+&lt;p&gt;The project will be conducted collaboratively with livestock industry decision-makers who will perform foresight exercises to explore alternative futures. This will facilitate the development of forage crop regional management and preparation for environmental impacts.&lt;/p&gt;
+&lt;h4 id=&#34;partners&#34;&gt;Partners&lt;/h4&gt;
+&lt;p&gt;University of Southern Queensland (Australia), University of Buenos Aires (Argentina), University of Entre Rios (Argentina), Instituto Nacional de Investigación Agropecuaria (Uruguay), Association of Regional Consortiums of Agricultural Experimentation (Argentina and Uruguay)&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Council on Australia Latin America Relations (COALAR) Department of Foreign Affairs and Trade, Australian Government.&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;AUD$54,952&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effects of soil- and climate data aggregation on simulated potato yield and irrigation water requirement</title>
+      <link>//localhost:1313/publication/effects-of-data-aggregation/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/effects-of-data-aggregation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Gottingen</title>
+      <link>//localhost:1313/stays/gottingen/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/gottingen/</guid>
+      <description>&lt;h3 id=&#34;georg-august-universität-göttingen-göttingen-germany&#34;&gt;Georg-August-Universität Göttingen, Göttingen, Germany&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;20 Apr - 15 May 2019&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;In collaboration with Dr. Ehsan Eyshi Rezaei and Dr. Stefan Siebert at the University of Gottingen, we worked in a research paper based on quantifying data aggregation effects (from soil [DAEs] and climate [DAEc] ) of model input data and their combined impacts for simulated irrigated and rainfed yield and irrigation water requirements (IWR). This study highlights the need to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Separately quantify the impact of input data aggregation on model outputs to inform about data aggregation error.&lt;/li&gt;
+&lt;li&gt;Identify those variables that explain these aggregation errors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In line with previous studies, DAEc was mainly driven by differences in elevation and DAEs were largely influenced by soil properties. Climate input data, mainly rainfall, play a key role as a driver of potato yield variability at high spatial resolution. At coarser resolutions, soil data aggregation can strongly affect simulated potato yield (under rainfed conditions) and IWR. This study can guide crop modelers when choosing the spatial resolution for regional simulation related to regional water use and climate change impact assessments. More research is needed to assess model responses to other potato management practices, such as nitrogen fertilization rate, planting density, and genotype. Crop modeling using input data at coarse resolution needs to consider DAEc and DAEs to quantify the bias associated with data aggregation. This bias, which may be significant, may skew decisionmaking at the regional level.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Paper published in Science of the Total Environment&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers-in-germany&#34;&gt;Host Researchers in Germany&lt;/h4&gt;
+&lt;p&gt;Dr Ehsan Eyshi Rezaei and Dr Stefan Siebert&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;Australia-Germany Joint Research Co-operation Scheme, Universities Australia, German Academic Exchange Service (DAAD)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The BestiaPop - A Python package to automatically generate gridded climate data for crop models</title>
+      <link>//localhost:1313/project/project-6/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/project-6/</guid>
+      <description>&lt;p&gt;Climate data is an essential input for crop models to predict crop growth and development using site-specific (point) or gridded climate data. While point data is currently available in a readily APSIM format, gridded data is stored in NetCDF files which are difficult to store and convert to an input file readable by APSIM or other crop models. We developed BestiaPop, a Python package that allows model users to automatically download SILO&amp;rsquo;s (Scientific Information for Land Owners) gridded climate data in an APSIM format. The package offers the possibility to select a range of grids (5 km × 5 km resolution) and years producing a file with climate data available at SILO. The package was tested across areas suitable for potato (Solanum tuberosum L.) in Tasmania, Australia. A total of 1731 climate files across 20 years (1998-2017) were automatically downloaded and the spatio-temporal variability of climate inputs was mapped. The case study reveals that the implemented BestiaPop is a useful and efficient tool to automatically download gridded climate data in an APSIM format and could be extended to other crop models and regions across Australia.&lt;/p&gt;
+&lt;h4 id=&#34;parterns&#34;&gt;Parterns&lt;/h4&gt;
+&lt;p&gt;Diego Perez @darkquasar (Hydro Tasmania)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncertainty decomposition in crop models</title>
+      <link>//localhost:1313/project/project-5/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/project-5/</guid>
+      <description>&lt;h2 id=&#34;phd-project-estimating-uncertainty-in-agricultural-crop-models&#34;&gt;PhD Project: Estimating Uncertainty in Agricultural Crop Models&lt;/h2&gt;
+&lt;p&gt;Crop models are an essential tool for simulating crop growth, development and yield at different scales (e.g. field, basin, region, national, global). Crop models produce actionable information on issues related to food security, climate change, land-use change, and market dynamics. Despite increasing importance and use, various sources of uncertainty exist in the modeling process due to the “impossibility to model the cropping system with complete determinism”. In this Ph.D. project, by uncertainty, we mean “any departure from the unachievable ideal of complete determinism”. Uncertainty exists in each step of the crop modeling processes. Observational data is imperfect and often non-standard, with varying sources over different spatial and temporal scales. This can lead to uncertainty surrounding inputs selected, but also has implications during model development (e.g. model structure) and tuning (e.g. model parameter selection). Hence, uncertainty can be grouped into three categories- a) observation uncertainty, b) prediction uncertainty and c) model uncertainty. These three categories of uncertainty are closely related but different from one another. Addressing these uncertainties is extremely important, as this will allow the user to better understand the level of confidence in the model outputs and select actionable practices accordingly. As such, this Ph.D. project focuses on the historical and current research gaps, trends and challenges in estimating uncertainty in crop modeling to answer the following research questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Are temporal dynamics considered in model uncertainty assessments (e.g. future scenarios)? If so, is there a bias to assess future climate uncertainty?&lt;/li&gt;
+&lt;li&gt;How does crop model uncertainty decompose? Does the decomposition follow any methodology? Does each assessment specify the model uncertainty source analyzed, and if so, which source of model uncertainty is considered? Are interactions between sources of uncertainties considered?&lt;/li&gt;
+&lt;li&gt;Is there a predominance of studies assessing model uncertainty for a specific model output (e.g. crop yield)?&lt;/li&gt;
+&lt;li&gt;Which statistics or mathematical approaches (e.g. Bayesian, ANOVA) are used to quantify the model uncertainties?&lt;/li&gt;
+&lt;li&gt;Which key gaps exist in understanding, characterizing, and assessing crop model uncertainty? Which are the possible ways to reduce crop model uncertainty?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;parterns&#34;&gt;Parterns&lt;/h4&gt;
+&lt;p&gt;University of Göttingen (Dr Ehsan Eyshi Rezaei), INRA (Dr Daniel Wallach)&lt;/p&gt;
+&lt;h4 id=&#34;phd-student&#34;&gt;PhD Student&lt;/h4&gt;
+&lt;p&gt;Ranju Chapagain&lt;/p&gt;
+&lt;h4 id=&#34;primary-supervisor&#34;&gt;Primary supervisor&lt;/h4&gt;
+&lt;p&gt;Dr Jonathan Ojeda&lt;/p&gt;
+&lt;h4 id=&#34;co-supervisors&#34;&gt;Co-supervisors&lt;/h4&gt;
+&lt;p&gt;Dr Harris R and Dr Remenyi T (Geography and Spatial Sciences-UTAS), Dr Huth N and Dr Brown J (CSIRO), Prof Mohammed C (TIA-UTAS).&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;University of Tasmania and Australian Sustainable Agriculture Elite Scholarship (CSIRO-TIA/UTAS)&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant amount&lt;/h4&gt;
+&lt;p&gt;Total: AUD$303,226&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;UTAS Tuition Fee: AUD$144,900&lt;/li&gt;
+&lt;li&gt;Tasmania Graduate Research Scholarship living allowance: AUD$108,328&lt;/li&gt;
+&lt;li&gt;Australian Sustainable Agriculture Elite Scholarship: AUD$49,998&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelling inter-annual variation in dry matter yield and precipitation use efficiency of perennial pastures and annual forage crops sequences</title>
+      <link>//localhost:1313/publication/modelling-variation-dm-yield/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/modelling-variation-dm-yield/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

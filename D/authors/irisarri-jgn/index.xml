@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Irisarri JGN | Academic</title>
+    <link>//localhost:1313/authors/irisarri-jgn/</link>
+      <atom:link href="//localhost:1313/authors/irisarri-jgn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Irisarri JGN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Irisarri JGN</title>
+      <link>//localhost:1313/authors/irisarri-jgn/</link>
+    </image>
+    
+    <item>
+      <title>Modelling inter-annual variation in dry matter yield and precipitation use efficiency of perennial pastures and annual forage crops sequences</title>
+      <link>//localhost:1313/publication/modelling-variation-dm-yield/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/modelling-variation-dm-yield/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

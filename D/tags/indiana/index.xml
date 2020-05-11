@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indiana | Academic</title>
+    <link>//localhost:1313/tags/indiana/</link>
+      <atom:link href="//localhost:1313/tags/indiana/index.xml" rel="self" type="application/rss+xml" />
+    <description>Indiana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Wed, 11 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Indiana</title>
+      <link>//localhost:1313/tags/indiana/</link>
+    </image>
+    
+    <item>
+      <title>Modelling stover and grain yields, and subsurface artificial drainage from long-term corn rotations using APSIM</title>
+      <link>//localhost:1313/publication/drainage-corn-rotations/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/drainage-corn-rotations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

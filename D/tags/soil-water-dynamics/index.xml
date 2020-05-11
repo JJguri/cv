@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soil water dynamics | Academic</title>
+    <link>//localhost:1313/tags/soil-water-dynamics/</link>
+      <atom:link href="//localhost:1313/tags/soil-water-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Soil water dynamics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Soil water dynamics</title>
+      <link>//localhost:1313/tags/soil-water-dynamics/</link>
+    </image>
+    
+    <item>
+      <title>University of Southern Queensland</title>
+      <link>//localhost:1313/stays/usq/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/stays/usq/</guid>
+      <description>&lt;h3 id=&#34;university-of-southern-queensland-toowoomba-qld-australia&#34;&gt;University of Southern Queensland, Toowoomba, QLD, Australia&lt;/h3&gt;
+&lt;h4 id=&#34;period&#34;&gt;Period&lt;/h4&gt;
+&lt;p&gt;15 Dec - 21 Dec 2019&lt;/p&gt;
+&lt;h4 id=&#34;activities&#34;&gt;Activities&lt;/h4&gt;
+&lt;p&gt;We conducted a workshop under our CRC soil project in Brisbane. During this meeting, we discussed current advances in model development on phosphorus and soil water dynamics. We also set up the main modeling priorities with farming group representatives. After this meeting, I was intensively working with Dr. Pembleton and Ms. Lai on the model calibration using national and international datasets. In collaboration with Dr. Volenec and Brouder (Purdue University) we started the model calibration using lucerne as the main case study. The next steps of this project are the update of the P submodel in the APSIM-Wheat model and to parametrize APSIM Next Generation to model N dynamics in SugarCane systems.&lt;/p&gt;
+&lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
+&lt;p&gt;Current development of a Phosphorus model in APSIM Classic for lucerne under Australian and US environments&lt;/p&gt;
+&lt;h4 id=&#34;host-researchers&#34;&gt;Host Researchers&lt;/h4&gt;
+&lt;p&gt;Dr Keith Pembleton and Ms Chloe Lai&lt;/p&gt;
+&lt;h4 id=&#34;funded-by&#34;&gt;Funded by&lt;/h4&gt;
+&lt;p&gt;CRC for High Performance Soils Ltd. Australia&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

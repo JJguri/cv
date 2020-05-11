@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alfalfa | Academic</title>
+    <link>//localhost:1313/tags/alfalfa/</link>
+      <atom:link href="//localhost:1313/tags/alfalfa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alfalfa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Alfalfa</title>
+      <link>//localhost:1313/tags/alfalfa/</link>
+    </image>
+    
+    <item>
+      <title>Modelling inter-annual variation in dry matter yield and precipitation use efficiency of perennial pastures and annual forage crops sequences</title>
+      <link>//localhost:1313/publication/modelling-variation-dm-yield/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/modelling-variation-dm-yield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forage yield, water- and solar radiation-productivities of perennial pastures and annual crops sequences in the south-eastern Pampas of Argentina</title>
+      <link>//localhost:1313/publication/resource-productivities/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/resource-productivities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of the agricultural production systems simulator simulating Lucerne and annual ryegrass dry matter yield in the Argentine Pampas and south-eastern Australia</title>
+      <link>//localhost:1313/publication/modelling-lucerne-raygrass/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/modelling-lucerne-raygrass/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

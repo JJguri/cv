@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kidd DB | Academic</title>
+    <link>//localhost:1313/authors/kidd-db/</link>
+      <atom:link href="//localhost:1313/authors/kidd-db/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kidd DB</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Mon, 03 Feb 2020 17:20:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Kidd DB</title>
+      <link>//localhost:1313/authors/kidd-db/</link>
+    </image>
+    
+    <item>
+      <title>Multi-resolution analysis of aggregated spatial data to simulate yield and irrigation water demand at regional scales (oral presentation)</title>
+      <link>//localhost:1313/talk/icropm-talk/</link>
+      <pubDate>Mon, 03 Feb 2020 17:20:00 +0000</pubDate>
+      <guid>//localhost:1313/talk/icropm-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of soil- and climate data aggregation on simulated potato yield and irrigation water requirement</title>
+      <link>//localhost:1313/publication/effects-of-data-aggregation/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/effects-of-data-aggregation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

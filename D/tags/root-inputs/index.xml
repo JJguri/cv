@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Root inputs | Academic</title>
+    <link>//localhost:1313/tags/root-inputs/</link>
+      <atom:link href="//localhost:1313/tags/root-inputs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Root inputs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Tue, 14 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Root inputs</title>
+      <link>//localhost:1313/tags/root-inputs/</link>
+    </image>
+    
+    <item>
+      <title>Vertical distribution of root biomass and soil carbon stocks in forage cropping systems</title>
+      <link>//localhost:1313/publication/root-c-distribution/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/root-c-distribution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

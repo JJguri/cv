@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crop model development | Academic</title>
+    <link>//localhost:1313/tags/crop-model-development/</link>
+      <atom:link href="//localhost:1313/tags/crop-model-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Crop model development</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jonathan Ojeda</copyright><lastBuildDate>Wed, 07 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/avatar</url>
+      <title>Crop model development</title>
+      <link>//localhost:1313/tags/crop-model-development/</link>
+    </image>
+    
+    <item>
+      <title>APSIM Potato model development</title>
+      <link>//localhost:1313/project/project-4/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/project-4/</guid>
+      <description>&lt;p&gt;Potato farmers often need to face up with complex interactions (genotype [G] * management [M] * environment [E]), which are difficult and costly to diagnose and ameliorate. The specific nature of such interactions and the significant cost to address improvement decisions is an ideal use case for DSS. On the other hand, there were limited modeling studies based on combined analysis of genotype [G] * management [M] * environment [E], which are key to assessing tuber yield variability (spatial and temporal). This project is developing an improved and complete version of the released APSIM Potato model based on a G&lt;em&gt;M&lt;/em&gt;E approach. This model would be a first step towards the development of several APSIM sub-models to simulate tuber yield for different potato genotypes under different crop management strategies. The model should be able to describe in a mechanistic way the processes that have been previously identified as the key determinant of water use, total dry biomass production, and tuber production (e.g. number stems per tuber, phenology, genotypic parameters, etc.).&lt;/p&gt;
+&lt;p&gt;The project has three main research branches:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developing a methodological approach for assessing errors during simulation configuration using Python&lt;/li&gt;
+&lt;li&gt;Model developing using a test set of 426 experiments conducted from 1970 to 2019 in 19 countries (55 locations) including 44 cultivars.&lt;/li&gt;
+&lt;li&gt;Model testing using real farm data across Tasmania (Simplot and McCain farms)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;partners&#34;&gt;Partners&lt;/h4&gt;
+&lt;p&gt;Plant and Food Research New Zealand (Dr Hamish Brown), CSIRO (Dr Neil Huth, Dean Holzworth), Tasmanian Institute of Agriculture (John McPhee) Simplot Tasmania (Frank Mulcahy, Ed Blanchard), McCain Tasmania (Rodney Smith).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
