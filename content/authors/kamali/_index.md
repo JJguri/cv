@@ -47,9 +47,8 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Bahareh_Kamali2
 
-- icon: linkedin
-  icon_pack: fab
-  name: Academic
+- icon: cv
+  icon_pack: ai
   url: https://www.bkamali.com/
 
 # Link to a PDF of your resume/CV from the About widget.
