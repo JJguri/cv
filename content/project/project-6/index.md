@@ -1,5 +1,5 @@
 ---
-title: The BestiaPop - A Python package to automatically generate gridded climate data for crop models
+title: bestiapop - A Python package to automatically generate gridded climate data for crop models
 
 summary: 2019-2020
 tags:
@@ -41,7 +41,9 @@ url_video: ""
 slides: example
 ---
 
+[bestiapop documentation](https://bestiapop.readthedocs.io/en/latest/)
+
 Climate data is an essential input for crop models to predict crop growth and development using site-specific (point) or gridded climate data. While point data is currently available in a readily APSIM format, gridded data is stored in NetCDF files which are difficult to store and convert to an input file readable by APSIM or other crop models. We developed BestiaPop, a Python package that allows model users to automatically download SILO's (Scientific Information for Land Owners) gridded climate data in an APSIM format. The package offers the possibility to select a range of grids (5 km × 5 km resolution) and years producing a file with climate data available at SILO. The package was tested across areas suitable for potato (Solanum tuberosum L.) in Tasmania, Australia. A total of 1731 climate files across 20 years (1998-2017) were automatically downloaded and the spatio-temporal variability of climate inputs was mapped. The case study reveals that the implemented BestiaPop is a useful and efficient tool to automatically download gridded climate data in an APSIM format and could be extended to other crop models and regions across Australia.
 
 #### Parterns
-Diego Perez @darkquasar (Hydro Tasmania)
+Data Analytics Specialist & Code Developer: Diego Perez [@darkquassar](https://linkedin.com/in/diegope)
