@@ -1,5 +1,5 @@
 ---
-title: APSIM Potato model development  
+title: APSIM Potato model development - Mapping potato yield variability under diferent G*E*M scenarios in Tasmania 
 summary: 2018-2021
 tags:
 - APSIM Next Generation
@@ -7,6 +7,9 @@ tags:
 - Model configuration
 - Farm data
 - APSIM Next Generation
+- Simplot
+- McCain
+- Scenario analysis
 date: "2018-11-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -17,10 +20,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: linkedin
+- icon: cow
   icon_pack: fab
-  name: Follow
-  url: https://www.linkedin.com/in/jonathan-j-ojeda-09147047/
+  name: Read UTAS Article about the project
+  url: https://www.utas.edu.au/alumni/news-and-publications/news-items/sowing-the-seeds-of-success-for-the-humble-spud
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -41,6 +44,19 @@ The project has three main research branches:
 - Developing a methodological approach for assessing errors during simulation configuration using Python
 - Model developing using a test set of 426 experiments conducted from 1970 to 2019 in 19 countries (55 locations) including 44 cultivars.
 - Model testing using real farm data across Tasmania (Simplot and McCain farms)
+- Developing visualisation tools to assess the spatio-temporal variability of crop yield.
+
+This project will develop a new visualisation tool to assess the spatio-temporal variability of predicted potato yields and water use under climate change scenarios in Tasmania. The main hypothesis is that yield, and water use differs with the spatial and temporal scale under contrasting climate change scenarios (drought and heat stress). We will address two key questions:
+
+1)	Which climatic and crop management factors are dominant in explaining irrigated potato yield variability at the regional scale? 
+2)	How do the drivers of potato yield variability change with irrigation strategies, sowing dates, and cultivars chosen under different climatic extremes?
+
+The project will pioneer the regional modelling of potato yield as a case study at different spatial scales, information required to assess ongoing agricultural intensification through irrigation schemes (aligned with AgriVision-2050 for Tasmania). A crop model will be calibrated using environmental gridded data and farm data, and then future climate scenarios will be applied based on current irrigation management data provided by Simplot/McCain farmers. The main output of the project will be a visualisation tool (maps) that will allow end-users, particularly potato growers to visualize the current and future spatio-temporal variability of yield and water use across potato growing regions in Tasmania.
+
+One of the first milestones achieved for this project was the development of crop yield variability maps across the entire potato production areas of Tasmania. These maps will be hosted in the [LISTmap](https://maps.thelist.tas.gov.au/listmap/app/list/map) website for free access online. Below is an example of crop yield variability for different soils and irrigation strategies.
+
+![image](/img/projects/maps.jpg)
+_Figure caption. Simulated yield (30 year means; 1960-1990) for early-planting date (5th October) for each soil type (BrC, Brown Chromosol; ReD, Red Dermosol; BrK, Brown Kurosol; GrK, Grey Kurosol; BrF, Brown Ferrosol; ReF, Red Ferrosol; BlC, Black Chromosol; BrD, Brown Dermosol) and irrigation strategy (OPT - Optimum; HIGH - High; MED - Medium; LOW - Low) in the potato production region in Tasmania. Values inside parenthesis after the name of soil type indicate the maximum plant available water capacity (mm). Means (t ha-1) and coefficient of variation (%) (in parenthesis) of simulated yield across years and grid cells are shown at the top of each map. White grids indicate non-agricultural areas._
 
 #### Partners
 Plant and Food Research New Zealand (Dr Hamish Brown), CSIRO (Dr Neil Huth, Dean Holzworth), Tasmanian Institute of Agriculture (John McPhee) Simplot Tasmania (Frank Mulcahy, Ed Blanchard), McCain Tasmania (Rodney Smith).

@@ -60,6 +60,12 @@ This project will hold three workshops. The workshops aim to assess how crop-liv
 
 The project will be conducted collaboratively with livestock industry decision-makers who will perform foresight exercises to explore alternative futures. This will facilitate the development of forage crop regional management and preparation for environmental impacts.
 
+An important part of this project was to spend time together discussing the application of remote sensing data to crop model development. However, due to COVID19 restrictions, the team has been not able to travel, so we carried out several online meetings to advance with the project milestones. Please have a look to some researchers in action!
+
+_**Partners from the University of Buenos Aires at 7:30 AM (Argentinian time) and from the University of Southern Queensland and University of Tasmania at 8:30 PM (Australian time)**_
+![image](/img/projects/work1.jpg)
+![image](/img/projects/work2.jpg)
+
 #### Partners
 University of Southern Queensland (Australia), University of Buenos Aires (Argentina), University of Entre Rios (Argentina), Instituto Nacional de Investigación Agropecuaria (Uruguay), Association of Regional Consortiums of Agricultural Experimentation (Argentina and Uruguay)
 
