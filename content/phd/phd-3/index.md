@@ -1,6 +1,6 @@
 ---
 slug: "demlie"
-title: Modelling the effects of farming intensification on the productivity, profitability, greenhouse gas emissions and ecosystems services in agroforestry and livestock systems
+title: Modelling the effects of farming intensification on the productivity, profitability, greenhouse gas emissions and ecosystems services in livestock systems
 summary: Demlie Gebresellassie Zelelew
 tags:
 - Livestock intensification

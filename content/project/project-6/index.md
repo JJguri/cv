@@ -1,5 +1,5 @@
 ---
-title: bestiapop - A python script for climate data extraction and processing
+title: bestiapop - A python package for climate data extraction and processing
 
 summary: 2019-2020
 tags:
@@ -41,9 +41,9 @@ url_video: ""
 slides: example
 ---
 
-Climate data is an essential input for crop models to predict crop growth and development using site-specific (point) or gridded climate data. While *point* data is currently available in MET format, *gridded data* is provided in NetCDF file format which is difficult to store and convert to an input file readable by [APSIM](https://www.apsim.info) or other crop models. We developed **bestiapop** (a spanish word that translates to *pop beast*), a Python script (*soon to become a package*) which allows model users to automatically download SILO's (Scientific Information for Land Owners) gridded climate data in MET file format that can then be inputted by APSIM for **crop modelling predictions**. The package offers the possibility to select a range of grids (5 km × 5 km resolution) and years producing various types of output files: csv, MET and soon TSV and SQLite.
+Climate data is an essential input for crop models to predict crop growth and development using site-specific (point) or gridded climate data. While *point* data is currently available in MET format, *gridded data* is provided in NetCDF file format which is difficult to store and convert to an input file readable by [APSIM](https://www.apsim.info) or other crop models. We developed **bestiapop** (a spanish word that translates to *pop beast*), a Python script (*soon to become a package*) which allows model users to automatically download gridded climate data, e.g. SILO's (Scientific Information for Land Owners) data in a crop model format such as MET file format in APSIM or WHT format in [DSSAT](https://dssat.net/) that can then be inputted for **crop modelling predictions**. The package offers the possibility to select a range of grids (5 km × 5 km resolution) and years producing various types of output files: MET, WHT and soon csv, SQLite and Jason.
 
-Although the code downloads data from the [SILO](https://www.longpaddock.qld.gov.au/silo/gridded-data/) database, it could be applied to other climate data sources e.g. [NASA POWER](https://power.larc.nasa.gov/) as was impplemented in R using [APSIM CRAN](https://cran.r-project.org/web/packages/APSIM/APSIM.pdf). 
+Although the code currently downloads data from the [SILO](https://www.longpaddock.qld.gov.au/silo/gridded-data/) database, it will be updated to be applied to other climate data sources e.g. [NASA POWER](https://power.larc.nasa.gov/) as was impplemented in R using [APSIM CRAN](https://cran.r-project.org/web/packages/APSIM/APSIM.pdf).
 
 ### Authors
 
@@ -71,7 +71,7 @@ The MET file must also have a year and day column (or date formatted as *yyyy/mm
 
 So far, the code is producing CSV or MET files to be directly used by APSIM, however, it also could be applied to produce input climate data for other crop models such as [DSSAT](https://dssat.net/) and [STICS](https://www6.paca.inrae.fr/stics_eng/About-us/Stics-model-overview). Decision Support System for Agrotechnology Transfer (DSSAT) is a software application program that comprises dynamic crop growth simulation models for over 40 crops. DSSAT is supported by a range of utilities and apps for weather, soil, genetic, crop management, and observational experimental data, and includes example data sets for all crop models. The STICS (Simulateur mulTIdisciplinaire pour les Cultures Standard, or multidisciplinary simulator for standard crops) model is a dynamic, generic and robust model aiming to simulate the soil-crop-atmosphere system.
 
-### More Information
+### Read code documentation at:
 
 [Script documentation](https://bestiapop.readthedocs.io/en/latest/?badge=latest)
 
