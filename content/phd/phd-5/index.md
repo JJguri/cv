@@ -55,4 +55,4 @@ EPG-FAUBA University of Buenos Aires.
 2018-2023
 
 #### Supervisors
-Dr  Martin Oesterheld (primary supervisor), Dr Mariano Oyarzabal, Dr Gonzalo Irisarri and Dr Jonathan Ojeda
+Dr Martin Oesterheld (primary supervisor), Dr Mariano Oyarzabal, Dr Gonzalo Irisarri and Dr Jonathan Ojeda
