@@ -24,6 +24,10 @@ links:
   icon_pack: fab
   name: Read UTAS Article about the project
   url: https://www.utas.edu.au/alumni/news-and-publications/news-items/sowing-the-seeds-of-success-for-the-humble-spud
+  - icon: cow
+  icon_pack: fab
+  name: Listen to ABC Country Hour interview at 15:10 mins
+  url: https://www.abc.net.au/radio/programs/tas-country-hour/tasmanian-country-hour/12561548
 url_code: ""
 url_pdf: ""
 url_slides: ""
