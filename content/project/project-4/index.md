@@ -28,7 +28,7 @@ links:
   icon_pack: fab
   name: Listen to ABC Country Hour interview at 15:10 mins
   url: https://www.abc.net.au/radio/programs/tas-country-hour/tasmanian-country-hour/12561548
-- icon: twiter
+- icon: twiter post
   icon_pack: ai
   link: https://twitter.com/TasInAg/status/1299120759973924864?s=20
 
