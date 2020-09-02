@@ -32,6 +32,10 @@ links:
   icon_pack: fab
   name: Twitter Post
   url: https://twitter.com/TasInAg/status/1299120759973924864?s=20
+- icon: cow
+  icon_pack: fab
+  name: TasCountry article
+  url: https://www.dropbox.com/s/eywlzch0f4lm2eg/TasCountry.pdf?dl=0
 
 url_code: ""
 url_pdf: ""
