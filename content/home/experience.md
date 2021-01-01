@@ -28,17 +28,17 @@ date_format = "Jan 2006"
   
 ###### Responsibilities:
   
-**Teaching and Learning:
+**Teaching and Learning**
 - Teach undergraduate subjects into the UQ plant/crop science program.
 - Supervise students at honours and postgraduate level.
 
-**Research 
+**Research**
 - Undertake a program of research (led by Prof Scott Chapman) as part of the externally funded [TERRA project](https://www.purdue.edu/terra/), which is led by Purdue University.
 - Assist in supervision and engagement with PhD and Master’s students at Purdue and UQ, and utilise APSIM to undertake simulations for the phenotyping of biomass sorghum using experiments from the project. Parameterise APSIM and use weather, soil and other datasets to undertake scenario analysis of adaptation of biomass sorghum to diverse environments, primarily in the USA.
-- Led an experimental trial with ADVANTA looking at photosynthesis and RUE differences between forage sorghum genotypes.
+- Led an experimental trial with ADVANTA looking at photosynthesis and RUE (Radiation Use Efficiency) differences between forage sorghum genotypes.
 
 ###### Funded by:
-U.S. Department of Energy ($6.5M)
+U.S. Department of Energy (US$6.5M)
 
   """
 

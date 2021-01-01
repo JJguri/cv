@@ -11,7 +11,7 @@ authors:
 - Hayman P
 - Sadras V
 date: "2020-08-16T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.eja.2020.126154"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-16T00:00:00Z"
@@ -41,7 +41,7 @@ tags:
 - Crop Phenology
 featured: true
 
-url_pdf: ''
+url_pdf: 'https://www.dropbox.com/s/oj7ng5ifm4wfdng/Lake%20et%20al.%2C%202021%20EJA.pdf?dl=0'
 url_code: 'https://github.com/JJguri/Mapping-tools'
 url_dataset: ''
 url_poster: ''

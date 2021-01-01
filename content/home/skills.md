@@ -21,6 +21,18 @@ subtitle = ""
   description = ""
 
 [[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+  description = ""
+
+[[feature]]
+  icon = "ubuntu"
+  icon_pack = "fab"
+  name = "Ubuntu"
+  description = ""
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
