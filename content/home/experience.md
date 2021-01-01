@@ -18,6 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Postdoctoral Research Fellow"
+  company = "Queensland Alliance for Agriculture and Food Innovation, The University of Queensland"
+  company_url = "https://agriculture.uq.edu.au/"
+  location = "Brisbane, Queensland, Australia"
+  date_start = "2020-10-19"
+  date_end = ""
+  description = """
+  
+###### Responsibilities:
+  
+**Teaching and Learning:
+- Teach undergraduate subjects into the UQ plant/crop science program.
+- Supervise students at honours and postgraduate level.
+
+**Research 
+- Undertake a program of research (led by Prof Scott Chapman) as part of the externally funded [TERRA project](https://www.purdue.edu/terra/), which is led by Purdue University.
+- Assist in supervision and engagement with PhD and Master’s students at Purdue and UQ, and utilise APSIM to undertake simulations for the phenotyping of biomass sorghum using experiments from the project. Parameterise APSIM and use weather, soil and other datasets to undertake scenario analysis of adaptation of biomass sorghum to diverse environments, primarily in the USA.
+- Led an experimental trial with ADVANTA looking at photosynthesis and RUE differences between forage sorghum genotypes.
+
+###### Funded by:
+U.S. Department of Energy ($6.5M)
+
+  """
+
+[[experience]]
   title = "Junior Research Fellow"
   company = "Tasmanian Institute of Agriculture, University of Tasmania"
   company_url = "https://www.utas.edu.au/tia"

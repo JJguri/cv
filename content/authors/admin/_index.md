@@ -14,8 +14,8 @@ role: Crop Physiologist – Crop Modeller
 
 # Organizations/Affiliations
 organizations:
-- name: University of Tasmania
-  url: "https://www.utas.edu.au/"
+- name: QAAFI - The University of Queensland
+  url: "https://agriculture.uq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the use of crop models to understand GxExM crop interactions.
@@ -72,7 +72,7 @@ social:
   link: https://www.dropbox.com/s/n96h9mma01qf9zt/cv-ojeda.pdf?dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jonathan.ojeda@utas.edu.au; jonathanjesusojeda@gmail.com"
+email: "j.ojeda@uq.edu.au; jonathanjesusojeda@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
