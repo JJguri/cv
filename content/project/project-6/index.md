@@ -41,6 +41,8 @@ url_video: ""
 slides: example
 ---
 
+![PyPI - Downloads](https://img.shields.io/pypi/dm/bestiapop?style=flat-square)
+
 Climate data is an essential input for crop models to predict crop growth and development using site-specific (point) or gridded climate data. While *point* data is currently available in MET format, *gridded data* is provided in NetCDF file format which is difficult to store and convert to an input file readable by [APSIM](https://www.apsim.info) or other crop models. We developed **bestiapop** (a spanish word that translates to *pop beast*), a Python script (*soon to become a package*) which allows model users to automatically download gridded climate data, e.g. SILO's (Scientific Information for Land Owners) data in a crop model format such as MET file format in APSIM or WHT format in [DSSAT](https://dssat.net/) that can then be inputted for **crop modelling predictions**. The package offers the possibility to select a range of grids (5 km × 5 km resolution) and years producing various types of output files: MET, WHT and soon csv, SQLite and Jason.
 
 Although the code currently downloads data from the [SILO](https://www.longpaddock.qld.gov.au/silo/gridded-data/) database, it will be updated to be applied to other climate data sources e.g. [NASA POWER](https://power.larc.nasa.gov/) as was impplemented in R using [APSIM CRAN](https://cran.r-project.org/web/packages/APSIM/APSIM.pdf).

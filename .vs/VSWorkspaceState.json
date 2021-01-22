@@ -3,9 +3,9 @@
     "",
     "\\config",
     "\\content",
-    "\\content\\home",
-    "\\content\\publication\\journal-article-9"
+    "\\content\\authors",
+    "\\content\\authors\\admin"
   ],
-  "SelectedNode": "\\content\\home\\experience.md",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }
