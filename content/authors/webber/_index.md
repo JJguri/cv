@@ -64,4 +64,6 @@ user_groups:
 
 Dr. Webber is the leader of the integrated crop system analysis group at the Leibniz Centre for Agricultural Landscape Research. She develops modelling approaches to assess crop response to climate and abiotic stressors. Her research portfolio is focused on integrated biophysical, economic and policy assessments in diverse cropping systems.
 
-Dr. Ojeda and Dr. Webber are collaborating on a joint research project between German and Australian organizations [(UA-DAAD)]({{< ref "/content/project/project-2/index.md" >}}). This project focuses on the analysis of climatic and non-climatic factors of yield variability in irrigated cropping systems.
+Dr. Ojeda and Dr. Webber are collaborating on a joint research project between 
+German and Australian organizations UA-DAAD. This project focuses on the analysis of climatic 
+and non-climatic factors of yield variability in irrigated cropping systems.

@@ -81,19 +81,19 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jonathan.ojeda@utas.edu.au"
+email = "j.ojeda@uq.edu.au"
 phone = "+61 492 507 910"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Rm 3.03 Level 3 Old Medical Science Building Private Bag 141", city = "Hobart", region = "TAS", postcode = "7001", country = "Australia", country_code = "AU"}
+address = {street = "Rm S614 Level 6 Hartley Teakle Building St Lucia QLD 4067, Australia", city = "Brisbane", region = "QLD", postcode = "4067", country = "Australia", country_code = "AU"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-42.9059", longitude = "147.3240"}
+coordinates = {latitude = "-27.49607", longitude = "153.01097"}
 
 # Directions for visitors to locate you.
-directions = "Enter Old Medical Science Building and take the stairs to Office 303 on Floor 3"
+directions = "Enter Hartley Teakle Building and take the stairs to Office 614 on Floor 6"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

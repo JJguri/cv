@@ -4,8 +4,9 @@
     "\\config",
     "\\content",
     "\\content\\authors",
-    "\\content\\authors\\admin"
+    "\\content\\project",
+    "\\content\\project\\project-6"
   ],
-  "SelectedNode": "\\content\\authors\\admin\\_index.md",
+  "SelectedNode": "\\content\\project\\project-6\\index.md",
   "PreviewInSolutionExplorer": false
 }

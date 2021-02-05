@@ -67,4 +67,8 @@ user_groups:
 - International Collaborators
 ---
 
-Dr. Irisarri is a member of [LART](http://lart.agro.uba.ar/) the main provider of monthly forage production information in Argentina and Uruguay through remote sensing. Dr. Irisarri and Dr. Ojeda trought the [COALAR project]({{< ref"/content/project/project-1/index.md">}}) funded by DFAT Australia and focused on understanding how crop-livestock management practices impact farm performance regionally under different climate change scenarios in Australia, Argentina, and Uruguay.
+Dr. Irisarri is a member of [LART](http://lart.agro.uba.ar/) the main provider of monthly forage 
+production information in Argentina and Uruguay through remote sensing. Dr. Irisarri and Dr. 
+Ojeda trought the COALAR project funded by DFAT Australia and focused on understanding how crop-livestock management 
+practices impact farm performance regionally under different climate change scenarios 
+in Australia, Argentina, and Uruguay.
