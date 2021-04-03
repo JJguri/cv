@@ -86,3 +86,10 @@ If you download files, you can retrieve them via the Jupyter interface :)
 [Script documentation](https://bestiapop.readthedocs.io/en/latest/?badge=latest)
 
 [GitHub repo](https://github.com/JJguri/bestiapop)
+
+### References
+1. Ojeda JJ, Eyshi Rezaei E, Remenyi TA, Webber HA, Siebert S, Meinke H, Webb MA, Kamali B, Harris RMB, Kidd DB, Mohammed CL, McPhee J, Capuano J, Ewert F (2021) Implications of data aggregation method on crop model outputs – The case of irrigated potato systems in Tasmania, Australia. 
+European Journal of Agronomy.126, 126276. [link](doi.org/10.1016/j.eja.2021.126276)
+
+2. Ojeda JJ, Eyshi Rezaei E, Remenyi TA, Webb MA, Webber HA, Kamali B, Harris RMB, Brown JN, Kidd DB, Mohammed CL, Siebert S, Ewert F, Meinke H (2020) Effects of soil- and climate data aggregation on simulated potato yield and irrigation water requirement. 
+Science of the Total Environment. 710, 135589. [link](doi:10.1016/j.scitotenv.2019.135589)
