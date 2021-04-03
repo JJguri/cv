@@ -76,6 +76,11 @@ The MET file must also have a year and day column (or date formatted as *yyyy/mm
 
 So far, the code is producing CSV or MET files to be directly used by APSIM, however, it also could be applied to produce input climate data for other crop models such as [DSSAT](https://dssat.net/) and [STICS](https://www6.paca.inrae.fr/stics_eng/About-us/Stics-model-overview). Decision Support System for Agrotechnology Transfer (DSSAT) is a software application program that comprises dynamic crop growth simulation models for over 40 crops. DSSAT is supported by a range of utilities and apps for weather, soil, genetic, crop management, and observational experimental data, and includes example data sets for all crop models. The STICS (Simulateur mulTIdisciplinaire pour les Cultures Standard, or multidisciplinary simulator for standard crops) model is a dynamic, generic and robust model aiming to simulate the soil-crop-atmosphere system.
 
+### Use it in Jupyter Notebook
+If you would like to use BESTIAPOP in you Jupyter Notebook, you can! Please see the [example notebook](https://github.com/JJguri/bestiapop/blob/master/sample-data/ExampleMapsTasmania.ipynb).
+You can also try it live in Binder Project, just hit the badge mate! --> [BestiapopBinder](https://mybinder.org/v2/gh/JJguri/bestiapop/HEAD?filepath=sample-data%2FExampleMapsTasmania.ipynb)
+If you download files, you can retrieve them via the Jupyter interface :)
+
 ### Read code documentation at:
 
 [Script documentation](https://bestiapop.readthedocs.io/en/latest/?badge=latest)
