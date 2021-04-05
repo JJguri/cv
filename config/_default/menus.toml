@@ -19,44 +19,49 @@
   weight = 30
 
 [[main]]
+  name = "Coding"
+  url = "#coding"
+  weight = 40
+
+[[main]]
   name = "Publications"
   url = "#publications"
-  weight = 40
-  
+  weight = 50
+
 [[main]]
   name = "Projects"
   url = "#slider"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Partners"
   url = "#people"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Research Exchange"
   url = "#stays"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "PhD Supervision"
   url = "#phd"
-  weight = 80
+  weight = 90
 
 [[main]]
   name = "Talks"
   url = "#talks"
-  weight = 90
+  weight = 100
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 100
+  weight = 110
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "https://www.dropbox.com/s/n96h9mma01qf9zt/cv-ojeda.pdf?dl=0"
-  weight = 110
+  weight = 120
 
