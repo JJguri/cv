@@ -149,7 +149,7 @@ and **_.db_** files, create new variables, clean model outputs, create time seri
 - Jonathan Ojeda (QAAFI, The University of Queensland)
 
 #### _Overview_
-During my free time, I enjoy writing my own webpage (the page you are reading for right now) in Markdown using the Hugo platform.
+During my free time, I enjoy writing my own webpage (the page you are reading right now!) in Markdown using the Hugo platform.
 Hugo is a popular static site generator written in the Go programming language. Hugo is jam-packed with features, 
 but one of its main selling points is speed — Hugo takes mere seconds to generate a site with thousands of pages.
 By default, Hugo uses the Goldmark Markdown processor which is fully CommonMark-compliant.
