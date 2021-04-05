@@ -54,7 +54,7 @@ subtitle = "Model development, programming and coding skills, git operations"
 
 #### _Developers_
 - Jonathan Ojeda (QAAFI, The University of Queensland)
-- Diego Perez (Data Analytics Specialist & Code Developer)
+- Diego Perez (Data Analytics Specialist & Cyber Security Expert)
 
 #### _Overview_
 BestiaPop (a spanish word that translates to pop beast), is a Python package which allows climate and agricultural data scientists 
@@ -72,7 +72,7 @@ become part of BestiaPop’s API in the future).
 #### _Collaborators_
 - Isaiah Huber (Iowa State University)
 - Chris James (School of Agriculture and Food Sciences, The University of Queensland)
-- Diego Perez (Data Analytics Specialist & Code Developer)
+- Diego Perez (Data Analytics Specialist & Cyber Security Expert)
 
 #### _Overview_
 The original Parallel System for Integrating Impact Models and Sectors (pSIMS) was developed by 
