@@ -113,7 +113,7 @@ converted to a single Jupyter Notebook through Python. This tool produces a seri
 of each factor on the variance of crop yield.
 
 ## [**APSIMClassicTools**](https://github.com/JJguri/APSIMClassicTools)
-## [**APSIMNXTools**](https://github.com/JJguri/APSIMNextGenTools)
+## [**APSIMNextGenTools**](https://github.com/JJguri/APSIMNextGenTools)
 
 #### _Developer_
 - Jonathan Ojeda (QAAFI, The University of Queensland)
