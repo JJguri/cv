@@ -51,14 +51,13 @@ subtitle = "Model development, programming and coding skills, git operations"
 +++
 
 ## **Operating systems**
-Windows, Linux (Ubuntu), cloud computing and high-performance computing.
+Windows, Linux/Unix (Ubuntu), cloud and high-performance computing, Binder.
 
-## **Tools for predictive data analysis and data exploration**
+## **Tools for predictive data analysis, data exploration and data visualisation**
 Python (xarray, cartopy, pandas, numpy, matplotlib, seaborn, scipy, pyproj, shapefile, statsmodels, 
-sqlite3, netCDF4, basemap, geopandas, fiona, sklearn.cluster, sklearn.metrics), C#, Markdown, R Studio, remote sensing imagery in 
-vegetation mapping (MODIS, S2), GitHub repositories, Jupyter Notebook, ArcGIS, QGis, netCDF file format, 
-and relational databases. pSIMS (regional crop model simulations), nco operators 
-(manipulates and analyzes data stored in netCDF).
+sqlite3, netCDF4, basemap, geopandas, sklearn.cluster, sklearn.metrics, GDAL, fiona, shapely), C#, Markdown, R Studio, remote sensing imagery in 
+vegetation mapping (MODIS, Sentinel2), GitHub repositories, Jupyter Notebook, ArcGIS, QGis, netCDF file format, 
+and relational databases. nco operators (manipulates and analyzes data stored in netCDF).
 
 ## **Process-based crop models and decision support tools**
 [APSIM Next Generation](https://apsimnextgeneration.netlify.app/),
@@ -67,6 +66,7 @@ and relational databases. pSIMS (regional crop model simulations), nco operators
 [SIMPLACE](http://www.simplace.net/),
 [MONICA](https://soil-modeling.org/resources-links/model-portal/monica),
 [CropWat](http://www.fao.org/land-water/databases-and-software/cropwat/es/)
+[pSIMS](https://github.com/JJguri/psimsV2)
  
 ## **Tools development**
 
