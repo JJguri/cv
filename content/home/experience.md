@@ -36,8 +36,11 @@ date_format = "Jan 2006"
 - Undertake a program of research (led by [Prof Scott Chapman](https://scholar.google.com.au/citations?user=v-giX5UAAAAJ&hl=en)) as part of the
 [TERRA project](https://www.purdue.edu/terra/) led by Purdue University. We 
 developed a new version of [pSIMS](https://github.com/JJguri/psimsV2) to predict biomass sorghum across US environments using gridded data. 
-- Assist in supervision and engagement with PhD and Master’s students at Purdue and UQ, and utilise APSIM to undertake simulations for the phenotyping of biomass sorghum using experiments from the project. Parameterise APSIM and use weather, soil and other datasets to undertake scenario analysis of adaptation of biomass sorghum to diverse environments, primarily in the USA.
-- Led an experimental trial with Pacific Seeds Australia (ADVANTA) looking at photosynthesis and RUE (Radiation Use Efficiency) differences between forage sorghum genotypes.
+- Assist in supervision and engagement with PhD and Master’s students at Purdue and UQ, and utilise APSIM to 
+undertake simulations for the phenotyping of biomass sorghum using experiments from the project. Parameterise APSIM and use weather, 
+soil and other datasets to undertake scenario analysis of adaptation of biomass sorghum to diverse environments, primarily in the USA.
+- Collaborate in an experimental trial combining farm, drone data and satellite imagery looking at photosynthesis and RUE (Radiation Use Efficiency) 
+differences between forage sorghum genotypes with Pacific Seeds Australia (ADVANTA).
 
 ###### Funded by:
 U.S. Department of Energy (US$6.5M)
