@@ -14,111 +14,121 @@
   weight = 20
 
 [[main]]
+  name = "Skills"
+  url = "/#skills"
+  weight = 30
+
+[[main]]
   name = "Experience"
   url = "/"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Media"
   parent = "Experience"
   url = "/#slider"
-  weight = 31
+  weight = 41
 
 [[main]]
-  name = "Jobs"
+  name = "Work History"
   parent = "Experience"
   url = "/#experience"
-  weight = 32
+  weight = 42
 
 [[main]]
   name = "Research Exchange"
   parent = "Experience"
   url = "/#stays"
-  weight = 33
+  weight = 43
 
 [[main]]
   name = "Partners"
   parent = "Experience"
   url = "/#people"
-  weight = 34
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[main]]
-  name = "Download my CV"
-  parent = "Experience"
-  url = "https://www.dropbox.com/s/n96h9mma01qf9zt/cv-ojeda.pdf?dl=0"
-  weight = 35
+  weight = 44
 
 [[main]]
   name = "Research Projects"
   url = "/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Crop Modelling and Uncertainty"
   parent = "Research Projects"
   url = "/#modelling"
-  weight = 41
+  weight = 51
 
 [[main]]
   name = "Linking Crop Models with Remote Sensing"
   parent = "Research Projects"
   url = "/#remote-sensing"
-  weight = 42
+  weight = 52
 
 [[main]]
-  name = "Expertise"
+  name = "Coding"
   url = "/"
-  weight = 50
+  weight = 60
 
 [[main]]
-  name = "Professional and Personal Skills"
-  parent = "Expertise"
-  url = "/#skills"
-  weight = 51
+  name = "Python package developments"
+  parent = "Coding"
+  url = "/#bestiapop"
+  weight = 61
 
 [[main]]
   name = "GitHub Operations"
-  parent = "Expertise"
+  parent = "Coding"
   url = "/#coding"
-  weight = 52
+  weight = 62
+
+[[main]]
+  name = "APSIM Applications"
+  parent = "Coding"
+  url = "/#apsim"
+  weight = 63
 
 [[main]]
   name = "Communication"
   url = "#communication"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Research Papers"
   parent = "Communication"
   url = "/#publications"
-  weight = 61
+  weight = 71
 
 [[main]]
   name = "Talks"
   parent = "Communication"
   url = "/#talks"
-  weight = 62
+  weight = 72
 
 [[main]]
   name = "Mentoring"
   url = "/"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "PhD Supervision"
   parent = "Mentoring"
   url = "/#phd"
-  weight = 71
+  weight = 81
 
  [[main]]
   name = "Honours Supervision"
   parent = "Mentoring"
   url = "/#honours"
-  weight = 72
+  weight = 82
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[main]]
+  name = "CV"
+  url = "https://www.dropbox.com/s/n96h9mma01qf9zt/cv-ojeda.pdf?dl=0"
+  weight = 90
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 100

@@ -22,18 +22,18 @@ bio: I use crop models to understand GxExM interactions and quantify sources of 
 
 interests:
 - Crop modelling uncertainty quantification
-- Agricultural systems modelling across scales
-- Development of SCIENCE-BASED decision support tools
-- Environmental (soil-plant-climate) data analysis
+- Model up-scaling
+- Decision support tools development
+- Environmental data analysis
 - Climate change and sustainability assessments
 - Data analysis automation
 
 education:
   courses:
-  - course: PhD in Agricultural Sciences (5 years)
+  - course: PhD in Agricultural Sciences
     institution: National University of Mar del Plata, Argentina
     year: 2017
-  - course: Agricultural Engineer (7 years)
+  - course: Agricultural Engineer
     institution: National University of Entre Ríos, Argentina
     year: 2011
 

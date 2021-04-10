@@ -70,19 +70,6 @@ QGis, netCDF file format, and relational databases, nco operators (ncdump, nca, 
  
 ## **Tools development for automated data processing**
 
-### [**Bestiapop**](https://pypi.org/project/bestiapop/)
-
-##### _Developers_
-- Jonathan Ojeda (QAAFI, The University of Queensland)
-- Diego Perez (Data Analytics Specialist & Cyber Security Expert)
-
-#### _Overview_
-BestiaPop (a spanish word that translates to pop beast), is a Python package which allows climate and agricultural data scientists 
-to automatically download SILO’s (Scientific Information for Land Owners) or NASAPOWER gridded climate data and convert this data to 
-files that can be ingested by Crop Modelling Software like APSIM or DSSAT. The package offers the possibility to select a range of grids 
-(5 km × 5 km resolution) and years producing various types of output files: CSV, MET (for APSIM), WTH (for DSSAT) and soon JSON (which will 
-become part of BestiaPop’s API in the future).
-
 ## [**pSIMSv2**](https://github.com/JJguri/psimsV2)
 
 #### _Developers_
@@ -131,17 +118,6 @@ This tool allows calculating the variance contribution of several factors on dif
 theory developed by [Monod 2006](https://reseau-mexico.fr/sites/reseau-mexico.fr/files/06_zebook_CH-03.pdf) was
 converted to a single Jupyter Notebook through Python. This tool produces a series of plots that allow the user to see the weight
 of each factor on the variance of crop yield.
-
-## [**APSIMClassicTools**](https://github.com/JJguri/APSIMClassicTools)
-## [**APSIMNextGenTools**](https://github.com/JJguri/APSIMNextGenTools)
-
-#### _Developer_
-- Jonathan Ojeda (QAAFI, The University of Queensland)
-
-#### _Overview_
-Series of tools that allow users to interact between two APSIM versions 
-(Classic and Next Generation) and Python through Jupyter Notebook. Main functionalities include: read **_.out_** files
-and **_.db_** files, create new variables, clean model outputs, create time series plots and XY plots, etc.
 
 ## [**WebsiteBuilder**](https://github.com/JJguri/cv)
 
