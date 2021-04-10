@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 52  # Order that this section will appear.
+weight = 61  # Order that this section will appear.
 
 title = "Bestiapop"
 subtitle = "A python package to automate the extraction, processing and visualisation of climate data for crop modelling"

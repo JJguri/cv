@@ -6,7 +6,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 71  # Order that this section will appear.
+weight = 81  # Order that this section will appear.
 
 title = "PhD Supervision"
 subtitle = ""

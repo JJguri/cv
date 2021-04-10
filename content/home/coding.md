@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 52  # Order that this section will appear.
+weight = 62  # Order that this section will appear.
 
 title = "GitHub Operations"
 subtitle = "Making art with Python :ear_of_rice: :computer: :man_farmer:"

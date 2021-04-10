@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 52  # Order that this section will appear.
+weight = 63  # Order that this section will appear.
 
 title = "APSIM Applications"
 subtitle = "Series of tools to develop and test APSIM using Python and C#"
