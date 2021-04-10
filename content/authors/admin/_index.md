@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jonathan Ojeda
+name: Jonathan Ojeda (Jony)
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Crop Physiologist – Crop Modeller
+role: Crop Ecophysiologist - Cropping Systems Modeller - Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,22 @@ organizations:
   url: "https://agriculture.uq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the use of crop models to understand GxExM crop interactions.
+bio: I use crop models to understand GxExM interactions and quantify sources of uncertainties in agricultural predictions.
 
 interests:
-- Crop modelling across scales
-- Environmental data analysis
-- Soil-plant-climate interactions
-- Crop model development
-- Climate change assessments
+- Crop modelling uncertainty quantification
+- Agricultural systems modelling across scales
+- Development of SCIENCE-BASED decision support tools
+- Environmental (soil-plant-climate) data analysis
+- Climate change and sustainability assessments
+- Data analysis automation
 
 education:
   courses:
-  - course: PhD in Agricultural Sciences
+  - course: PhD in Agricultural Sciences (5 years)
     institution: National University of Mar del Plata, Argentina
     year: 2017
-  - course: Agricultural Engineer
+  - course: Agricultural Engineer (7 years)
     institution: National University of Entre Ríos, Argentina
     year: 2011
 
@@ -80,4 +81,24 @@ user_groups:
 #- Researchers
 ---
 
-Jonathan is a Postdoctoral Research Fellow at QAAFI, The University of Queensland. His research interests are in quantifying the effects of crop management and climate variability on soil-crop processes and integrating data into mechanistic models at different spatial scales. He has a passionate interest in disentangling sources of uncertainties in biophysical and mathematical models to better predict crop growth, both yield and quality and environmental impacts in agricultural systems. This requires a broad understanding of how the environment influences crop growth and development; how rainfall, irrigation, and fertilizer influence soil conditions; how crops obtain water and nutrients from the soil; how soil processes contribute to the loss of carbon and nitrogen; and how all these processes interact.
+Jonathan (Jony) is a Data Scientist by nature. He applies his unique skill-set on data analytics and 
+programming to understand the crop eco-physiology (soil-plant-climate interactions) behind crop model 
+and remote sensing algorithms to improve crop production and reduce environmental impacts.
+His research interests are in quantifying the effects of crop management and climate 
+variability on soil-crop processes and integrating data into mechanistic models at different 
+spatial scales. He has a passionate interest in disentangling sources of uncertainties in 
+biophysical and mathematical models to better predict crop growth, both yield and quality and 
+environmental impacts in agricultural systems. This requires a broad understanding of how the 
+environment influences crop growth and development; how rainfall, irrigation, and fertilizer 
+influence soil conditions; how crops obtain water and nutrients from the soil; how soil processes 
+contribute to the loss of carbon and nitrogen; and how all these processes interact.
+
+Jony has most than 15 years of experience managing large datasets and 
+almost 10 years developing the Agricultural Production Systems sIMulator ([APSIM](https://www.apsim.info/)) 
+to solve real farm problems worldwide. He has [40 published articles](https://www.dropbox.com/s/gzbcs04li2gs8yu/papers.csv?dl=0)
+[[11 in high-impact journals](/publication) (10 as first author!)]. 
+As a PhD, he received  12 research grants (8 as lead investigator) with a cash value of ~AUD1.2M. He is currently 
+mentoring [5 PhD students](/phd) in collaboration with international researchers and has previously supervised 
+[5 Honours students](/#honours) to completion. He works with multidisciplinary teams (Academia and Industry) 
+and has experience working in 6 countries (Argentina, Australia, New Zealand, United States, The Netherlands and Germany).
+

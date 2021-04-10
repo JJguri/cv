@@ -6,10 +6,10 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 52  # Order that this section will appear.
 
-title = "Coding"
-subtitle = "Model development, programming and coding skills, git operations"
+title = "GitHub Operations"
+subtitle = "Making art with Python :ear_of_rice: :computer: :man_farmer:"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -1,12 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\config",
     "\\config\\_default",
     "\\content",
     "\\content\\home",
+    "\\content\\project\\modelling",
+    "\\content\\project\\modelling\\project-4",
     "\\static"
   ],
-  "SelectedNode": "\\content\\home\\experience.md",
+  "SelectedNode": "\\content\\home\\about.md",
   "PreviewInSolutionExplorer": false
 }

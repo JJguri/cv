@@ -1,7 +1,7 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+#Navigation Links
+#To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#desired widget in your `content/home/` folder.
+#The weight parameter defines the order that the links will appear in.
 
 [[main]]
   name = "Home"
@@ -9,59 +9,116 @@
   weight = 10
 
 [[main]]
-  name = "Skills"
-  url = "#skills"
+  name = "KeyWords"
+  url = "#tags"
   weight = 20
 
 [[main]]
   name = "Experience"
-  url = "#experience"
+  url = "/"
   weight = 30
 
 [[main]]
-  name = "Coding"
-  url = "#coding"
-  weight = 40
+  name = "Media"
+  parent = "Experience"
+  url = "/#slider"
+  weight = 31
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 50
-
-[[main]]
-  name = "Projects"
-  url = "#slider"
-  weight = 60
-
-[[main]]
-  name = "Partners"
-  url = "#people"
-  weight = 70
+  name = "Jobs"
+  parent = "Experience"
+  url = "/#experience"
+  weight = 32
 
 [[main]]
   name = "Research Exchange"
-  url = "#stays"
-  weight = 80
+  parent = "Experience"
+  url = "/#stays"
+  weight = 33
 
 [[main]]
-  name = "PhD Supervision"
-  url = "#phd"
-  weight = 90
-
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 100
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 110
+  name = "Partners"
+  parent = "Experience"
+  url = "/#people"
+  weight = 34
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-  name = "CV"
+  name = "Download my CV"
+  parent = "Experience"
   url = "https://www.dropbox.com/s/n96h9mma01qf9zt/cv-ojeda.pdf?dl=0"
-  weight = 120
+  weight = 35
 
+[[main]]
+  name = "Research Projects"
+  url = "/"
+  weight = 40
+
+[[main]]
+  name = "Crop Modelling and Uncertainty"
+  parent = "Research Projects"
+  url = "/#modelling"
+  weight = 41
+
+[[main]]
+  name = "Linking Crop Models with Remote Sensing"
+  parent = "Research Projects"
+  url = "/#remote-sensing"
+  weight = 42
+
+[[main]]
+  name = "Expertise"
+  url = "/"
+  weight = 50
+
+[[main]]
+  name = "Professional and Personal Skills"
+  parent = "Expertise"
+  url = "/#skills"
+  weight = 51
+
+[[main]]
+  name = "GitHub Operations"
+  parent = "Expertise"
+  url = "/#coding"
+  weight = 52
+
+[[main]]
+  name = "Communication"
+  url = "#communication"
+  weight = 60
+
+[[main]]
+  name = "Research Papers"
+  parent = "Communication"
+  url = "/#publications"
+  weight = 61
+
+[[main]]
+  name = "Talks"
+  parent = "Communication"
+  url = "/#talks"
+  weight = 62
+
+[[main]]
+  name = "Mentoring"
+  url = "/"
+  weight = 70
+
+[[main]]
+  name = "PhD Supervision"
+  parent = "Mentoring"
+  url = "/#phd"
+  weight = 71
+
+ [[main]]
+  name = "Honours Supervision"
+  parent = "Mentoring"
+  url = "/#honours"
+  weight = 72
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 80
