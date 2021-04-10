@@ -82,7 +82,7 @@ user_groups:
 ---
 
 Jonathan (Jony) is a Data Scientist by nature. He applies his unique skill-set on data analytics and 
-programming to understand the crop eco-physiology (soil-plant-climate interactions) behind crop model 
+programming to understand the crop eco-physiology (soil-plant-climate interactions) behind crop models 
 and remote sensing algorithms to improve crop production and reduce environmental impacts.
 His research interests are in quantifying the effects of crop management and climate 
 variability on soil-crop processes and integrating data into mechanistic models at different 
