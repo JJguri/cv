@@ -52,8 +52,9 @@ subtitle = ""
 
 ## **PhD in Agricultural Sciences (2017)**
  
-5-years program at National University of Mar del Plata, Argentina
-GPA: 8.8 (out of 10) No. failed: 0 (none) 422 credit hours
+National University of Mar del Plata, Argentina (duration = 5 years; **422 credit hours**)
+
+GPA: 8.8 (out of 10) No. failed: 0 (none)
 
 [**_Dissertation:_** Precipitation use efficiency in annual forage crop sequences and perennial pastures](https://www.dropbox.com/s/ka7fiwuk2eaxtyq/Ojeda%2C%202017%20PhD%20Thesis.pdf?dl=0)
 (in Spanish)
@@ -74,7 +75,8 @@ GPA: 8.8 (out of 10) No. failed: 0 (none) 422 credit hours
 
 ## **Agricultural Engineer (2011)**
 
-6-years program at National University of Entre Ríos, Argentina
+National University of Entre Ríos, Argentina (duration = 7 years; **3479 credit hours**)
+
 GPA: 8.8 (out of 10) No. failed: 0 (none) Historical GPA: 6.8 (out of 10)
 
 [**_Dissertation:_** Response to plant population density in different sunflower hybrids](https://www.dropbox.com/s/f7zo6xqf1nc6dhw/Ojeda%2C%202011%20Bachelor%20thesis.pdf?dl=0)
@@ -99,7 +101,7 @@ GPA: 8.8 (out of 10) No. failed: 0 (none) Historical GPA: 6.8 (out of 10)
 - Experimental statistics and design
 - Research methodology
 
-##### Applied courses
+##### Agronomic courses
 
 - Agricultural climatology
 - Animal anatomy and physiology
@@ -107,15 +109,17 @@ GPA: 8.8 (out of 10) No. failed: 0 (none) Historical GPA: 6.8 (out of 10)
 - Soil sciences and pedological studies
 - Ecology of agricultural systems
 - Agricultural zoology
-- Apiculture
-- Agricultural economy
-- Geographical information systems
 - Phytopathology
 - Land technology
 - Plant physiology
 - Plant and animal genetics and improvement
-- Business management and planning
 - Plant therapeutics
+
+##### Professional courses
+
+- Agricultural economy
+- Geographical information systems
+- Business management and planning
 - Rural extension and sociology
 - Irrigation and drainage
 - Integrated workshop of phytosanitary management
@@ -131,10 +135,4 @@ GPA: 8.8 (out of 10) No. failed: 0 (none) Historical GPA: 6.8 (out of 10)
 - Dairy cattle
 - Small ruminants 
 - Pigs
-
-
-
-
-
-
-
+- Apiculture
