@@ -16,13 +16,18 @@ tags:
 date: "2021-04-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.purdue.edu/terra/"
+external_link: ""
 
 image:
   caption: Photo by http://www.biomassmagazine.com/
   focal_point: Smart
 
 links:
+- icon: cow
+  icon_pack: fab
+  name: Go to Project WebPage
+  url: https://www.purdue.edu/terra/
+
 - icon: cow
   icon_pack: fab
   name: Agriculture News
