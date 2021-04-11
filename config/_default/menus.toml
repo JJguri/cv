@@ -24,34 +24,46 @@
   weight = 40
 
 [[main]]
-  name = "Media"
-  parent = "Experience"
-  url = "/#slider"
-  weight = 41
-
-[[main]]
   name = "Education"
   parent = "Experience"
   url = "/#education"
-  weight = 42
+  weight = 41
 
 [[main]]
   name = "Work History"
   parent = "Experience"
   url = "/#experience"
+  weight = 42
+
+[[main]]
+  name = "Media"
+  parent = "Experience"
+  url = "/#slider"
   weight = 43
+
+[[main]]
+  name = "Prizes"
+  parent = "Experience"
+  url = "/#prize"
+  weight = 44
+
+[[main]]
+  name = "Grants"
+  parent = "Experience"
+  url = "/#grant"
+  weight = 45
 
 [[main]]
   name = "Research Exchange"
   parent = "Experience"
   url = "/#stays"
-  weight = 44
+  weight = 46
 
 [[main]]
   name = "Partners"
   parent = "Experience"
   url = "/#people"
-  weight = 45
+  weight = 47
 
 [[main]]
   name = "Research Projects"
@@ -105,10 +117,16 @@
   weight = 71
 
 [[main]]
-  name = "Talks"
+  name = "Conference & Poster Presentations"
   parent = "Communication"
   url = "/#talks"
   weight = 72
+
+[[main]]
+  name = "Talks List"
+  parent = "Communication"
+  url = "/#list"
+  weight = 73
 
 [[main]]
   name = "Mentoring"

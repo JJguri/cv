@@ -1,5 +1,5 @@
 ---
-title: Quantifying the effects of G×E×M on the spatial variability of crop biomass
+title: Quantifying the effects of G×E×M on the spatial variability of crop biomass in the US
 
 summary: 2020-2021
 tags:
@@ -48,8 +48,8 @@ plant breeders can bring better cultivars to the market. This project is develop
 high-throughput field phenotyping system for determining how sorghum genetic variation impacts 
 the crop’s biofuel production.
 
-We use drone datasets to parametrise different forage genotypes in APSIM and test the 
-effect of G×M interaction on biomass production across environments.
+We use RGB images to parametrise different forage genotypes in APSIM and test the 
+effect of genotype × management interactions on biomass production across environments.
 The University of Queensland is leading the regional crop modelling part of this project
 exploring the following questions:
 
@@ -58,7 +58,7 @@ exploring the following questions:
 
 Using an APSIM parallel gridded system (pSIMS), four genotypes [grain (GS), sudangrass (SS), photosensitive, 
 (PS) and photo-insensitive (PI)] were simulated across the potential areas for energy sorghum in the 
-US under rainfed and irrigated conditions over 30 years. We used (i) correlation and 
+US under rainfed and irrigated conditions over 30 years at 30 arc-minute resolution. We used (i) correlation and 
 [clustering analysis](https://github.com/JJguri/Mapping-tools/blob/master/k-clustering-env.ipynb), 
 (ii) [variance decomposition](https://github.com/JJguri/VarianceDecomposition/blob/main/VarDecomp.ipynb) 
 and (iii) [maps](https://github.com/JJguri/Mapping-tools/blob/master/netCDFxarrayMapCorr-NewCropMaskV2.ipynb) 
@@ -72,10 +72,10 @@ change scenarios.
 
 You can see some results of the project below:
 
-_**Environmental drivers of sorghum biomass in the US**_
+### _**Visualising the environmental drivers of biomass spatial variability in the United States**_
 ![image](/img/projects/terra.jpg)
 
-_Spatial variability of correlations simulated at 30 arc-minute resolution between 
+_The image shows the spatial variability of correlations simulated at 30 arc-minute resolution between 
 rainfed and irrigated sorghum biomass and solar radiation sum (Rad), mean temperature (MeanTemp) 
 and rainfall sum (Rain) during the sorghum growing season for each genotype [grain sorghum (GS), 
 sorghum sudangrass (SS), forage photosensitive sorghum, (PS) and forage photo insensitive sorghum 
@@ -84,12 +84,14 @@ Pearson correlation coefficient between simulated biomass and each climate varia
 
 #### Partners
 
-Purdue University
-IBM Research
-AgAlumni Seed, Corteva Agriscience, Beck’s Hybrids and Headwall Photonics
+- Purdue University (Dr Tuinstra et al.)
+- Iowa State University (Dr. Archontoulis, Isaiah Huber)
+- IBM Research
+- AgAlumni Seed, Corteva Agriscience, Beck’s Hybrids and Headwall Photonics
 
 #### Funded by
 U.S. Department of Energy Advanced Research Projects Agency–Energy (ARPA-E)
 
 #### Grant amount
-First phase USD$6.6 million (2015), Second phase USD$9 million (2019)
+* First phase USD$6.6 million (2015)
+* Second phase USD$9 million (2019)
