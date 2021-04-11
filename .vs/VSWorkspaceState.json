@@ -2,11 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\authors",
-    "\\content\\authors\\admin",
-    "\\content\\home",
-    "\\static"
+    "\\content\\home"
   ],
-  "SelectedNode": "\\content\\authors\\admin\\_index.md",
+  "SelectedNode": "\\content\\home\\tags.md",
   "PreviewInSolutionExplorer": false
 }

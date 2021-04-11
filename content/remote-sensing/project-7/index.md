@@ -9,6 +9,9 @@ tags:
 - Pastures
 - Argentina
 - Satellite imagery
+- N leaching
+- MODIS
+- Sentinel2
 date: "2020-08-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

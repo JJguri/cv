@@ -6,6 +6,7 @@ tags:
 - Phosphorus
 - Decision Support Systems
 - APSIM Next Generation
+- Organic carbon
 date: "2018-11-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

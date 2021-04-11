@@ -66,7 +66,8 @@ subtitle = "Ability to get own funding as chief investigator or partner to do re
 
 **Funding body:** Argentinian Agency for the Promotion of Research, Technological Development and Innovation PICT-2019-I-D
 
-**Partners:** Regional Analysis and Remote Sensing Lab, University of Buenos Aires, Argentina ([Drs Irisarri](https://scholar.google.com/citations?user=kdqMu6AAAAAJ&hl=es&oi=ao) 
+**Partners:** Regional Analysis and Remote Sensing Lab, University of Buenos Aires, Argentina 
+([Dr Texeira](https://scholar.google.com.au/citations?user=nmZoPVcAAAAJ&hl=en) 
 & Dr [Oesterheld](https://scholar.google.com/citations?user=qUO7GYIAAAAJ&hl=es&oi=ao))
 
 2020 ($10,000)
@@ -88,7 +89,8 @@ University of Sydney ([Mat Webb](https://scholar.google.com.au/citations?user=-P
 
 **Funding body:** Argentinian Agency for the Promotion of Research, Technological Development and Innovation PICT-I-A-2018 
 
-**Partners:** Regional Analysis and Remote Sensing Lab, University of Buenos Aires, Argentina (Dr Irisarri & Dr Oesterheld)
+**Partners:** Regional Analysis and Remote Sensing Lab, University of Buenos Aires, Argentina 
+([Dr Irisarri](https://scholar.google.com/citations?user=kdqMu6AAAAAJ&hl=es&oi=ao) & Dr Oesterheld)
 
 #### Visualising agricultural uncertainties under climate change scenarios
 ---------------
@@ -103,7 +105,8 @@ University of Sydney ([Mat Webb](https://scholar.google.com.au/citations?user=-P
 ---------------
 **Responsibility:** Chief investigator
 
-**Funding body:** Council on Australia Latin America Relations (COALAR) DFAT, Australian Government
+**Funding body:** Council on Australia Latin America Relations (COALAR) Australia's Department of Foreign Affairs & Trade, 
+Australian Government
 
 **Partners:** University of Southern Queensland ([Assoc Prof Pembleton](https://staffprofile.usq.edu.au/profile/keith-pembleton) 
 president of the [APSIM Initiative](https://www.apsim.info/about-us/)), Regional Analysis and Remote Sensing Lab (University of Buenos Aires),
@@ -113,9 +116,9 @@ National Institute of Agricultural Research (INIA; Uruguay), CREA Farmer Groups 
 ---------------
 **Responsibility:** Chief investigator
 
-**Funding body:** CSIRO-Tasmanian Institute of Agriculture.
+**Funding body:** CSIRO-Tasmanian Institute of Agriculture
 
-**Partners:** CSIRO Toowoomba [Dr Katharina Waha](https://people.csiro.au/W/K/Katharina-Waha.aspx)
+**Partners:** CSIRO Global Food and Nutrition Security, Australia ([Dr Katharina Waha](https://people.csiro.au/W/K/Katharina-Waha.aspx))
 
 #### Estimating Uncertainty in Crop Models
 ---------------
@@ -123,20 +126,29 @@ National Institute of Agricultural Research (INIA; Uruguay), CREA Farmer Groups 
 
 **Funding body:** CSIRO-Tasmanian Institute of Agriculture
 
-**Partners:** CSIRO Toowoomba [Dr Neil Huth](https://people.csiro.au/H/N/Neil-Huth)
+**Partners:** CSIRO Agriculture, Australia ([Dr Neil Huth](https://people.csiro.au/H/N/Neil-Huth))
 
 2018 ($743,091)
 ===============
 #### Towards high crop productivity in agriculture based on multi-scale modelling and climate change impact studies
 ---------------
 **Responsibility:** Chief investigator
-Universities Australia, German Academic Exchange Service. Partners: The University of Göttingen and the Leibniz Centre for Agricultural Landscape Research (ZALF). (Chief investigator)
+
+**Funding body:** Universities Australia, German Academic Exchange Service
+
+**Partners:** The University of Göttingen [Prof Siebert](https://www.uni-goettingen.de/en/572990.html), The Leibniz Centre for Agricultural Landscape Research (ZALF) 
+([Dr Rezaei](https://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/Ehsan-Eyshi-Rezaei.aspx), [Dr Ewert](https://www.zalf.de/de/ueber_uns/mitarbeiter/Seiten/ewert_f.aspx)), 
+The University of Bonn ([Dr Kamali](https://www.bkamali.com/)), Germany
+
 #### Improving the representation of soil productivity/constraints in existing decision support systems and modelling platforms
 ---------------
 **Responsibility:** Partner
+
 **Funding body:** Soil CRC High-Performance Soils
+
 **Partners:** University of Southern Queensland (Assoc Prof Pembleton), Federation University ([Assoc Prof Peter Dahlhaus](https://federation.edu.au/research/internal/study-with-us/supervisors-profiles/associate-professor-peter-dahlhaus) & 
 [Dr Robinson](https://www.cerdi.edu.au/team#nathan_robinson)), NSW Department of Primary Industries
+
 #### Research Travel Funding Ag Systems Centre & Research Travel Funding Water for Profit Program
 ---------------
 
@@ -147,7 +159,7 @@ Universities Australia, German Academic Exchange Service. Partners: The Universi
 **Funding body:** National Research Council, Argentina
 #### Fulbright Fellowship (9 months)
 ---------------
-**Funding body:** Fulbright Commission, the United States
+**Funding body:** Fulbright Commission, United States
 #### Fund INNOVA-T Grant
 ---------------
 **Funding body:** National Research Council, Argentina
@@ -156,5 +168,4 @@ Universities Australia, German Academic Exchange Service. Partners: The Universi
 **Funding body:** National Research Council, Argentina
 #### National Undergraduate Scholarship (6 years)
 ---------------
-**Funding body:** Argentinian Ministry of Education
-
+**Funding body:** Argentinian Ministry of Education, Argentina

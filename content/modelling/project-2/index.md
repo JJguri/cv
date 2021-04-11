@@ -8,6 +8,7 @@ tags:
 - Water use
 - APSIM Next Generation
 - Heat and drought extremes
+- Potato
 
 date: "2019-01-01T00:00:00Z"
 
