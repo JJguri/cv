@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 63  # Order that this section will appear.
 
 title = "APSIM Applications"
-subtitle = "Series of tools to develop and test APSIM using Python and C#"
+subtitle = "Series of tools to develop and test APSIM using Python and C# :nerd_face:"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

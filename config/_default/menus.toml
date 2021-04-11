@@ -30,22 +30,28 @@
   weight = 41
 
 [[main]]
+  name = "Education"
+  parent = "Experience"
+  url = "/#education"
+  weight = 42
+
+[[main]]
   name = "Work History"
   parent = "Experience"
   url = "/#experience"
-  weight = 42
+  weight = 43
 
 [[main]]
   name = "Research Exchange"
   parent = "Experience"
   url = "/#stays"
-  weight = 43
+  weight = 44
 
 [[main]]
   name = "Partners"
   parent = "Experience"
   url = "/#people"
-  weight = 44
+  weight = 45
 
 [[main]]
   name = "Research Projects"
@@ -70,7 +76,7 @@
   weight = 60
 
 [[main]]
-  name = "Python package developments"
+  name = "Bestiapop Python package"
   parent = "Coding"
   url = "/#bestiapop"
   weight = 61

@@ -95,10 +95,10 @@ contribute to the loss of carbon and nitrogen; and how all these processes inter
 
 Jony has most than 15 years of experience managing large datasets and 
 almost 10 years developing the Agricultural Production Systems sIMulator ([APSIM](https://www.apsim.info/)) 
-to solve real farm problems worldwide. He has [40 published articles](https://www.dropbox.com/s/gzbcs04li2gs8yu/papers.csv?dl=0)
+to solve real farm problems worldwide. He has more than [40 published articles](https://www.dropbox.com/s/gzbcs04li2gs8yu/papers.csv?dl=0)
 [[11 in high-impact journals](/publication) (10 as first author!)]. 
 As a PhD, he received  12 research grants (8 as lead investigator) with a cash value of ~AUD1.2M. He is currently 
 mentoring [5 PhD students](/phd) in collaboration with international researchers and has previously supervised 
-[5 Honours students](/#honours) to completion. He works with multidisciplinary teams (Academia and Industry) 
+[5 Honours students](/#honours) to completion. He works with multidisciplinary and multicultural teams (Academia and Industry) 
 and has experience working in 6 countries (Argentina, Australia, New Zealand, United States, The Netherlands and Germany).
 

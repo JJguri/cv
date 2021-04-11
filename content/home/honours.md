@@ -53,20 +53,18 @@ subtitle = ""
 ## **Agricultural Engineers**
 
 ### **National University of Entre Ríos**
-
 #### **Agr. Eng. Rodrigo Girard** (2018)
 Impact of cover crops with different defoliation levels on soil carbon
 
 ### **National University of Mar Del Plata**
 #### **Agr. Eng. Ariel De Sarro** (2017)
-Comparative analysis of root production and distribution in oats (Avena sativa) and tall fescue 
-(_Festuca arundinacea_ Schreb.) (Finished).
-
+Comparative analysis of root production and root distribution in oats (_Avena sativa_) and tall fescue 
+(_Festuca arundinacea_ Schreb.)
 #### **Agr. Eng. Cecilia Gutheim** (2015)
-Effects of the previous crop, additives and pre-wilted in the nutritional quality of silage of oat 
-(Avena sativa) (Finished).
-
+Effects of previous crop, additives and pre-wilted in the nutritional quality of oat silage
+(_Avena sativa_)
 #### **Agr. Eng. Gabriel Eriksen** (2014)
-Comparative analysis of water productivity between oats (Avena sativa) and tall fescue (_Festuca arundinacea_ Schreb.) (Finished). 
+Comparative analysis of water productivity between oats (_Avena sativa_) and tall fescue 
+(_Festuca arundinacea_ Schreb.)
 #### **Agr. Eng. Agustin Galleano** (2014)
-Nutritional evaluation of silage maize-soybean intercropping (Finished).
+Nutritional evaluation of silage maize-soybean intercropping
