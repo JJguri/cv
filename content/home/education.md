@@ -61,16 +61,16 @@ GPA: 8.8 (out of 10) No. failed: 0 (none)
 
 ### Courses
 
-- Crop eco-physiology
-- Advanced crop eco-physiology
-- Applied eco-physiology to pasture management
-- Statistical methods I
-- Statistical methods II
-- Experimental design I
-- Experimental design II
-- Calculation techniques and agricultural estimations in extensive crops
-- Use of DSSAT models
-- Scientific writing methodologies
+- Crop Eco-physiology
+- Advanced Crop Eco-physiology
+- Applied Eco-physiology to Pasture Management
+- Statistical Methods I
+- Statistical Methods II
+- Experimental Design I
+- Experimental Design II
+- Calculation Techniques and Agricultural Estimations in Extensive Crops
+- Use of DSSAT Models
+- Scientific Writing Methodologies
 - Neotyphodium (Festucosis)
 
 ## **Agricultural Engineer (2011)**
@@ -86,53 +86,53 @@ GPA: 8.8 (out of 10) No. failed: 0 (none) Historical GPA: 6.8 (out of 10)
 
 #### Basic courses
 
-- Introduction to agro-productive systems
+- Introduction to Agro-productive Systems
 - Biology
-- Agricultural microbiology
-- Computer studies
-- Morphological botany
-- Systematic botany
-- General chemistry
-- Analytical chemistry
-- Biological and organic chemistry
-- Agricultural policy and legislation
+- Agricultural Microbiology
+- Computer Sciences
+- Morphological Botany
+- Systematic Botany
+- General Chemistry
+- Analytical Chemistry
+- Biological and Organic Chemistry
 - Mathematics
 - Physics
-- Experimental statistics and design
-- Research methodology
+- Experimental Statistics and Design
+- Research Methodology
+- Agricultural Policy and Legislation
 
 ##### Agronomic courses
 
-- Agricultural climatology
-- Animal anatomy and physiology
-- Agricultural automation
-- Soil sciences and pedological studies
-- Ecology of agricultural systems
-- Agricultural zoology
+- Agricultural Climatology
+- Agricultural Automation
+- Agricultural Zoology (entomology)
+- Animal Anatomy and Physiology
+- Soil Sciences and Pedological Studies
+- Ecology of Agricultural Systems
 - Phytopathology
-- Land technology
-- Plant physiology
-- Plant and animal genetics and improvement
-- Plant therapeutics
+- Land Technology
+- Plant Physiology
+- Plant and Animal Genetics and Improvement
+- Plant Therapeutics
 
 ##### Professional courses
 
-- Agricultural economy
-- Geographical information systems
-- Business management and planning
-- Rural extension and sociology
-- Irrigation and drainage
-- Integrated workshop of phytosanitary management
+- Agricultural Economy
+- Geographical Information Systems
+- Business Management and Planning
+- Rural Extension and Sociology
+- Irrigation and Drainage
+- Integrated Workshop of Phytosanitary Management
+- Animal Nutrition
+- Forage Crops Management 
+- Agrosilvopastoral Production
+- Grains and Oilseeds
+- Postharvest Management
+- Beef Cattle
+- Dairy Cattle
+- Small Ruminants 
+- Apiculture
 - Horticulture
 - Forestry
 - Fruticulture
-- Animal nutrition
-- Forage crops management 
-- Agrosilvopastoral production
-- Beef cattle
-- Grains and Oilseeds
-- Postharvest management
-- Dairy cattle
-- Small ruminants 
 - Pigs
-- Apiculture
