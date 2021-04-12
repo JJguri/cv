@@ -46,6 +46,9 @@ tags:
 - Plant available water capacity
 - Irrigation
 - Aggregation methods
+- Water use
+- Potato
+- Solanum Tuberosum
 featured: true
 
 url_pdf: 'https://www.dropbox.com/s/crfixhompon6yv6/Ojeda%20et%20al.%2C%202021%20EJA.pdf?dl=0'

@@ -6,10 +6,10 @@ tags:
 - C4 species
 - Biomass production
 - Grazing Livestock Systems
-- APSIM
 - Tropical Pastures
 - Stocking rate
-- Climate Change
+- Carbon
+- Nitrogen
 
 date: "2020-08-15T00:00:00Z"
 

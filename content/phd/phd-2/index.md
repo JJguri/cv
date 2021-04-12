@@ -6,6 +6,7 @@ tags:
 - Crop diversity
 - Socio-economic analysis
 - Multi agent models
+- Crop rotations
 
 date: "2019-06-11T00:00:00Z"
 

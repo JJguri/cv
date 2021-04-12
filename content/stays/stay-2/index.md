@@ -8,6 +8,9 @@ tags:
 - Corn-Soybean
 - Water drainage
 - APSIM Classic
+- Carbon
+- Nitrogen
+- Crop rotations
 date: "2015-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

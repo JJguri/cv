@@ -81,24 +81,23 @@ user_groups:
 #- Researchers
 ---
 
-Jonathan (Jony) is a Data Scientist by nature. He applies his unique skill-set on data analytics and 
-programming to understand the crop eco-physiology (soil-plant-climate interactions) behind crop models 
-and remote sensing algorithms to improve crop production and reduce environmental impacts.
-His research interests are in quantifying the effects of crop management and climate 
-variability on soil-crop processes and integrating data into mechanistic models at different 
-spatial scales. He has a passionate interest in disentangling sources of uncertainties in 
-biophysical and mathematical models to better predict crop growth, both yield and quality and 
-environmental impacts in agricultural systems. This requires a broad understanding of how the 
-environment influences crop growth and development; how rainfall, irrigation, and fertilizer 
-influence soil conditions; how crops obtain water and nutrients from the soil; how soil processes 
-contribute to the loss of carbon and nitrogen; and how all these processes interact.
+Jonathan (Jony) is by nature a Data Scientist. He applies his unique skill-set on data analytics and 
+programming to understand the crop eco-physiology behind crop models and remote sensing algorithms 
+to improve crop production and reduce environmental impacts. His research interests are in quantifying 
+the effects of crop management and climate variability on soil-crop processes and integrating data into 
+mechanistic models at different spatial scales. He has a passionate interest in disentangling sources of uncertainties in 
+biophysical models to better predict crop growth, both yield and quality and environmental impacts in agricultural systems. 
+This requires a broad understanding of how the environment influences crop growth and development; 
+how rainfall, irrigation, and fertilizer influence soil conditions; how crops obtain water and nutrients 
+from the soil; how soil processes contribute to the loss of carbon and nitrogen; and how all these processes interact.
 
 Jony has most than 15 years of experience managing large datasets and 
 almost 10 years developing the Agricultural Production Systems sIMulator ([APSIM](https://www.apsim.info/)) 
-to solve real farm problems worldwide. He has more than [40 published articles](https://www.dropbox.com/s/gzbcs04li2gs8yu/papers.csv?dl=0)
+to solve real farm problems around the world. He has more than [40 published articles](https://www.dropbox.com/s/gzbcs04li2gs8yu/papers.csv?dl=0)
 [[11 in high-impact journals](/publication) (10 as first author!)]. 
-As a PhD, he received  12 research grants (8 as lead investigator) with a cash value of ~AUD1.2M. He is currently 
-mentoring [5 PhD students](/phd) in collaboration with international researchers and has previously supervised 
-[5 Honours students](/#honours) to completion. He works with multidisciplinary and multicultural teams (Academia and Industry) 
-and has experience working in 6 countries (Argentina, Australia, New Zealand, United States, The Netherlands and Germany).
+He received  16 research grants (73% as chief investigator) with a cash value of ~AUD1.2M. 
+He is currently mentoring [6 PhD students](/phd) in collaboration with international researchers 
+and has previously supervised [5 Honours students](/#honours) to completion. He works with 
+multi-cultural and multi-disciplinary teams (Academia and Industry) and has experience working in 6 countries 
+(Argentina, Australia, New Zealand, United States, The Netherlands and Germany).
 

@@ -10,6 +10,9 @@ tags:
 - MODIS
 - Sentinel 2
 - Google Earth Engine
+- Remote Sensing
+- Nitrogen
+- Model uncertainty
 
 date: "2020-08-15T00:00:00Z"
 

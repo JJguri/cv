@@ -8,6 +8,11 @@ tags:
 - Greenhouse gas emissions
 - Climate change
 - Ecosystems services
+- Carbon
+- Greenhouse gas emissions
+- Carbon Dioxide
+- Nitrous Oxide
+- Methane
 
 date: "2020-01-16T00:00:00Z"
 

@@ -6,7 +6,7 @@ tags:
 - Crop Physiology
 - Climate Change
 - Model Uncertainty
-- Model up-scaling
+- Model upscaling
 date: "2018-05-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

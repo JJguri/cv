@@ -43,8 +43,10 @@ tags:
 - Data aggregation
 - Spatial heterogeneity
 - Model uncertainty
-- Climate Change
-- Weather data 
+- Weather data
+- Potato
+- Model upscaling
+- Solanum tuberosum
 featured: true
 
 url_pdf: https://www.dropbox.com/s/kbqf7aiep1s9lon/Ojeda%20et%20al.%2C%202020%20STE.pdf?dl=0

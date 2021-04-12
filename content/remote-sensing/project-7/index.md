@@ -12,6 +12,7 @@ tags:
 - N leaching
 - MODIS
 - Sentinel2
+- Remote Sensing
 date: "2020-08-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

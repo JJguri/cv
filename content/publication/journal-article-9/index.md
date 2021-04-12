@@ -37,8 +37,10 @@ tags:
 - Australia
 - Legumes
 - Spatial heterogeneity
-- Climate Change
 - Crop Phenology
+- Water stress
+- Heat stress
+- Cover crops
 featured: true
 
 url_pdf: 'https://www.dropbox.com/s/oj7ng5ifm4wfdng/Lake%20et%20al.%2C%202021%20EJA.pdf?dl=0'

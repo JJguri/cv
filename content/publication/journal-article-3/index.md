@@ -33,6 +33,10 @@ tags:
 - Organic matter
 - Particulate organic matter
 - South-eastern pampas of Argentina
+- Organic Carbon
+- Nitrogen
+- Sustainability
+- Ecological indicators
 
 featured: true
 

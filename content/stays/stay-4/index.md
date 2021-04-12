@@ -11,8 +11,8 @@ tags:
 - Spain
 - Drought
 - Heat stress
-- Climate Change
 - Weather data
+- Model upscaling
 date: "2020-01-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

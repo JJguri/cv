@@ -35,6 +35,8 @@ tags:
 - Alfalfa
 - Tall fescue
 - Maize
+- Carbon
+- Water use
 
 featured: true
 

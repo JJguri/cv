@@ -37,6 +37,9 @@ tags:
 - Model validation
 - Maize
 - Crop sequences and forage rotations
+- Crop Rotations
+- Cover crops
+- Resource use
 
 featured: true
 

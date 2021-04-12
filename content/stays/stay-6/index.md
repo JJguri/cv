@@ -8,6 +8,7 @@ tags:
 - Crop modelling
 - Potato modelling
 - Crop model configuration
+- Crop rotations
 
 date: "2019-04-20T00:00:00Z"
 

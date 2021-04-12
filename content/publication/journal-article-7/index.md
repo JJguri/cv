@@ -35,8 +35,8 @@ tags:
 - Simulation modelling
 - Spatial variability
 - Temporal patterns
-- Climate Change
 - Weather data
+- Crop rotations
 
 featured: true
 

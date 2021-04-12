@@ -8,6 +8,7 @@ tags:
 - Coding
 - Crop rotations
 - Crop sequences
+- Cover crops
 
 date: "2019-07-31T00:00:00Z"
 
