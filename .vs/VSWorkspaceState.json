@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\home"
+    "\\content\\modelling",
+    "\\content\\phd",
+    "\\content\\phd\\phd-4",
+    "\\content\\phd\\phd-5",
+    "\\content\\phd\\phd-6"
   ],
-  "SelectedNode": "\\content\\home\\tags.md",
+  "SelectedNode": "\\content\\phd\\phd-4\\index.md",
   "PreviewInSolutionExplorer": false
 }

@@ -51,8 +51,8 @@ the crop’s biofuel production.
 
 We use RGB images to parametrise different forage genotypes in APSIM and test the 
 effect of genotype × management interactions on biomass production across environments.
-The University of Queensland is leading the regional crop modelling part of this project
-exploring the following questions:
+I am currently leading the sorghum biomass modelling in the UQ component of the joint project with Purdue.
+We are exploring the following questions:
 
 * Which factors (G, E and M) are dominant in explaining sorghum biomass variability spatially?
 * How do the drivers of sorghum biomass variability change with genotype and irrigation strategy across environments?
