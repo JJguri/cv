@@ -1,6 +1,6 @@
 ---
 title: Improving the representation of soil productivity/constraints in existing DSS and modelling platforms 
-summary: 2019-2021
+summary: 2019-ongoing
 tags:
 - Soil modelling
 - Phosphorus

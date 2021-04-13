@@ -1,6 +1,6 @@
 ---
 title: Crop-livestock adaptation to climate change based on modelling and remote-sensing
-summary: 2020-2021
+summary: 2020-ongoing
 tags:
 - Remote Sensing
 - Crop Modelling

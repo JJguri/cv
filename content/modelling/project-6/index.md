@@ -1,7 +1,7 @@
 ---
 title: Bestiapop - A python package for climate data extraction, processing and visualisation in crop models
 
-summary: 2019-2020
+summary: 2019-ongoing
 tags:
 - Weather data
 - Model inputs

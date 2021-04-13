@@ -4,10 +4,12 @@
     "\\config",
     "\\config\\_default",
     "\\content",
-    "\\content\\authors",
     "\\content\\authors\\admin",
-    "\\content\\home"
+    "\\content\\home",
+    "\\content\\modelling\\project-6",
+    "\\content\\remote-sensing",
+    "\\content\\remote-sensing\\project-9"
   ],
-  "SelectedNode": "\\config\\_default\\params.toml",
+  "SelectedNode": "\\content\\home\\grant.md",
   "PreviewInSolutionExplorer": false
 }
