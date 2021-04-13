@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 ## **PhD in Agricultural Sciences (2017)**
- 
+----------------
 National University of Mar del Plata, Argentina (duration = 5 years; **422 credit hours**)
 
 GPA: 8.8 (out of 10) No. failed: 0 (none)
@@ -73,8 +73,46 @@ GPA: 8.8 (out of 10) No. failed: 0 (none)
 - Scientific Writing Methodologies
 - Neotyphodium (Festucosis)
 
-## **Agricultural Engineer (2011)**
+### About the PhD project
 
+The growing demand for beef and dairy products requires technological options to improve 
+the productivity and resource use efficiency of forages crops with less environmental impact. 
+Livestock production systems based on forage crop sequences (FCS) could be more productive 
+and efficient than those based on perennial pastures (PP). However, there are many questions 
+about the FCS implementation related to the system stability in the long term and about 
+the root-derived soil organic carbon in these systems. The main objective of this thesis was 
+to provide original knowledge about the main ecophysiological aspects determining forage supply 
+in livestock systems based on the use of FCS and PP.
+
+The study was conducted in three steps 
+(i) above-ground dry matter yield (AGDM) and precipitation use efficiency (PUE) were analyzed 
+in Rafaela, Pergamino, General Villegas and Trenque Lauquen, (ii) in Balcarce were evaluated 
+AGDM, below-ground dry matter yield (BGDM), PUE (i.e. **water capture [WC]** * **water use efficiency [WUE]**), 
+radiation productivity (RP, i.e. **radiation capture [RC]** * **radiation use efficiency [RUE]**) and 
+soil carbon (C) variations in different **organic matter** fractions. Finally, (iii) **Agricultural 
+Production Systems Simulator (APSIM)** was calibrated and validated to analyze the accumulated 
+annual precipitation, AGDM and PUE variability using a long-term climate database (30 years).
+
+In general, the AGDM was higher for the FCS than the PP treatments, although more variable 
+in the long term. Below-ground dry matter yield was similar for both treatments. Likewise, 
+there was a greater association between the contribution of C and BGDM in sub-surface horizons 
+below than 0,15 m soil depth. The PP treatments shown higher RC and similar WC than the FCS treatments.
+However, FCS shown higher RUE and WUE, which led to higher RP and PUE. In turn, the PP treatments 
+shown lower inter-annual variability of PUE than FCS in the long term. The multi-environmental 
+analysis on the impacts of different forage cropping systems on PUE, as well as on the **soil C** 
+variations, provide key knowledge and information to **_develop management strategies to increase 
+the sustainable productivity of livestock systems in the Argentinean Pampas_**.
+
+#### _**Logical flow of the PhD thesis**_
+![image](/img/phd.jpg)
+
+_The image shows the logical flow of the PhD thesis including the stages, chapters, scales, 
+spatio-temporal levels of analysis, and the measured or estimated variables. DM<sub>a</sub>, Aerial Dry Matter Yield; 
+WP, Water Productivity ; DM<sub>r</sub>, Root Dry Matter Yield; RP, Radiation Productivity; OM, 
+Organic Matter_
+
+## **Agricultural Engineer (2011)**
+----------------
 National University of Entre Ríos, Argentina (duration = 7 years; **3479 credit hours**)
 
 GPA: 8.8 (out of 10) No. failed: 0 (none) Historical GPA: 6.8 (out of 10)
