@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\config",
+    "\\config\\_default",
     "\\content",
+    "\\content\\authors",
+    "\\content\\authors\\admin",
     "\\content\\home"
   ],
-  "SelectedNode": "\\content\\home\\grant.md",
+  "SelectedNode": "\\config\\_default\\params.toml",
   "PreviewInSolutionExplorer": false
 }

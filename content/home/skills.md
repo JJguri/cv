@@ -27,6 +27,12 @@ subtitle = ""
   description = ""
 
 [[feature]]
+  icon = "satellite"
+  icon_pack = "fas"
+  name = "Remote Sensing"
+  description = "" 
+
+[[feature]]
   icon = "ubuntu"
   icon_pack = "fab"
   name = "Ubuntu"
@@ -79,6 +85,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "Team work"
   description = ""
+
 
 
 +++

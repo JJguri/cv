@@ -14,7 +14,7 @@ role: Crop Ecophysiologist - Cropping Systems Modeller - Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: QAAFI - The University of Queensland
+- name: QAAFI - The University of Queensland (j.ojeda@uq.edu.au)
   url: "https://agriculture.uq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jonathan.ojeda@utas.edu.au'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:j.ojeda@uq.edu.au'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.au/citations?user=5Bqcm9MAAAAJ&hl=en
