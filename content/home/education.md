@@ -104,7 +104,7 @@ variations, provide key knowledge and information to **_develop management strat
 the sustainable productivity of livestock systems in the Argentinean Pampas_**.
 
 #### _**Logical flow of the PhD thesis**_
-![image](/img/phd.jpg)
+![image](/img/phd2.jpg)
 
 _The image shows the logical flow of the PhD thesis including the stages, chapters, scales, 
 spatio-temporal levels of analysis, and the measured or estimated variables. DM<sub>a</sub>, Aerial Dry Matter Yield; 
