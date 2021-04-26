@@ -149,7 +149,7 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "https://www.dropbox.com/s/n96h9mma01qf9zt/cv-ojeda.pdf?dl=0"
+  url = "https://www.dropbox.com/s/02vfhcw1ypguthr/cv-ojeda2.pdf?dl=0"
   weight = 90
 
 [[main]]

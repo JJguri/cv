@@ -70,7 +70,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/s/n96h9mma01qf9zt/cv-ojeda.pdf?dl=0
+  link: https://www.dropbox.com/s/02vfhcw1ypguthr/cv-ojeda2.pdf?dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "j.ojeda@uq.edu.au; jonathanjesusojeda@gmail.com"
