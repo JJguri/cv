@@ -4,10 +4,8 @@
     "\\config",
     "\\config\\_default",
     "\\content",
-    "\\content\\authors\\admin",
-    "\\content\\home",
-    "\\content\\remote-sensing\\project-9"
+    "\\content\\home"
   ],
-  "SelectedNode": "\\content\\home\\bestiapop.md",
+  "SelectedNode": "\\config\\_default\\menus.toml",
   "PreviewInSolutionExplorer": false
 }

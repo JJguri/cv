@@ -39,7 +39,7 @@
   name = "Media"
   parent = "Experience"
   url = "/#slider"
-  weight = 43
+  weight = 15
 
 [[main]]
   name = "Prizes"
