@@ -4,8 +4,10 @@
     "\\config",
     "\\config\\_default",
     "\\content",
+    "\\content\\authors",
+    "\\content\\authors\\admin",
     "\\content\\home"
   ],
-  "SelectedNode": "\\config\\_default\\menus.toml",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }

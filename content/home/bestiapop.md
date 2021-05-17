@@ -56,6 +56,8 @@ subtitle = "A python package to automate the extraction, processing and visualis
 
 <img src="https://img.shields.io/pypi/pyversions/bestiapop?style=flat-square" width="200" />
 
+<img src="https://static.pepy.tech/badge/bestiapop" width="200" />
+
 <img src="https://img.shields.io/pypi/dm/bestiapop?style=flat-square" width="500"/>
 
 #### _Overview_
