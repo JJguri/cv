@@ -27,8 +27,8 @@ links:
   url: https://twitter.com/search?q=%2523COALAR
 - icon: linkedin
   icon_pack: fab
-  name: Follow
-  url: https://www.linkedin.com/in/jonathan-j-ojeda-09147047/
+  name: Read News
+  url: https://sites.google.com/view/red-cientificos-arg-en-aus/noticias#h.sdm4b8fi5fg7
 - icon: cow
   icon_pack: fab
   name: COALAR
