@@ -81,12 +81,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "j.ojeda@uq.edu.au"
+email = "jonathan@regrow.ag"
 phone = "+61 492 507 910"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Rm S614 Level 6 Hartley Teakle Building St Lucia QLD 4067, Australia", city = "Brisbane", region = "QLD", postcode = "4067", country = "Australia", country_code = "AU"}
+address = {street = "", city = "Brisbane", region = "QLD", postcode = "4101", country = "Australia", country_code = "AU"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

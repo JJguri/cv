@@ -3,11 +3,9 @@
     "",
     "\\config",
     "\\config\\_default",
-    "\\content",
     "\\content\\authors",
-    "\\content\\authors\\admin",
-    "\\content\\home"
+    "\\static"
   ],
-  "SelectedNode": "\\content\\authors\\admin\\_index.md",
+  "SelectedNode": "\\config\\_default\\params.toml",
   "PreviewInSolutionExplorer": false
 }

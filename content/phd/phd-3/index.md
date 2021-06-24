@@ -62,7 +62,7 @@ The project has the following objectives:
 Tasmanian Institute of Agriculture, University of Tasmania, Tasmania, Australia
 
 #### Period
-From January 2020 to January 2024
+Supervised by Dr Ojeda from January 2020 to May 2021.
 
 #### Supervisors
 Dr Jonathan Ojeda, Dr Beth Penrose (primary supervisor), Dr Matt Harrison, Prof Caroline Mohammed (TIA-UTAS).

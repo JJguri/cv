@@ -14,7 +14,7 @@ role: Crop Ecophysiologist - Cropping Systems Modeller - Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: QAAFI - The University of Queensland (j.ojeda@uq.edu.au)
+- name: Regrow Ag (jonathan@regrow.ag)
   url: "https://agriculture.uq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -73,7 +73,7 @@ social:
   link: https://www.dropbox.com/s/02vfhcw1ypguthr/cv-ojeda2.pdf?dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "j.ojeda@uq.edu.au; jonathanjesusojeda@gmail.com"
+email: "jonathan@regrow.ag; jonathanjesusojeda@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -93,10 +93,10 @@ from the soil; how soil processes contribute to the loss of carbon and nitrogen;
 
 Jony has most than 15 years of experience managing large datasets and 
 almost 10 years developing the Agricultural Production Systems sIMulator ([APSIM](https://www.apsim.info/)) 
-to solve real farm problems around the world. He has more than [40 published articles](https://www.dropbox.com/s/gzbcs04li2gs8yu/papers.csv?dl=0)
-[[11 in high-impact journals](/publication) (10 as first author!)]. 
+to solve real farm problems around the world. He has more than [41 published articles](https://www.dropbox.com/s/gzbcs04li2gs8yu/papers.csv?dl=0)
+[[12 in high-impact journals](/publication) (10 as first author!)]. 
 He received  16 research grants (73% as chief investigator) with a cash value of ~AUD1.2M. 
-He is currently mentoring [6 PhD students](/phd) in collaboration with international researchers 
+He is currently mentoring [5 PhD students](/phd) in collaboration with international researchers 
 and has previously supervised [5 Honours students](/#honours) to completion. He works with 
 multi-cultural and multi-disciplinary teams (Academia and Industry) and has experience working in 6 countries 
 (Argentina, Australia, New Zealand, United States, The Netherlands and Germany).
