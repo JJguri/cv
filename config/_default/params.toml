@@ -90,7 +90,7 @@ address = {street = "", city = "Brisbane", region = "QLD", postcode = "4101", co
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-27.49607", longitude = "153.01097"}
+coordinates = {latitude = "-27.469187", longitude = "153.026590"}
 
 # Directions for visitors to locate you.
 directions = "Enter Hartley Teakle Building and take the stairs to Office 614 on Floor 6"
