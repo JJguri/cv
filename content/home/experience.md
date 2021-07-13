@@ -28,7 +28,9 @@ date_format = "Jan 2006"
   description = """
   
 ###### Responsibilities:
-  
+
+**Applied Research**
+
 -	Work with the APSIM science and remote sensing science teams to develop and implement algorithms that will help improve soil-crop management practices nationally and internationally (focus on US, Australia, and LATAM, plus expanding into EU).
 -	Develop algorithms to quantify the effects of crop management and climate variability on soil-crop processes.
 -	Develop the coupling between large multi-scale remotely sensed, geospatial datasets for agriculture and rangeland applications and advanced biophysical/mechanistic models (APSIM and DNDC) at different spatial scales to evaluate drivers of yield variability to generate soil sampling schemes for large and complex conservation and soil sampling projects.
