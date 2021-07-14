@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   company_url = "https://agriculture.uq.edu.au/"
   location = "Brisbane, Queensland, Australia"
   date_start = "2020-10-19"
-  date_end = ""
+  date_end = "2021-06-25"
   description = """
   
 ###### Responsibilities:

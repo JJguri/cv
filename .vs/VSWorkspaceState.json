@@ -1,11 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\config",
-    "\\config\\_default",
+    "\\content",
     "\\content\\authors",
-    "\\static"
+    "\\content\\publication",
+    "\\content\\publication\\journal-article-11"
   ],
-  "SelectedNode": "\\config\\_default\\params.toml",
+  "SelectedNode": "\\content\\publication\\journal-article-2",
   "PreviewInSolutionExplorer": false
 }
