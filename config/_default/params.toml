@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jonathan@regrow.ag"
+email = "jonathanjesusojeda@gmail.com"
 phone = "+61 492 507 910"
 
 # Address
@@ -93,7 +93,7 @@ address = {street = "", city = "Brisbane", region = "QLD", postcode = "4101", co
 coordinates = {latitude = "-27.469187", longitude = "153.026590"}
 
 # Directions for visitors to locate you.
-directions = "Enter Hartley Teakle Building and take the stairs to Office 614 on Floor 6"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

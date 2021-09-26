@@ -50,13 +50,17 @@ subtitle = "Invited talks and guest lectures around the world 🌎"
  css_class = ""
 +++
 
-2021
+2022
 ===============
 #### The importance of simulation configuration to crop model development
-Australian Agronomy Conference, Toowoomba, Australia (_under review_)
-#### BestiaPop - A Python package to automatically generate and visualise gridded climate data for 
-crop model applications
-Australian Agronomy Conference, Toowoomba, Australia (_under review_)
+20th Australian Agronomy Conference, Toowoomba, Queensland, Australia. 6-10 February 2022
+#### A Python package to automatically generate and visualise gridded climate data for crop model applications
+20th Australian Agronomy Conference, Toowoomba, Queensland, Australia. 6-10 February 2022
+
+2021
+===============
+#### BestiaPop: A Python Package to Automatically Generate and Visualize Gridded Climate Data for Crop Model Applications
+5th Annual Crops in silico Symposium & Hackathon, University of Illinois, USA (online)
 #### Variance Decomposition applied to crop models
 APSIM monthly training YouTube videos, Brisbane, Australia (_scheduled for November_)
 

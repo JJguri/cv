@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 62  # Order that this section will appear.
 
-title = "GitHub Operations"
+title = "Data Science"
 subtitle = "Making art with Python :ear_of_rice: :computer: :man_farmer:"
 
 [design]
@@ -51,13 +51,25 @@ subtitle = "Making art with Python :ear_of_rice: :computer: :man_farmer:"
 +++
 
 ## **Operating systems**
-Windows, Linux/Unix (Ubuntu), cloud and high-performance computing, Binder.
+Windows, Linux (Ubuntu), Unix.
 
-## **Tools for predictive data analysis, data exploration and data visualisation**
-Python (xarray, cartopy, pandas, numpy, matplotlib, seaborn, scipy, pyproj, shapefile, statsmodels, 
-sqlite3, netCDF4, basemap, geopandas, sklearn.cluster, sklearn.metrics, GDAL, fiona, shapely), C#, Markdown, R Studio, remote sensing imagery in 
-vegetation mapping (MODIS, Sentinel2), GitHub repositories, Jupyter Notebook, ArcGIS (Arcmap including Geoprocessing, Spatial Analysis, etc.), 
-QGis, netCDF file format, and relational databases, nco operators (ncdump, nca, etc. manipulates and analyzes data stored in netCDF).
+## **Statistical and data analysis**
+Python (pandas, numpy, matplotlib, seaborn, scipy, statsmodels, sqlite3, k-means, json), 
+.NET ([APSIM Classic](https://www.apsim.info/documentation/model-documentation/infrastructure-and-management-documentation/manager-2/), 
+[APSIM Next Generation](https://apsimnextgeneration.netlify.app/usage/writemanagerscript/)), C#, Markdown, R Studio, Shell.
+
+## **Data visualization and mapping**
+Python (dask, xarray, cartopy, pyproj, shapefile, netCDF4, geopandas), remote sensing imagery in vegetation mapping (MODIS, S2), 
+ArcGIS, QGis, netCDF file format, and relational databases. pSIMS (gridded crop model simulations), 
+[nco operators](http://nco.sourceforge.net/) (manipulates and analyzes data stored in netCDF), 
+[FluroSense](https://www.regrow.ag/flurosense) (Regrow Ag cloud-based crop management and analytics platform that drives planting and growing decisions).
+
+## **Cloud computing, parallel computing and storage**
+Google Cloud Platform, Docker, [Singularity](https://singularity.hpcng.org/), Amazon Web Services, GitHub repositories, APIs, Swift.
+
+## **Software development and collaboration tools**
+[Atlassian](https://www.atlassian.com/) (Jira and Confluence), [Buddy](https://buddy.works/) (The DevOps Automation Platform), GitHub repositories, Jupyter Notebook, Jupyter Lab, Spyder, Anaconda.
+
 
 ## **Process-based crop models and decision support tools**
 [APSIM Next Generation](https://apsimnextgeneration.netlify.app/),
@@ -66,7 +78,8 @@ QGis, netCDF file format, and relational databases, nco operators (ncdump, nca, 
 [SIMPLACE](http://www.simplace.net/),
 [MONICA](https://soil-modeling.org/resources-links/model-portal/monica),
 [CropWat](http://www.fao.org/land-water/databases-and-software/cropwat/es/),
-[pSIMS](https://github.com/JJguri/psimsV2)
+[pSIMS](https://github.com/JJguri/psimsV2),
+[DNDC](https://www.dndc.sr.unh.edu/)
  
 ## **Tools development for automated data processing**
 

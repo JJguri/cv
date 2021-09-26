@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 -	Work with the APSIM science and remote sensing science teams to develop and implement algorithms that will help improve soil-crop management practices nationally and internationally (focus on US, Australia, and LATAM, plus expanding into EU).
 -	Develop algorithms to quantify the effects of crop management and climate variability on soil-crop processes.
 -	Develop the coupling between large multi-scale remotely sensed, geospatial datasets for agriculture and rangeland applications and advanced biophysical/mechanistic models (APSIM and DNDC) at different spatial scales to evaluate drivers of yield variability to generate soil sampling schemes for large and complex conservation and soil sampling projects.
--	Develop and implement algorithms that predict crop growth, yield, and soil health/environmental impacts in agricultural systems; here you will have a chance to work at the cutting edge - bringing together crop and soil models for yield, soil organic carbon, and ecosystem outcomes assessment.
+-	Develop and implement algorithms that predict crop growth, yield, and soil health/environmental impacts in agricultural systems. Bringing together crop and soil models for yield, soil organic carbon, and ecosystem outcomes assessment.
 -	Develop automated workflows and techniques for quantification of crop model uncertainties.
 -	Work with customers' data to evaluate the APSIM model accuracy in simulations of crop productivity in key agricultural systems worldwide.
 -	Research the effects of integrating cover crops into farming systems on nutrient recovery and recycling soil carbon, as well as reduced yield risks demonstrating mitigation of the impacts of climate change on agriculture.
@@ -54,13 +54,8 @@ date_format = "Jan 2006"
   
 ###### Responsibilities:
   
-**Teaching and Learning**
-- Teach undergraduate subjects into the UQ plant/crop science program.
-- Supervise students at honours and postgraduate level.
-
 **Research**
-- I am leading the sorghum biomass modelling in the UQ component of a joint project with Purdue University (
-[TERRA](https://www.purdue.edu/terra/)) in collaboration with
+- I led the sorghum biomass modelling in the UQ component of a joint project with Purdue University ([TERRA](https://www.purdue.edu/terra/)) in collaboration with
 [Prof Scott Chapman](https://scholar.google.com.au/citations?user=v-giX5UAAAAJ&hl=en), [Prof Hammer](https://qaafi.uq.edu.au/profile/189/graeme-hammer), 
 and [Peter deVoil](https://qaafi.uq.edu.au/profile/864/peter-devoil) from UQ, [Dr Archontoulis](https://www.agron.iastate.edu/people/sotirios-archontoulis) 
 from Iowa State University and [Prof Tuinstra](https://ag.purdue.edu/agry/directory/Pages/mtuinstr.aspx), 
@@ -69,8 +64,13 @@ sorghum across US environments using gridded data.
 - Assist in supervision and engagement with PhD and Master’s students at Purdue and UQ, and utilise APSIM to 
 undertake simulations for the phenotyping of biomass sorghum using experiments from the project. Parameterise APSIM and use weather, 
 soil and other datasets to undertake scenario analysis of adaptation of biomass sorghum to diverse environments, primarily in the USA.
-- Collaborate with Pacific Seeds Australia (ADVANTA) in an experimental trial combining farm, drone data and satellite imagery 
-relating photosynthesis and RUE (Radiation Use Efficiency) with forage sorghum biomass.
+- Collaborate with Pacific Seeds Australia (ADVANTA) in an experimental trial combining farm, drone data and satellite imagery relating 
+photosynthesis and RUE (Radiation Use Efficiency) with forage sorghum biomass. Use of LICOR 6800 to measure leaf photosynthesis at 
+field scale level in sorghum trials including forage and grain genotypes.
+
+**Teaching and Learning**
+- Teach undergraduate subjects into the UQ plant/crop science program.
+- Supervise students at honours and postgraduate level.
 
 ###### Funded by:
 U.S. Department of Energy
