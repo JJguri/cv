@@ -94,7 +94,7 @@
   weight = 61
 
 [[main]]
-  name = "GitHub Operations"
+  name = "Data Science"
   parent = "Coding"
   url = "/#coding"
   weight = 62
