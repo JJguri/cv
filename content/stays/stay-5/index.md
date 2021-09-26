@@ -60,7 +60,7 @@ In line with previous studies, DAEc was mainly driven by differences in elevatio
 
 Paper published in Science of the Total Environment
 
-#### Host Researchers in Germany
+#### Host Researchers
 Dr Ehsan Eyshi Rezaei and Dr Stefan Siebert
 
 #### Funded by

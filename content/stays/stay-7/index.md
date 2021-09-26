@@ -61,7 +61,7 @@ Dr. Octavio Caviglia and I conducted a 3-day advanced modeling workshop at the N
 
 Initial discussions about future collaborations and PhD student interchange between organisations
 
-#### Host Researchers in Germany
+#### Host Researchers
 Dr Octavio Caviglia
 
 #### Funded by

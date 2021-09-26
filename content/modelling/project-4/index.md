@@ -1,6 +1,6 @@
 ---
 title: APSIM Potato model development - Mapping potato yield variability under diferent G*E*M scenarios in Tasmania 
-summary: 2018-ongoing
+summary: 2018-2020
 tags:
 - APSIM Next Generation
 - Crop model development

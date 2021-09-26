@@ -68,7 +68,7 @@ I also spent one week at the Plant and Food Research Institute working with Dr. 
 
 Paper under review _in-silico_ Plants
 
-#### Host Researchers in Germany
+#### Host Researchers
 Dr Derrick Moot and Dr Hamish Brown
 
 #### Funded by

@@ -59,7 +59,7 @@ I was working in collaboration with Dr. Bahareh Kamali, Dr. Heidi Webber at the 
 
 Two manuscripts in preparation to be submitted soon.
 
-#### Host Researchers in Germany
+#### Host Researchers
 * Dr Bahareh Kamali, Dr Heidi Webber, Dr Frank Ewert (Leibniz Centre for Agricultural Landscape Research)
 
 #### Funded by
