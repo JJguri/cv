@@ -31,15 +31,17 @@ date_format = "Jan 2006"
 
 **Applied Research**
 
--	Work with the APSIM science and remote sensing science teams to develop and implement algorithms that will help improve soil-crop management practices nationally and internationally (focus on US, Australia, and LATAM, plus expanding into EU).
--	Develop algorithms to quantify the effects of crop management and climate variability on soil-crop processes.
--	Develop the coupling between large multi-scale remotely sensed, geospatial datasets for agriculture and rangeland applications and advanced biophysical/mechanistic models (APSIM and DNDC) at different spatial scales to evaluate drivers of yield variability to generate soil sampling schemes for large and complex conservation and soil sampling projects.
--	Develop and implement algorithms that predict crop growth, yield, and soil health/environmental impacts in agricultural systems. Bringing together crop and soil models for yield, soil organic carbon, and ecosystem outcomes assessment.
--	Develop automated workflows and techniques for quantification of crop model uncertainties.
+-	Develop and deploy new solutions for [FluroSense](https://www.regrow.ag/flurosense), a digital agronomy and conservation monitoring platform which integrates large scale automated analysis with farm management systems (e.g. Climate FieldView, Agrian, Proagrica).
+-	Work with the Agricultural Production Systems sIMulator (APSIM) science and remote sensing science teams to develop and implement algorithms that help improve soil-crop management practices internationally (focus on US, Australia, and LATAM, expanding into EU).
 -	Work with customers' data to evaluate the APSIM model accuracy in simulations of crop productivity in key agricultural systems worldwide.
+-	Ensure engineering best practices, including phased project advancements, code documentation and review, and intellectual property documentation.
+-	Work closely and guide the engineering and product to develop model-scaling approaches that would allow the decision support tools based on APSIM to be used across multiple crop types and in multiple geographies as well as across scales (from field to regional scale).
+-	Develop algorithms to quantify the effects of crop management, genetics and climate variability on soil-crop processes.
+-	Couple large multi-scale remotely sensed, geospatial datasets and advanced biophysical/mechanistic models at different spatial scales to evaluate drivers of yield variability to generate soil sampling schemes for large and complex conservation and soil sampling projects.
+-	Implement algorithms that predict crop growth, yield, and soil health/environmental impacts in agricultural systems; bring together crop and soil models for yield, soil organic carbon, and ecosystem outcomes assessment.
+-	Develop automated workflows and techniques for quantification of crop model uncertainties.
 -	Research the effects of integrating cover crops into farming systems on nutrient recovery and recycling soil carbon, as well as reduced yield risks demonstrating mitigation of the impacts of climate change on agriculture.
--	Work closely and guide the engineering and product to develop model-scaling approaches that would allow the decision support tools based on APSIM to be used across multiple crop types and in multiple geographies as well as across scales (from field level to regional scale).
--	Assist with the development of case studies and reports by providing insight into soil health and crop and soil processes modelled by APSIM.
+-	Work in collaboration with CSIRO (Drs J. Whish, D. Gaydon, K. Verburg) in a project focused on the improvement of the FluroSense user interface based on farm/advisors’ interviews.
 
   """
 

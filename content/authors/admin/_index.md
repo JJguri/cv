@@ -81,23 +81,30 @@ user_groups:
 #- Researchers
 ---
 
-Jonathan (Jony) is by nature a Data Scientist. He applies his unique skill-set on data analytics and 
-programming to understand the crop eco-physiology behind crop models and remote sensing algorithms 
-to improve crop production and reduce environmental impacts. His research interests are in quantifying 
-the effects of crop management and climate variability on soil-crop processes and integrating data into 
-mechanistic models at different spatial scales. He has a passionate interest in disentangling sources of uncertainties in 
-biophysical models to better predict crop growth, both yield and quality and environmental impacts in agricultural systems. 
-This requires a broad understanding of how the environment influences crop growth and development; 
+I apply my unique skill-set on data analytics and programming to understand the crop eco-physiology 
+behind crop models and remote sensing algorithms to improve crop production and reduce environmental 
+impacts. My research interests are in quantifying the effects of crop management and climate variability 
+on soil-crop processes and integrating data into mechanistic models at different spatial scales. 
+I have a passionate interest in disentangling sources of uncertainties in biophysical models to better 
+predict crop growth, both yield and quality and environmental impacts in agricultural systems. This 
+requires a broad understanding of how the environment and genetics influences crop growth and development; 
 how rainfall, irrigation, and fertilizer influence soil conditions; how crops obtain water and nutrients 
 from the soil; how soil processes contribute to the loss of carbon and nitrogen; and how all these processes interact.
 
-Jony has most than 15 years of experience managing large datasets and 
-almost 10 years developing the Agricultural Production Systems sIMulator ([APSIM](https://www.apsim.info/)) 
-to solve real farm problems around the world. He has more than [40 published articles](https://scholar.google.com.au/citations?user=5Bqcm9MAAAAJ&hl=en&oi=sra)
-[[12 in high-impact journals](/publication) (11 as first author!)]. 
-He received  16 research grants (73% as chief investigator) with a cash value of ~AUD1.2M. 
-He is currently mentoring [5 PhD students](/phd) in collaboration with international researchers 
-and has previously supervised [5 Honours students](/#honours) to completion. He works with 
-multi-cultural and multi-disciplinary teams (Academia and Industry) and has experience working in 6 countries 
-(Argentina, Australia, New Zealand, United States, The Netherlands and Germany).
+Over 15 years of experience managing large soil-crop-climate datasets (>5 years using Python) and 10 years 
+developing the Agricultural Production Systems sIMulator ([APSIM](https://www.apsim.info/)) and applying data pipelining and optimization 
+towards solving large-scale real-world problems. I worked analysing data from more than 18 crops (annual ryegrass, 
+oats, wheat, barley, soybean, maize, sorghum, sunflower, potato, lentil, fababean, lucerne, etc.). I have more 
+than [40 published articles](https://scholar.google.com.au/citations?user=5Bqcm9MAAAAJ&hl=en&oi=sra)
+[[12 in high-impact journals](/publication) [12 in high-impact journals (11 as first author)]. I received 16 research grants 
+(73% as chief investigator) with a cash value of ~AUD1.25M. I am currently mentoring [5 PhD students](/phd) in 
+collaboration with international researchers and has previously supervised [5 Honours students](/#honours) to completion.
 
+My current industry role is focus on decision support tools development and application. I am interacting 
+with data scientists, software developers and engineers to develop models and algorithms linking remote sensing 
+data with crop/soil biophysical models to predict crop phenology, crop yield, soil water, nitrogen and carbon dynamics in 
+different agricultural systems with focus on maize, soybean and wheat. I works with multi-cultural and multi-disciplinary 
+teams (Academia and Industry) and have experience working in 
+6 countries (Argentina, Australia, New Zealand, United States, The Netherlands and Germany). My experience in 
+Australia and overseas in the public and private sectors testify to my readiness and capacity to work with teams 
+across different locations whilst creating long standing and productive relationships.

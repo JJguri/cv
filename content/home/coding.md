@@ -53,25 +53,30 @@ subtitle = "Making art with Python :ear_of_rice: :computer: :man_farmer:"
 ## **Operating systems**
 Windows, Linux (Ubuntu), Unix.
 
-## **Statistical and data analysis**
-Python (pandas, numpy, matplotlib, seaborn, scipy, statsmodels, sqlite3, k-means, json), 
-.NET ([APSIM Classic](https://www.apsim.info/documentation/model-documentation/infrastructure-and-management-documentation/manager-2/), 
-[APSIM Next Generation](https://apsimnextgeneration.netlify.app/usage/writemanagerscript/)), C#, Markdown, R Studio, Shell.
+## **Programming languages**
+Python, .NET (medium, [APSIM Classic](https://www.apsim.info/documentation/model-documentation/infrastructure-and-management-documentation/manager-2/), 
+[APSIM Next Generation](https://apsimnextgeneration.netlify.app/usage/writemanagerscript/)), C#, Markdown (advanced), R Studio, Shell.
+
+## **Data analysis and exploration**
+Python (pandas, statsmodels, sqlite3, json, glob, os, functools, lxml [handling of XML and HTML files], csv).
+
+## **Machine learning, optimization, linear algebra and statistics**
+Python (numpy, scipy, scikit-learn [e.g. KMeans used for data clustering], pandas, matplotlib, math).
 
 ## **Data visualization and mapping**
-Python (dask, xarray, cartopy, pyproj, shapefile, netCDF4, geopandas), remote sensing imagery in vegetation mapping (MODIS, S2), 
-ArcGIS, QGis, netCDF file format, and relational databases. pSIMS (gridded crop model simulations), 
-[nco operators](http://nco.sourceforge.net/) (manipulates and analyzes data stored in netCDF), 
-[FluroSense](https://www.regrow.ag/flurosense) (Regrow Ag cloud-based crop management and analytics platform that drives planting and growing decisions).
+Python (seaborn, dask, xarray, cartopy, pyproj, shapefile, netCDF4, geopandas, rasterio, GDAL), remote sensing imagery in vegetation and soil moisture 
+mapping (MODIS, S2, SAR), ArcGIS, QGis, netCDF file format, and relational databases. pSIMS (gridded crop model simulations), [nco operators](http://nco.sourceforge.net/) (manipulates 
+and analyzes data stored in netCDF in Linux), [FluroSense](https://www.regrow.ag/flurosense) (Regrow Ag cloud-based crop management and analytics platform that drives planting and growing decisions).
 
 ## **Cloud computing, parallel computing and storage**
-Google Cloud Platform, Docker, [Singularity](https://singularity.hpcng.org/), Amazon Web Services, GitHub repositories, APIs, Swift.
+Google Cloud Platform, Docker, [Singularity](https://singularity.hpcng.org/), Amazon Web Services, GitHub repositories, APIs, Swift, SQL tools (Database Client, 
+SQL editor, Visual Query Builder, e.g. DBeaver).
 
 ## **Software development and collaboration tools**
-[Atlassian](https://www.atlassian.com/) (Jira and Confluence), [Buddy](https://buddy.works/) (The DevOps Automation Platform), GitHub repositories, Jupyter Notebook, Jupyter Lab, Spyder, Anaconda.
+Bestiapop (Python package to automate the extraction and processing of climate data for crop modelling, >3000 downloads), [Atlassian](https://www.atlassian.com/) 
+(Jira and Confluence), [Buddy](https://buddy.works/) (The DevOps Automation Platform), GitHub operations, Jupyter Notebook/Lab, Spyder, Anaconda, PostMan, Visual Studio.
 
-
-## **Process-based crop models and decision support tools**
+## **Mechanistic models and decision support tools**
 [APSIM Next Generation](https://apsimnextgeneration.netlify.app/),
 [APSIM Classic](https://www.apsim.info/),
 [DSSAT](https://dssat.net/),
@@ -96,7 +101,8 @@ Google Cloud Platform, Docker, [Singularity](https://singularity.hpcng.org/), Am
 
 #### _Overview_
 The original Parallel System for Integrating Impact Models and Sectors (pSIMS) was developed by 
-[Elliot et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1364815214001121?casa_token=Tiz73PnBf9MAAAAA:cj6f6VItLQGgBMEY5VMyYjHT3a4QtpNcUYkAE-MY8HloVcyKidUtEOo_ntMV2Ft_dkCC2epi-xI) in Python 2, we updated pSIMS to pSIMSV2 which is able to run in a Python 3 environment. 
+[Elliot et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1364815214001121?casa_token=Tiz73PnBf9MAAAAA:cj6f6VItLQGgBMEY5VMyYjHT3a4QtpNcUYkAE-MY8HloVcyKidUtEOo_ntMV2Ft_dkCC2epi-xI) in 
+Python 2, we updated pSIMS to pSIMSV2 which is able to run the APSIM sorghum module at a regional scale (US-wide) using netCDF input data (climate, soil and crop management).
 pSIMSV2 has the ability to run APSIM using a singularity image which avoid the need to install the soft dependencies manually.
 
 ## [**MappingTools**](https://github.com/JJguri/Mapping-tools)

@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\content",
-    "\\content\\authors",
-    "\\content\\publication",
-    "\\content\\publication\\journal-article-11"
+    "\\config\\_default",
+    "\\content\\remote-sensing",
+    "\\content\\remote-sensing\\project-9"
   ],
-  "SelectedNode": "\\content\\publication\\journal-article-2",
   "PreviewInSolutionExplorer": false
 }
