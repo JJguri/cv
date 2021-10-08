@@ -91,7 +91,7 @@ requires a broad understanding of how the environment and genetics influences cr
 how rainfall, irrigation, and fertilizer influence soil conditions; how crops obtain water and nutrients 
 from the soil; how soil processes contribute to the loss of carbon and nitrogen; and how all these processes interact.
 
-Over 15 years of experience managing large soil-crop-climate datasets (>5 years using Python) and 10 years 
+Over 15 years of experience managing large soil-crop-climate datasets (5+ years using Python) and 10 years 
 developing the Agricultural Production Systems sIMulator ([APSIM](https://www.apsim.info/)) and applying data pipelining and optimization 
 towards solving large-scale real-world problems. I worked analysing data from more than 18 crops (annual ryegrass, 
 oats, wheat, barley, soybean, maize, sorghum, sunflower, potato, lentil, fababean, lucerne, etc.). I have more 
