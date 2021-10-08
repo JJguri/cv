@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\config\\_default",
-    "\\content\\remote-sensing",
+    "\\content",
+    "\\content\\authors",
+    "\\content\\authors\\admin",
+    "\\content\\home",
     "\\content\\remote-sensing\\project-9"
   ],
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }

@@ -65,7 +65,7 @@ Python (numpy, scipy, scikit-learn [e.g. KMeans used for data clustering], panda
 
 ## **Data visualization and mapping**
 Python (seaborn, dask, xarray, cartopy, pyproj, shapefile, netCDF4, geopandas, rasterio, GDAL), remote sensing imagery in vegetation and soil moisture 
-mapping (MODIS, S2, SAR), ArcGIS, QGis, netCDF file format, and relational databases. pSIMS (gridded crop model simulations), [nco operators](http://nco.sourceforge.net/) (manipulates 
+mapping (MODIS, Sentinel2, Sentinel1-SAR), ArcGIS, QGis, netCDF file format, and relational databases. pSIMS (gridded crop model simulations), [nco operators](http://nco.sourceforge.net/) (manipulates 
 and analyzes data stored in netCDF in Linux), [FluroSense](https://www.regrow.ag/flurosense) (Regrow Ag cloud-based crop management and analytics platform that drives planting and growing decisions).
 
 ## **Cloud computing, parallel computing and storage**
