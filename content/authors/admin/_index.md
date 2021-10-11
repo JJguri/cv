@@ -96,7 +96,7 @@ developing the Agricultural Production Systems sIMulator ([APSIM](https://www.ap
 towards solving large-scale real-world problems. I worked analysing data from more than 18 crops (annual ryegrass, 
 oats, wheat, barley, soybean, maize, sorghum, sunflower, potato, lentil, fababean, lucerne, etc.). I have more 
 than [40 published articles](https://scholar.google.com.au/citations?user=5Bqcm9MAAAAJ&hl=en&oi=sra)
-[[12 in high-impact journals](/publication) [12 in high-impact journals (11 as first author)]. I received 16 research grants 
+[[13 in high-impact journals](/publication) (11 as first author)]. I received 16 research grants 
 (73% as chief investigator) with a cash value of ~AUD1.25M. I am currently mentoring [5 PhD students](/phd) in 
 collaboration with international researchers and has previously supervised [5 Honours students](/#honours) to completion.
 
