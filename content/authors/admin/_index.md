@@ -90,10 +90,9 @@ how the environment and genetics influences crop growth/development; how rainfal
 soil conditions; how crops obtain water/nutrients from the soil; how soil processes contribute to the loss of C, N; and 
 how all these processes interact.
 
-Over 15 years of experience managing large soil-crop-climate datasets (5+ years using Python) and 10 years 
-developing the Agricultural Production Systems sIMulator ([APSIM](https://www.apsim.info/)) and applying data pipelining and optimization 
-towards solving large-scale real-world problems. I worked analysing data from more than 18 crops (annual ryegrass, 
-oats, wheat, barley, soybean, maize, sorghum, sunflower, potato, lentil, fababean, lucerne, etc.). I have more 
+Over 15 years of experience managing large soil-crop-climate datasets (5+ years using Python) and 10 years developing the Agricultural 
+Production Systems sIMulator ([APSIM](https://www.apsim.info/)) and applying data pipelining and optimization towards solving large-scale real-world problems. 
+I collected (field experimental trials) and analysed data including >18 crop species (annual, perennials). I have more 
 than [40 published articles](https://scholar.google.com.au/citations?user=5Bqcm9MAAAAJ&hl=en&oi=sra)
 [[13 in high-impact journals](/publication) (11 as first author)]. I received 16 research grants 
 (73% as chief investigator) with a cash value of ~AUD1.25M. I am currently mentoring [5 PhD students](/phd) in 
