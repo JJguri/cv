@@ -81,15 +81,14 @@ user_groups:
 #- Researchers
 ---
 
-I apply my unique skill-set on data analytics and programming to understand the crop eco-physiology 
-behind crop models and remote sensing algorithms to improve crop production and reduce environmental 
-impacts. My research interests are in quantifying the effects of crop management and climate variability 
-on soil-crop processes and integrating data into mechanistic models at different spatial scales. 
-I have a passionate interest in disentangling sources of uncertainties in biophysical models to better 
-predict crop growth, both yield and quality and environmental impacts in agricultural systems. This 
-requires a broad understanding of how the environment and genetics influences crop growth and development; 
-how rainfall, irrigation, and fertilizer influence soil conditions; how crops obtain water and nutrients 
-from the soil; how soil processes contribute to the loss of carbon and nitrogen; and how all these processes interact.
+I apply data analytics, statistics and programming to understand the crop ecophysiology behind crop models and remote 
+sensing algorithms to improve crop production and reduce environmental impacts. My interests are in quantifying the 
+effects of crop management, genetics and climate variability on soil-crop processes and integrating data into mechanistic 
+models at different spatio-temporal scales. I have a passionate interest in disentangling sources of uncertainties/variability 
+to better predict crop growth, both yield and quality and environmental indicators. This requires a broad understanding of 
+how the environment and genetics influences crop growth/development; how rainfall, irrigation, and fertilizer influence 
+soil conditions; how crops obtain water/nutrients from the soil; how soil processes contribute to the loss of C, N; and 
+how all these processes interact.
 
 Over 15 years of experience managing large soil-crop-climate datasets (5+ years using Python) and 10 years 
 developing the Agricultural Production Systems sIMulator ([APSIM](https://www.apsim.info/)) and applying data pipelining and optimization 
@@ -100,11 +99,11 @@ than [40 published articles](https://scholar.google.com.au/citations?user=5Bqcm9
 (73% as chief investigator) with a cash value of ~AUD1.25M. I am currently mentoring [5 PhD students](/phd) in 
 collaboration with international researchers and has previously supervised [5 Honours students](/#honours) to completion.
 
-My current industry role is focus on decision support tools development and application. I am interacting 
-with data scientists, software developers and engineers to develop models and algorithms linking remote sensing 
-data with crop/soil biophysical models to predict crop phenology, crop yield, soil water, nitrogen and carbon dynamics in 
-different agricultural systems with focus on maize, soybean and wheat. I works with multi-cultural and multi-disciplinary 
-teams (Academia and Industry) and have experience working in 
-6 countries (Argentina, Australia, New Zealand, United States, The Netherlands and Germany). My experience in 
-Australia and overseas in the public and private sectors testify to my readiness and capacity to work with teams 
-across different locations whilst creating long standing and productive relationships.
+My current role at Regrow Ag is focus on developing digital solutions by linking geospatial data (crop, management, environment and genetics), 
+models, sensors, and scientific knowledge to make decision support tools more efficient and world-wide applicable. I work with data scientists, 
+software developers and engineers to develop models/algorithms linking remote sensing data with crop/soil mechanistic models to predict crop phenology/yield, 
+soil water, N and C dynamics in a broad range of agricultural systems (focus on maize, wheat). I work with multi-cultural and multi-disciplinary teams 
+(Academia and Industry) and have experience working in 6 countries 
+(Argentina, Australia, New Zealand, United States, The Netherlands and Germany). My experience in Australia and overseas in 
+the public and private sectors testify to my readiness and capacity to work with teams across different locations whilst creating 
+long standing and productive relationships.
