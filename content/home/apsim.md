@@ -53,7 +53,7 @@ subtitle = "Series of tools to develop and test APSIM using Python and C# :nerd_
 ## [**Variance decomposition of model outputs using APSIM Next Generation**](https://github.com/JJguri/APSIM-VarDecomp)
 
 #### _Developers_
-- Jonathan Ojeda (QAAFI, The University of Queensland)
+- Jonathan Ojeda (Regrow Ag)
 - Bahareh Kamali (University of Bonn)
 
 [Video - Tutorial](https://www.youtube.com/watch?v=dI_cDTCkFxo)
@@ -61,9 +61,7 @@ subtitle = "Series of tools to develop and test APSIM using Python and C# :nerd_
 #### _Overview_
 This code is able to retrieve APSIM Next Generation outputs and carried out a variance 
 decomposition analysis to identify the main contributors to the variance in selected model 
-outputs (e.g. crop yield).
-
-Functionality: Calculate the main (ME) and total effect (TE) of a series of factors on 
+outputs (e.g. crop yield). This code calculates the main (ME) and total effect (TE) of a series of factors on 
 the variability of a selected variable (in this example crop biomass).
 
 ME explains the share of the components to model output variability without interactions, 
