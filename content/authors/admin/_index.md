@@ -94,11 +94,12 @@ soil conditions; how crops obtain water/nutrients from the soil; how soil proces
 how all these processes interact.
 
 Over 15 years of experience managing large soil-crop-climate datasets (5+ years using Python) and 10 years developing the Agricultural 
-Production Systems sIMulator ([APSIM](https://www.apsim.info/)) and applying data pipelining and optimization towards solving large-scale real-world problems. 
+Production Systems sIMulator ([APSIM](https://www.apsim.info/)) and applying data pipelining and optimization towards solving large-scale 
+real farm problems. 
 I collected (field experimental trials) and analysed data including >18 crop species (annual, perennials). I have more 
 than [40 published articles](https://scholar.google.com.au/citations?user=5Bqcm9MAAAAJ&hl=en&oi=sra)
-[[13 in high-impact journals](/publication) (11 as first author)]. I received 16 research grants 
-(73% as chief investigator) with a cash value of ~AUD1.25M. I am currently mentoring [5 PhD students](/phd) in 
+[[15 in high-impact journals](/publication) (12 as first author)]. I received 17 research grants 
+(80% as chief investigator) with a cash value of ~AUD8.13M. I am currently mentoring [5 PhD students](/phd) in 
 collaboration with international researchers and has previously supervised [5 Honours students](/#honours) to completion.
 
 My current role at Regrow Ag is focus on developing digital solutions by linking geospatial data (crop, management, environment and genetics), 
