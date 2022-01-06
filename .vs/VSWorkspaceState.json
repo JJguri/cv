@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\authors",
-    "\\content\\authors\\admin",
-    "\\content\\home"
+    "\\content\\publication",
+    "\\content\\publication\\journal-article-13"
   ],
-  "SelectedNode": "\\content\\authors\\admin\\_index.md",
+  "SelectedNode": "\\content\\publication\\journal-article-13\\index.md",
   "PreviewInSolutionExplorer": false
 }
