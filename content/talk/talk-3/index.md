@@ -13,16 +13,16 @@ address:
   country: Australia
 
 summary: Identify the main contributors to the variance in model outputs
-abstract: "This code is able to retrieve APSIM Next Generation outputs and carried out a variance decomposition analysis to identify the main contributors to the variance in selected model outputs. Functionality: Calculate the main (ME) and total effect (TE) of a series of factors on the variability of a selected variable (in this example crop biomass). ME explains the share of the components to model output variability without interactions, i.e. if ME=1, the assessed factors explain the entire proportion of model output variability, but if M<1, residuals exist which means additional factors are required to explain this variability. TE represents the interaction of a given factor with other factors, i.e. high TE values for a given factor denote high interactions of that factor with other factors, therefore, TE does not include residuals."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-11-29T09:00:00Z"
-date_end: "2021-11-29T09:30:00:00Z"
+date_end: "2021-11-29T10:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-01-07T00:00:00Z"
+publishDate: "2021-11-29T00:00:00Z"
 
 authors: [Ojeda JJ]
 tags: [Modelling, Variance decomposition, Crops, Drivers of yield variability]
