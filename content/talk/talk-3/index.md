@@ -2,7 +2,7 @@
 slug: "apsim-video"
 title: Variance decomposition of model outputs using APSIM Next Generation (video)
 event: APSIM Online Seminar Series
-event_url: https://www.icropm2020.org/
+event_url:
 
 location: Brisbane Australia
 address:

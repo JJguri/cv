@@ -1,5 +1,5 @@
 ---
-slug: "assessing-errors-potato"
+slug: "sorghum-regional-us"
 title: "Quantifying the effects of varietal types × management on the spatial variability of sorghum biomass across US environments"
 authors:
 - Ojeda JJ

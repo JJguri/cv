@@ -3,7 +3,9 @@
     "",
     "\\content",
     "\\content\\publication",
-    "\\content\\publication\\journal-article-13"
+    "\\content\\publication\\journal-article-13",
+    "\\content\\talk",
+    "\\content\\talk\\talk-3"
   ],
   "SelectedNode": "\\content\\publication\\journal-article-13\\index.md",
   "PreviewInSolutionExplorer": false
