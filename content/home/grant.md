@@ -50,8 +50,28 @@ subtitle = "Ability to get own funding as chief investigator or partner to do re
  css_class = ""
 +++
 
-2021 ($21,538)
+2022
 ===============
+
+#### DairyUp – Digitising forage options for intensive dairy systems
+---------------
+**Responsibility:** Collaborator
+
+**Funding body:** University of Sydney
+
+**Partners:** NSW Department of Primary Industries (Dr Gargiulo), University of Sydney (Drs Garcia and Islam).
+
+2021 ($6,979,774)
+===============
+
+#### Niche – Analytical framework for crop variety placement and trial site selection in Sub-Saharan Africa
+---------------
+**Responsibility:** Chief investigator
+
+**Funding body:** Bill & Melinda Gates Foundation (4 yr). 
+
+**Partners:** University of Lincoln (Dr Grassini), NASA Harvest (Dr Inbal Becker-Reshef), Gates Foundation (Dr Hausmann), One Acre Fund (Dr Aston).
+
 #### The role of biological fixation on crop productivity, nitrogen use efficiency and N<sub>2</sub>O emissions in reconfigured crop sequences. Quantification at different spatio-temporal scales (_under review_)
 ---------------
 **Responsibility:** Chief investigator

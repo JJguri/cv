@@ -49,7 +49,7 @@ tags:
 
 featured: true
 
-url_pdf: 'https://www.dropbox.com/s/83qx3rm2arywr0o/14.%20Ojeda%20et%20al.%2C%202022%20GCBB.pdf?dl=0'
+url_pdf: 'https://www.dropbox.com/s/4rbyoreexovcn8g/Ojeda%20et%20al.%2C%202022%20GCBB.pdf?dl=0'
 url_code: 'https://github.com/JJguri/APSIM-VarDecomp'
 url_dataset: ''
 url_poster: ''

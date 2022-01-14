@@ -31,7 +31,8 @@ date_format = "Jan 2006"
 
 **Applied Research**
 
--	Develop and deploy new solutions for [FluroSense](https://www.regrow.ag/flurosense), a digital agronomy and conservation monitoring platform which integrates large scale automated analysis with farm management systems (e.g. Climate FieldView, Agrian, Proagrica).
+- Lead a global project [(Niche)](https://www.gatesfoundation.org/about/committed-grants/2021/10/inv030103) focused on the development and deploy of predictive analytics framework to improve on-farm field trials, refine seed product profiles and optimize seed varietal placement to further climate adaptation for small-scale producers. Funded by Bill & Melinda Gates Foundation this project includes >12 team members from 4 organisations located in 5 continents [more info here](https://nasaharvest.org/news/regrow-leads-5m-project-niche-optimize-crop-variety-placement-sub-saharan-africa).	
+- Develop and deploy new solutions for [FluroSense](https://www.regrow.ag/flurosense), a digital agronomy and conservation monitoring platform which integrates large scale automated analysis with farm management systems (e.g. Climate FieldView, Agrian, Proagrica).
 -	Work with the Agricultural Production Systems sIMulator (APSIM) science and remote sensing science teams to develop and implement algorithms that help improve soil-crop management practices internationally (focus on US, Australia, and LATAM, expanding into EU).
 -	Work with customers' data to evaluate the APSIM model accuracy in simulations of crop productivity in key agricultural systems worldwide.
 -	Ensure engineering best practices, including phased project advancements, code documentation and review, and intellectual property documentation.
