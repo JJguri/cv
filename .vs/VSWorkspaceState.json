@@ -3,11 +3,11 @@
     "",
     "\\content",
     "\\content\\authors",
-    "\\content\\publication",
+    "\\content\\authors\\admin",
     "\\content\\publication\\journal-article-13",
     "\\content\\publication\\journal-article-14",
     "\\content\\publication\\journal-article-15"
   ],
-  "SelectedNode": "\\content\\publication\\journal-article-15\\cite.bib",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }
