@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\publication",
-    "\\content\\publication\\journal-article-16"
+    "\\content\\authors",
+    "\\content\\authors\\admin",
+    "\\content\\publication"
   ],
-  "SelectedNode": "\\content\\publication\\journal-article-16\\cite.bib",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }

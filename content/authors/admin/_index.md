@@ -98,7 +98,7 @@ Production Systems sIMulator ([APSIM](https://www.apsim.info/)) and applying dat
 real farm problems. 
 I collected (field experimental trials) and analysed data including >18 crop species (annual, perennials). I have more 
 than [40 published articles](https://scholar.google.com.au/citations?user=5Bqcm9MAAAAJ&hl=en&oi=sra)
-[[17 in high-impact journals](/publication) (12 as first author)]. I received 18 research grants 
+[[16 in high-impact journals](/publication) (12 as first author)]. I received 18 research grants 
 (70% as chief investigator) with a cash value of ~AUD8.13M. I am currently mentoring [5 PhD students](/phd) in 
 collaboration with international researchers and has previously supervised [5 Honours students](/#honours) to completion.
 
