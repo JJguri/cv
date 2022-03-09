@@ -97,7 +97,7 @@ Over 15 years of experience managing large soil-crop-climate datasets (5+ years 
 Production Systems sIMulator ([APSIM](https://www.apsim.info/)) and applying data pipelining and optimization towards solving large-scale 
 real farm problems. 
 I collected (field experimental trials) and analysed data including >18 crop species (annual, perennials). I have more 
-than [40 published articles](https://scholar.google.com.au/citations?user=5Bqcm9MAAAAJ&hl=en&oi=sra)
+than 40 published articles
 [[17 in high-impact journals](/publication) (12 as first author)]. I received 18 research grants 
 (70% as chief investigator) with a cash value of ~AUD8.13M. I am currently mentoring [5 PhD students](/phd) in 
 collaboration with international researchers and has previously supervised [5 Honours students](/#honours) to completion.
