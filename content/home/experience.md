@@ -47,6 +47,39 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Adjunct Senior Research Fellow"
+  company = "Centre for Sustainable Agricultural Systems, University of Southern Queensland"
+  company_url = "https://www.unisq.edu.au/research/institutes-centres/ilse/sustainable-agricultural-systems"
+  location = "Toowoomba, Queensland, Australia"
+  date_start = "2022-10-20"
+  date_end = ""
+  description = """
+
+  """
+
+[[experience]]
+  title = "Scientific Advisor"
+  company = "Argentinian Scientific Network in Australia"
+  company_url = "https://www.utas.edu.au/tia"
+  location = "Brisbane, Queensland, Australia"
+  date_start = "2021-04-01"
+  date_end = "2022-07-01"
+  description = """
+
+  """
+
+[[experience]]
+  title = "Adjunct Researcher"
+  company = "Tasmanian Institute of Agriculture, University of Tasmania"
+  company_url = "https://www.utas.edu.au/tia"
+  location = "Hobart, Tasmania, Australia"
+  date_start = "2020-10-19"
+  date_end = ""
+  description = """
+
+  """
+
+[[experience]]
   title = "Postdoctoral Research Fellow"
   company = "Queensland Alliance for Agriculture and Food Innovation, The University of Queensland"
   company_url = "https://agriculture.uq.edu.au/"
@@ -79,6 +112,17 @@ field scale level in sorghum trials including forage and grain genotypes.
 U.S. Department of Energy
 * First phase USD$6.6 million (2015)
 * Second phase USD$9 million (2019)
+
+  """
+
+[[experience]]
+  title = "Data Network Co-director"
+  company = "University of Tasmania"
+  company_url = "https://www.utas.edu.au/tia"
+  location = "Hobart, Tasmania, Australia"
+  date_start = "2019-03-01"
+  date_end = "2019-11-01"
+  description = """
 
   """
 
