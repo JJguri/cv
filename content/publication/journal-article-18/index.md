@@ -1,5 +1,5 @@
 ---
-slug: "maize-spain"
+slug: "sorghum-remote-sensing"
 title: "Calibrating APSIM for forage sorghum using remote sensing and field data under sub-optimal growth conditions"
 authors:
 - Della Nave F
