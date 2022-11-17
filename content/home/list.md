@@ -52,10 +52,12 @@ subtitle = "Invited talks and guest lectures around the world 🌎"
 
 2022
 ===============
+#### Niche - A scalable modelling tool to assess G×E×M interactions at continental scales
+TropAg International Conference, Brisbane, Queensland, Australia. 31 October-2 November 2022
 #### The importance of simulation configuration to crop model development
-20th Australian Agronomy Conference, Toowoomba, Queensland, Australia. 6-10 February 2022
+20th Australian Agronomy Conference, Toowoomba, Queensland, Australia. 18-22 September 2022
 #### A Python package to automatically generate and visualise gridded climate data for crop model applications
-20th Australian Agronomy Conference, Toowoomba, Queensland, Australia. 6-10 February 2022
+20th Australian Agronomy Conference, Toowoomba, Queensland, Australia. 18-22 September 2022
 
 2021
 ===============
