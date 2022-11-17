@@ -98,8 +98,8 @@ Production Systems sIMulator ([APSIM](https://www.apsim.info/)) and applying dat
 real farm problems. 
 I collected (field experimental trials) and analysed data including >18 crop species (annual, perennials). I have more 
 than 40 published articles
-[[17 in high-impact journals](/publication) (12 as first author)]. I received 18 research grants 
-(70% as chief investigator) with a cash value of ~AUD8.13M. I am currently mentoring [5 PhD students](/phd) in 
+[[18 in high-impact journals](/publication) (12 as first author)]. I received 18 research grants 
+(70% as chief investigator) with a cash value of ~AUD8.26M. I am currently mentoring [5 PhD students](/phd) in 
 collaboration with international researchers and has previously supervised [5 Honours students](/#honours) to completion.
 
 My current role at Regrow Ag is focus on developing digital solutions by linking geospatial data (crop, management, environment and genetics), 
@@ -110,3 +110,6 @@ soil water, N and C dynamics in a broad range of agricultural systems (focus on 
 (Argentina, Australia, New Zealand, United States, The Netherlands and Germany). My experience in Australia and overseas in 
 the public and private sectors testify to my readiness and capacity to work with teams across different locations whilst creating 
 long standing and productive relationships.
+
+I also hold two academic positions as Adjunct Senior Research Fellow at the Centre for Sustainable Agricultural Systems
+(University of Southern Queensland) and Adjunct Researcher at the Tasmanian Institute of Agriculture (University of Tasmania) in Australia.
