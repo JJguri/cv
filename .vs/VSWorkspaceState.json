@@ -3,10 +3,13 @@
     "",
     "\\content",
     "\\content\\authors",
+    "\\content\\authors\\admin",
     "\\content\\authors\\kamali",
     "\\content\\authors\\lai",
-    "\\content\\authors\\pembleton"
+    "\\content\\authors\\pembleton",
+    "\\content\\publication",
+    "\\content\\publication\\journal-article-17"
   ],
-  "SelectedNode": "\\content\\authors\\pembleton\\_index.md",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }
