@@ -2,12 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\authors",
-    "\\content\\authors\\admin",
-    "\\content\\authors\\kamali",
-    "\\content\\authors\\lai",
-    "\\content\\authors\\pembleton"
+    "\\content\\home",
+    "\\static"
   ],
-  "SelectedNode": "\\content\\authors\\admin\\_index.md",
+  "SelectedNode": "\\content\\home\\experience.md",
   "PreviewInSolutionExplorer": false
 }

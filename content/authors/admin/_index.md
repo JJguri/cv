@@ -50,7 +50,7 @@ social:
   link: https://scholar.google.com.au/citations?user=5Bqcm9MAAAAJ&hl=en
 - icon: publons
   icon_pack: ai
-  link: https://publons.com/researcher/1554798/jonathan-ojeda-jon/
+  link: https://www.webofscience.com/wos/author/record/E-4036-2018
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Jonathan_Ojeda
@@ -93,9 +93,9 @@ how the environment and genetics influences crop growth/development; how rainfal
 soil conditions; how crops obtain water/nutrients from the soil; how soil processes contribute to the loss of C, N; and 
 how all these processes interact.
 
-Over 15 years of experience managing large soil-crop-climate datasets (5+ years using Python) and 10 years developing the Agricultural 
-Production Systems sIMulator ([APSIM](https://www.apsim.info/)) and applying data pipelining and optimization towards solving large-scale 
-real farm problems. 
+Over 15 years of experience managing large soil-crop-climate datasets (6+ years using Python) and 10+ years developing the Agricultural 
+Production Systems sIMulator ([APSIM](https://www.apsim.info/)) applying data pipelining and optimization towards solving large-scale 
+real farm problems.
 I collected (field experimental trials) and analysed data including >18 crop species (annual, perennials). I have more 
 than 40 published articles
 [[18 in high-impact journals](/publication) (12 as first author)]. I received 18 research grants 
@@ -103,11 +103,13 @@ than 40 published articles
 collaboration with international researchers and has previously supervised [5 Honours students](/#honours) to completion.
 
 My current role at Regrow Ag is focus on developing digital solutions by linking geospatial data (crop, management, environment and genetics), 
-models, sensors, and scientific knowledge to make decision support tools more efficient and world-wide applicable. I work with data scientists, 
+models, sensors, and scientific knowledge to make decision support tools more efficient and world-wide applicable. I am leading
+the [Niche](https://www.regrow.ag/post/regrow-leads-5m-project-niche-to-optimize-crop-variety-placement-in-sub-saharan-africa) 
+project funded by B&M Gates Fundation which focus on the analysis of GxExM in Sub-Saharan Africa. I work with data scientists, 
 software developers and engineers to develop models/algorithms linking remote sensing data with crop/soil mechanistic models to predict crop phenology/yield, 
-soil water, N and C dynamics in a broad range of agricultural systems (focus on maize, wheat). I work with multi-cultural and multi-disciplinary teams 
+soil water, N and C dynamics in a broad range of agricultural systems. I work with multi-cultural and multi-disciplinary teams 
 (Academia and Industry) and have experience working in 6 countries 
-(Argentina, Australia, New Zealand, United States, The Netherlands and Germany). My experience in Australia and overseas in 
+(Argentina, Australia, New Zealand, United States, The Netherlands and Germany). My experience worldwide in 
 the public and private sectors testify to my readiness and capacity to work with teams across different locations whilst creating 
 long standing and productive relationships.
 
