@@ -105,7 +105,7 @@ collaboration with international researchers and has previously supervised [5 Ho
 My current role at Regrow Ag is focus on developing digital solutions by linking geospatial data (crop, management, environment and genetics), 
 models, sensors, and scientific knowledge to make decision support tools more efficient and world-wide applicable. I am leading
 the [Niche](https://www.regrow.ag/post/regrow-leads-5m-project-niche-to-optimize-crop-variety-placement-in-sub-saharan-africa) 
-project funded by B&M Gates Fundation which focus on the analysis of GxExM in Sub-Saharan Africa. I work with data scientists, 
+project funded by B&M Gates Fundation which focuses on the analysis of GxExM in Sub-Saharan Africa. I work with data scientists, 
 software developers and engineers to develop models/algorithms linking remote sensing data with crop/soil mechanistic models to predict crop phenology/yield, 
 soil water, N and C dynamics in a broad range of agricultural systems. I work with multi-cultural and multi-disciplinary teams 
 (Academia and Industry) and have experience working in 6 countries 
