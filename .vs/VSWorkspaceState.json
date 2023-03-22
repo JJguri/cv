@@ -2,13 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\home",
-    "\\content\\modelling\\project-7",
+    "\\content\\authors",
+    "\\content\\authors\\admin",
     "\\content\\post",
-    "\\content\\stays\\stay-7",
-    "\\content\\stays\\stay-9",
     "\\static"
   ],
-  "SelectedNode": "\\content\\home\\slider.md",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }

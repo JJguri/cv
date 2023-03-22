@@ -53,9 +53,14 @@ to advance the knowledge of seed breeders on climate adaptation in those specifi
 - Identifiy optimal variety placement for novel and existing crop varieties, so they can be effectively distributed to farmers
 
 One of the main objectives of this project is to create a scenario analysis tool able to identify the best genotype for a given environment 
-and crop management (based on end-user needs specified in previous section). To do that, we were working on the development of a 1- rigorous 
-model calibration and 2- scenario analysis tool (Fig. 1). The general approach presented below was generated after several 
-discussions between Regrow and UNL. The University of Lincoln contributed to the development of both the model calibration and the scenario analysis tool.
+and crop management (based on end-user needs specified in previous section). To do that, we are working on the development of a 1- rigorous 
+model calibration for phenology and grain yield and 2- scenario analysis tool which will be available through API and map visualisation. 
+
+End users will be able to select specific crop management (N rate, sowing date, etc.) for a particular latitude/longitude combination 
+and the Niche scenario tool will identify the best genotype cluster (high yield and  low inter-annual variability) for that given 
+environment * crop management combination. The system also will generate information about which hybrids were part of the best 
+genotypic cluster and the main factors driving the yield for the selected scenario.
+
 
 _**Schematic representation of the Niche Tool including why it was created and processes involved in its development, model 
 calibration, scenario analysis tool, outputs and main uses.**_
