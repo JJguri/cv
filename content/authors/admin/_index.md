@@ -14,7 +14,7 @@ role: Crop Ecophysiologist - Cropping Systems Modeller - Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Regrow Ag (jonathan@regrow.ag)
+- name: jonathanjesusojeda@gmail.com
   url: "https://agriculture.uq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)

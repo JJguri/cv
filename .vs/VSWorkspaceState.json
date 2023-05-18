@@ -4,9 +4,10 @@
     "\\content",
     "\\content\\authors",
     "\\content\\authors\\admin",
+    "\\content\\modelling",
+    "\\content\\modelling\\project-7",
     "\\content\\post",
     "\\static"
   ],
-  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }
