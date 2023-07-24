@@ -73,7 +73,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/home/0.papers-myself/0.%20CV%20website/cv?preview=cv-ojeda2.pdf
+  link: https://www.dropbox.com/scl/fi/m400zeexi9y5f07vloy51/cv-ojeda2.pdf?rlkey=299lcp105mt0cv0wiw1nw2qq1&dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jonathan@regrow.ag; jonathanjesusojeda@gmail.com"
