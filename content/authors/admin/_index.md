@@ -102,7 +102,7 @@ than 40 published articles
 (70% as chief investigator) with a cash value of ~AUD8.26M. I am currently mentoring [5 PhD students](/phd) in 
 collaboration with international researchers and has previously supervised [5 Honours students](/#honours) to completion.
 
-My current role at Regrow Ag focuses on developing digital solutions by linking geospatial data (crop, management, environment and genetics), 
+My previos role at Regrow Ag focused on developing digital solutions by linking geospatial data (crop, management, environment and genetics), 
 models, sensors, and scientific knowledge to make decision support tools more efficient and world-wide applicable. I am leading
 the [Niche](https://www.regrow.ag/post/regrow-leads-5m-project-niche-to-optimize-crop-variety-placement-in-sub-saharan-africa) 
 project funded by B&M Gates Foundation which focuses on the analysis of GxExM in Sub-Saharan Africa. I work with data scientists, 
