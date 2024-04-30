@@ -74,12 +74,12 @@ date_format = "Jan 2006"
 • Serve as the primary liaison with the Terradot Science Advisory Board from Stanford University (Profs David Lobell, Scott Fendorf, Peter Nico and Alison Hoyt) and The University of British Columbia (Dr Ulrich Mayer), ensuring that the scientific endeavors align with industry best practices and cutting-edge research.
 
 ###### Funded by:
-Sheryl Sandberg; Sandberg Bernthal Venture Partners
-Tom Bernthal; Sandberg Bernthal Venture Partners
-John Doerr; Kleiner Perkins / Speed & Scale
-George Roberts; KKR
-Ann Miura-Ko; Floodgate
-Evi Steyer; Ponderosa Ventures
+• Sheryl Sandberg; Sandberg Bernthal Venture Partners
+• Tom Bernthal; Sandberg Bernthal Venture Partners
+• John Doerr; Kleiner Perkins / Speed & Scale
+• George Roberts; KKR
+• Ann Miura-Ko; Floodgate
+• Evi Steyer; Ponderosa Ventures
 
   """
 
