@@ -57,10 +57,12 @@ date_format = "Jan 2006"
   
 ###### Overall targets
 
+
 - Build a global science team and a global MRV platform from scratch using cutting-edge tech and strong scientific knowledge.
 - Lead and own the full science Terradot R&D stack to support a soil carbon (organic and inorganic) MRV platform.
 
 ###### Specific targets
+
 
 - Hire and lead a passionate team of soil scientists, geologists, agronomist, mineralogists, hydrologists, reactive transport and crop modelers, and engineers.
 - Develop a coupled multi-scale model using MIN3P and APSIM to estimate inorganic/organic C sequestration and crop yield through Enhanced Rock Weathering (ERW) practices.
