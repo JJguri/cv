@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Agronomist - Crop Ecophysiologist - Agro-ecosystems Modeler with focus on CDR - 
-Full Stack/Senior Data Scientist - Scientific Founder
+role: Agro-ecosystems Modeler with focus on CDR - Scientific Founder Terradot
 
 # Organizations/Affiliations
 organizations:
