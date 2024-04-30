@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Crop Ecophysiologist - Cropping Systems Modeller - Data Scientist
+role: Agronomist | Crop Ecophysiologist | Agro-ecosystems Modeler with focus on CDR | 
+Full Stack/Senior Data Scientist | Scientific Founder
 
 # Organizations/Affiliations
 organizations:
