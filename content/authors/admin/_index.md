@@ -97,8 +97,8 @@ swiftly isn’t just a goal, it’s my standard.
 
 I apply data analytics, statistics and programming to understand soil-crop-climate interactions 
 behind coupled models. My interests are in quantifying the effects of crop management & climate/soil 
-variability on CO2 removal and yield through mechanistic models (([APSIM](https://www.apsim.info/)) 
-& [MIN3P](https://www.min3p.com/)) at different spatio-temporal scales. 
+variability on CO2 removal and yield through mechanistic models ([APSIM](https://www.apsim.info/) & [MIN3P](https://www.min3p.com/)) 
+at different spatio-temporal scales. 
 I have a passionate interest in disentangling sources of uncertainties/variability to better predict 
 yield and C (organic and inorganic) sequestration trough ERW field deployments. This requires a broad 
 understanding of how the environment influences crop growth; how rainfall/irrigation, & applied rock 
