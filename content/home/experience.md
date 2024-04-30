@@ -55,15 +55,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-###### Overall targets
-
-
+###### Overall targets: 
+  
 - Build a global science team and a global MRV platform from scratch using cutting-edge tech and strong scientific knowledge.
 - Lead and own the full science Terradot R&D stack to support a soil carbon (organic and inorganic) MRV platform.
 
-###### Specific targets
-
-
+###### Specific targets:
+  
 - Hire and lead a passionate team of soil scientists, geologists, agronomist, mineralogists, hydrologists, reactive transport and crop modelers, and engineers.
 - Develop a coupled multi-scale model using MIN3P and APSIM to estimate inorganic/organic C sequestration and crop yield through Enhanced Rock Weathering (ERW) practices.
 - Set the roadmap and direction for improving the measurement and verification of net CO2 emissions reduction in agricultural systems at field level.
@@ -75,7 +73,8 @@ date_format = "Jan 2006"
 - Communicate scientific work to various audiences, including government leaders and local communities, and collaborate across disciplines.
 - Serve as the primary liaison with the Terradot Science Advisory Board from Stanford University (Profs David Lobell, Scott Fendorf, Peter Nico and Alison Hoyt) and The University of British Columbia (Dr Ulrich Mayer), ensuring that the scientific endeavors align with industry best practices and cutting-edge research.
 
-###### Funded by:
+###### Funded by: 
+  
 - Sheryl Sandberg; Sandberg Bernthal Venture Partners
 - Tom Bernthal; Sandberg Bernthal Venture Partners
 - John Doerr; Kleiner Perkins / Speed & Scale
