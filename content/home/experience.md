@@ -47,6 +47,17 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Science Lead"
+  company = "Terradot"
+  company_url = "https://terradot.earth/"
+  location = "Stanford, California, United States"
+  date_start = "2023-07-10"
+  date_end = ""
+  description = """
+
+  """
+
+[[experience]]
   title = "Adjunct Senior Research Fellow"
   company = "Centre for Sustainable Agricultural Systems, University of Southern Queensland"
   company_url = "https://www.unisq.edu.au/research/institutes-centres/ilse/sustainable-agricultural-systems"
