@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Agro-ecosystems Modeler with focus on CDR - Scientific Founder Terradot
+role: Science & Technology Executive – Carbon Markets & MRV | Scientific Founder @Terradot
 
 # Organizations/Affiliations
 organizations:
@@ -18,15 +18,15 @@ organizations:
   url: "https://agriculture.uq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I use crop models to understand GxExM interactions and quantify sources of uncertainties in agricultural predictions.
+bio: Dynamic and results-driven Science & Technology Executive Leader with over 15 years of experience at the intersection of environmental science, carbon markets, and sustainable agriculture.
 
 interests:
-- Crop modelling uncertainty quantification
-- Model up-scaling
+- Carbon MRV
+- Climate Change
 - Decision support tools development
-- Environmental data analysis
-- Climate change and sustainability assessments
-- Data analysis automation
+- Sustainable agricultural practices
+- MRV Platforms
+- Data analytics
 
 education:
   courses:
@@ -84,38 +84,8 @@ user_groups:
 #- Researchers
 ---
 
-I am leading the Science Team at Terradot developing a team and a MRV platform to measure & simulate C 
-sequestration & yield compliant with global standards (e.g. Cascade, Isometric, VERRA). At Terradot, I 
-worked in close collaboration with high-level Stanford & world-renowned Reactive Transport Modelers 
-focused on CDR projects. I also hold an academic positions as Adjunct Senior Research Fellow at the Centre 
-for Sustainable Agricultural Systems (University of Southern Queensland) in Australia. Currently, 
-I built a team from scratch to >10 people in just 6 months, 
-fostering a robust & efficient workforce. I lead my team to innovate, iterate, and excel, always 
-keeping the end-goal in sight: delivering impactful solutions swiftly to stay ahead in the ever-evolving 
-digital landscape. My career is anchored in a relentless pursuit of excellence, where delivering V0 products 
-swiftly isn’t just a goal, it’s my standard.
+Dynamic and results-driven Science & Technology Executive Leader with over 15 years of experience at the intersection of environmental science, carbon markets, and sustainable agriculture. Proven track record in structuring and executing complex international carbon removal transactions, leading multidisciplinary teams, and securing strategic partnerships. Extensive expertise in project management, stakeholder engagement, and MRV (Monitoring, Reporting, and Verification) implementation for large-scale carbon removal initiatives. Played a pivotal role in raising Series A funding ($58.2M) for Terradot and closing carbon offtake agreements. Strong advocate for integrating ESG (Environmental, Social, and Governance) principles into business strategy, ensuring that sustainability efforts not only drive financial performance but also deliver measurable environmental and social impact. Passionate about leveraging science and technology to accelerate decarbonization, improve land-use efficiency, and promote regenerative agricultural practices. Adept at aligning sustainability initiatives with corporate ESG goals, driving data-driven decision-making, and scaling nature-based and emerging carbon removal solutions to support a resilient and equitable low-carbon economy.
 
-I apply data analytics, statistics and programming to understand soil-crop-climate interactions 
-behind coupled models. My interests are in quantifying the effects of crop management & climate/soil 
-variability on CO2 removal and yield through mechanistic models ([APSIM](https://www.apsim.info/) & [MIN3P](https://www.min3p.com/)) 
-at different spatio-temporal scales. 
-I have a passionate interest in disentangling sources of uncertainties/variability to better predict 
-yield and C (organic and inorganic) sequestration trough ERW field deployments. This requires a broad 
-understanding of how the environment influences crop growth; how rainfall/irrigation, & applied rock 
-influence soil status; how crops obtain water/nutrients from the soil; how soil processes contribute 
-to the loss of C, N; and how all these processes interact.
+Jony has a deep interest in disentangling sources of uncertainty & spatio-temporal heterogeneity to measure farm productivity & C sequestration in Ag systems. This requires a broad understanding of how environmental factors affect crop growth, how rainfall, irrigation, and applied rock influence soils, and how soil-crop-weather processes interact. Over 15 years of experience managing large soil-crop-climate datasets (>10 years using Python), developing crop/C models & applying data pipelining and optimization towards solving large-scale C deployments. Jony collected (experiments) & analyzed data including >18 crop species (annual, perennials). Jony has 26+ published articles in high-impact journals (13 as first author) and received 18 research grants with a cash value of ~USD6M.
 
-Over 15 years of experience managing large soil-crop-climate datasets (8+ years using Python and 
-geo-statistics), developing models (APSIM, 12+ years & MIN3P) & applying data pipelining and 
-optimization towards solving large-scale ERW and C deployments. I collected (experiments) & 
-analyzed data including >18 crop species (annual, perennials). I have 50+ published articles 
-in high-impact journals (13 as first author). I received 18 research grants (70% as CI) with a cash value of ~USD5.5M.
-
-I mentored graduate/[5 PhD students](/phd) who are currently leading global research in academia/industry. 
-As part of Regrow Ag, I led a multicultural global team (15 people including data scientists, 
-software developers and engineers) under the [Niche](https://www.regrow.ag/post/regrow-leads-5m-project-niche-to-optimize-crop-variety-placement-in-sub-saharan-africa)
-project (USD4M) funded by B&MGF which focuses on the analysis of GxExM in Sub-Saharan Africa. 
-
-During my career, I work with multi-cultural & multi-disciplinary teams (hybrid approach - 
-Academia & Industry) & have ground experience working in 9 countries (Argentina, Brazil, 
-Australia, NZ, USA, The Netherlands, Germany, Rwanda & Kenya).
+As part of Regrow Ag, Jony led a multicultural global team (15 people including data scientists, software developers/engineers) under the Niche project (USD4M) funded by B&MGF which focuses on the analysis of GxExM in Sub-Saharan Africa. Jony worked with multi-cultural & multi-disciplinary teams (hybrid approach - Academia & Industry) & has ground experience working in 9 countries (Argentina, Brazil, Australia, NZ, USA, The Netherlands, Germany, Rwanda & Kenya).
