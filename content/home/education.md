@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## **PhD in Agricultural Sciences (2017)**
+## **PhD in Agricultural Sciences (2019)**
 ----------------
 National University of Mar del Plata, Argentina (duration = 5 years; **422 credit hours**)
 
