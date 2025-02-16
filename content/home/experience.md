@@ -27,7 +27,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-###### Leadership & People Management
+##### Leadership & People Management
+
 - Built & led a multicultural, cross-disciplinary team of field scientists, agronomists, project managers, & data scientists to execute an MRV platform for carbon quantification (via Enhanced Rock Weathering, ERW) in agricultural fields.
 - Acted as the hiring manager, recruiting & onboarding project managers, field/data scientists, & field assistants for the SciOps Team.
 - Designed & implemented project management strategies, ensuring alignment of scientific initiatives with company goals & ERW carbon crediting methodologies.
