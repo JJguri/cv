@@ -73,7 +73,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/scl/fi/m400zeexi9y5f07vloy51/cv-ojeda2.pdf?rlkey=299lcp105mt0cv0wiw1nw2qq1&dl=0
+  link: https://www.dropbox.com/scl/fi/a4tgzh1aup4ba67gljr48/cv_extended.pdf?rlkey=d12ex1ttociw3tmza9gxacaoe&st=suos9yaf&dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jony@terradot.earth; jonathanjesusojeda@gmail.com"
