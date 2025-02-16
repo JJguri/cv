@@ -27,14 +27,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-##### Leadership & People Management
+###### Leadership & People Management:
 
 - Built & led a multicultural, cross-disciplinary team of field scientists, agronomists, project managers, & data scientists to execute an MRV platform for carbon quantification (via Enhanced Rock Weathering, ERW) in agricultural fields.
 - Acted as the hiring manager, recruiting & onboarding project managers, field/data scientists, & field assistants for the SciOps Team.
 - Designed & implemented project management strategies, ensuring alignment of scientific initiatives with company goals & ERW carbon crediting methodologies.
 - Coordinated with other companies leads to ensure science & operations protocols generate useful, high-quality data for ERW carbon credit validation.
 
-###### Research & Development for MRV
+###### Research & Development for MRV:
 - Designed scientifically robust field protocols for ERW in compliance with CDR registry requirements (Isometric, Puro.earth, Cascade).
 - Led experimental planning for site selection, deploying control & treatment plots & designing comprehensive soil & crop sampling plans across the entire CDR project lifecycle.
 - Enhanced sampling & uncertainty quantification protocols in collaboration with geochemical & soil scientists, improving measurement accuracy across the entire carbon flux in the critical zone  (atmosphere, crop, soil) & at landscape scale (field, catchment, farm).
