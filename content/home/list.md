@@ -50,6 +50,13 @@ subtitle = "Invited talks and guest lectures around the world 🌎"
  css_class = ""
 +++
 
+2023
+===============
+#### Automation in Weather Data Extraction for Crop Modeling Applications and Environmental Analysis. 
+Ciclo de Seminarios Ciencia de Datos Aplicada a la Gestión Agronómica, FCA UNMdP – INTA (Remote) – 15 Sep 2023
+#### A Python Package to Automatically Generate and Visualize Gridded Climate Data for Crop Model Applications. 
+ARD23 Satellite Data Interoperability Workshop, San Francisco, USA (Remote) – 17 May 2023
+
 2022
 ===============
 #### Niche - A scalable modelling tool to assess G×E×M interactions at continental scales
@@ -64,7 +71,7 @@ TropAg International Conference, Brisbane, Queensland, Australia. 31 October-2 N
 #### BestiaPop: A Python Package to Automatically Generate and Visualize Gridded Climate Data for Crop Model Applications
 5th Annual Crops in silico Symposium & Hackathon, University of Illinois, USA (online)
 #### Variance Decomposition applied to crop models
-APSIM monthly training YouTube videos, Brisbane, Australia (_scheduled for November_)
+APSIM monthly training YouTube videos, Brisbane, Australia
 
 2020
 ===============
