@@ -111,6 +111,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
+**Research Contributions**
 - Research collaborations with the Centre for Sustainable Agricultural Systems in crop modelling and remote sensing projects.
 - PhD supervision.
 
@@ -185,6 +186,7 @@ Published an article on the Network’s website: "[Argentina, Australia, and Uru
   date_end = "2023-07-01"
   description = """
 
+**Research Contributions**
 - Research collaborations with the University of Tasmania and the Tasmanian Institute of Agriculture in sustainable agriculture PhD projects.
 - PhD supervision Ranju Chapagain (PhD granted) & Francesco Tacconi (PhD granted).
 
@@ -208,7 +210,9 @@ Supervised PhD & Master’s students at Purdue & UQ, utilizing APSIM to simulate
 **Key Achievements**
 - _Software Development:_ Developed APSIM Sorghum Module to run pSIMS at a regional scale (US-wide) using netCDF input data (climate, soil, & crop management).
 - _Publications:_ First-authored a paper in Global Change Biology Bioenergy.
-- _Granted Research Proposals:_ 1-The Role of Biological Fixation in Crop Productivity, Nitrogen Use Efficiency & N₂O Emissions – Quantification at different spatio-temporal scales. Argentinian Agency for the Promotion of Research, Technological Development & Innovation (Partner). 2-Estimation of Radiation Use Efficiency of Grassland & Its Use for Characterizing Syndromes of Ecosystem Changes – Funded by Argentinian Agency for the Promotion of Research, Technological Development & Innovation (Partner).
+- _Granted Research Proposals:_ 
+1. The Role of Biological Fixation in Crop Productivity, Nitrogen Use Efficiency & N₂O Emissions – Quantification at different spatio-temporal scales. Argentinian Agency for the Promotion of Research, Technological Development & Innovation (Partner).
+2. Estimation of Radiation Use Efficiency of Grassland & Its Use for Characterizing Syndromes of Ecosystem Changes – Funded by Argentinian Agency for the Promotion of Research, Technological Development & Innovation (Partner).
 
   """
 
@@ -233,20 +237,19 @@ Supervised PhD & Master’s students at Purdue & UQ, utilizing APSIM to simulate
 - _Decision-Support Tool:_ Developed a virtual scenario analysis tool for dual-purpose crops (canola & wheat) in Tasmania in collaboration with GRDC & CSIRO.
 - _Industry Collaboration:_ Collected & structured potato agricultural datasets (climate, soil, crop management) from Simplot & McCain for modelling & scenario analysis with potato farmers.
 - _Workshops & Stakeholder Engagement:_
-1. Led [CRC Soil](https://soilcrc.com.au/profile-university-of-tasmania/) workshops with Australian farming groups to evaluate soil constraints on crop productivity.
-2. Conducted foresight workshops for livestock industry decision-makers in Argentina, Uruguay & Australia, exploring climate change adaptation strategies.
-
+  1. Led [CRC Soil](https://soilcrc.com.au/profile-university-of-tasmania/) workshops with Australian farming groups to evaluate soil constraints on crop productivity.
+  2. Conducted foresight workshops for livestock industry decision-makers in Argentina, Uruguay & Australia, exploring climate change adaptation strategies.
 **Teaching & Mentorship**
 - Supervised PhD students in collaboration with CSIRO Brisbane & Toowoomba.
 - _Guest Lecturer:_
-1. Can we trust field-scale model predictions for regional agricultural systems? (TIA-UTAS Seminars, 2018).
-2. Farming Systems & Business Management (KLA312/KLA535, TIA-UTAS, 2018).
+  1. Can we trust field-scale model predictions for regional agricultural systems? (TIA-UTAS Seminars, 2018).
+  2. Farming Systems & Business Management (KLA312/KLA535, TIA-UTAS, 2018).
 - UTAS Data Network Co-Director (Mar 2019 – Nov 2019): Led data management discussions across UTAS research teams.
 
 **Key Achievements**
 - _Publications:_ First-authored 4 & co-authored 10 research papers.
 - _Research Granted Projects:_
-
+ 
 **2020**
 - Mapping Potato Yield & Irrigation Variability Under Climate Change Scenarios in Tasmania – JM Roberts Seed Funding for Sustainable Agriculture (Chief Investigator).
 
@@ -259,7 +262,7 @@ Crop-Livestock Adaptation to Climate Change Using Modelling & Remote Sensing –
 - Diversity Benefits in Agricultural Systems – Australian Sustainable Agriculture Elite. Scholarship, CSIRO-TIA (Chief Investigator).
 - Estimating Uncertainty in Crop Models – CSIRO-TIA (Chief Investigator).
 - Improving Soil Productivity Representation in Decision Support Models – CRC for High-Performance Soils (Partner).
-
+ 
 **International Research Collaborations & Conferences**
 
 **2020**
@@ -274,7 +277,7 @@ Crop-Livestock Adaptation to Climate Change Using Modelling & Remote Sensing –
 **2018**
 - Wageningen, Netherlands & Germany (Gottingen, Muncheberg) – Course & Workshop: Fundamentals of Crop Physiology in a Changing World (Wageningen University, 1 week).
 - Hobart, Tasmania, Australia – Hosted Dr. Lattanzi (Director, INIA Uruguay) for a 3-day research visit.
-
+ 
 **Industry Engagement & Stakeholder Meetings**
 **2020**
 - Tasmania, Australia – Data collection across 20 potato farm enterprises linked to Simplot & McCain in Northern Tasmania.
@@ -344,6 +347,8 @@ Scientific Communication: First-authored 1 research paper in Agricultural & Fore
 
 **International Research Collaborations**
 
+_Stay 1:_
+
 _Visiting Researcher (May 2015 – Mar 2016)_
 _Department of Agronomy, Purdue University, USA_
 _Funded by Fulbright Fellowship & US DOE_
@@ -354,6 +359,8 @@ _Supervisors: Dr. J. Volenec & Dr. S. Brouder_
 - _Maize Model Enhancement:_ Improved APSIM maize model for continuous corn & soybean-corn rotations.
 - _Water Balance Modelling:_ Calibrated water & N flow/drainage subroutine using long-term datasets from Purdue's Water Quality Field Station.
 - _Publications:_ Contributed to 2 research papers published in high-impact journals.
+
+_Stay 2:_
 
 _Visiting Researcher (Oct 2013 – Dec 2013)_
 _University of Sydney (Camden, NSW) & TIA-UTAS (Burnie, TAS, Australia)_
