@@ -27,32 +27,31 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-###### Leadership & People Management:
-
+**Leadership & People Management**
 - Built & led a multicultural, cross-disciplinary team of field scientists, agronomists, project managers, & data scientists to execute an MRV platform for carbon quantification (via Enhanced Rock Weathering, ERW) in agricultural fields.
 - Acted as the hiring manager, recruiting & onboarding project managers, field/data scientists, & field assistants for the SciOps Team.
 - Designed & implemented project management strategies, ensuring alignment of scientific initiatives with company goals & ERW carbon crediting methodologies.
 - Coordinated with other companies leads to ensure science & operations protocols generate useful, high-quality data for ERW carbon credit validation.
 
-###### Research & Development for MRV:
+**Research & Development for MRV**
 - Designed scientifically robust field protocols for ERW in compliance with CDR registry requirements (Isometric, Puro.earth, Cascade).
 - Led experimental planning for site selection, deploying control & treatment plots & designing comprehensive soil & crop sampling plans across the entire CDR project lifecycle.
 - Enhanced sampling & uncertainty quantification protocols in collaboration with geochemical & soil scientists, improving measurement accuracy across the entire carbon flux in the critical zone  (atmosphere, crop, soil) & at landscape scale (field, catchment, farm).
 - Managed on-field data collection, ensuring accurate monitoring of crop & soil management, spatial heterogeneity data, & carbon flux dynamics.
 
-###### MRV Tech & Platform Development
+**MRV Tech & Platform Development**
 - Spearheaded the development of a digital carbon MRV Web platform, integrating:
   - Geolocated fields & datasets for long-term tracking across multiple fields & farms in Brazil, cropping seasons, crop types (annual & perennials) & crop/soil management zones.
   - Automated data pipelines for weather, soil, crop, & farm management data collection.
 - Led the co-design of new ERW platform features, streamlining field & farm management data collection (sowing, harvest, tillage, lime applications, etc.).
 - Implemented operational & digital QA/QC procedures to ensure high-quality, low-uncertainty data for CDR calculations.
 
-###### Stakeholder Engagement & Strategic Partnerships
+**Stakeholder Engagement & Strategic Partnerships**
 - Conducted field visits to engage with farmers, farm cooperatives & associations & mining partners, driving enrollment in carbon programs.
 - Developed strategic partnerships with public & private organizations in the carbon market sector, enhancing MRV execution & securing long-term collaborations.
 - Coordinated with commercial & operations teams to plan & execute large-scale commercial carbon sequestration deployments for ERW.
 
-###### Key Achievements
+**Key Achievements**
 - Built a high-performing MRV team (5+ members) within four months, accelerating field execution & protocol implementation.
 - Developed & procured specialized MRV equipment, including weather stations, bulk density kits, lysimeters, soil auger samplers, soil & rock moisture sensors & lab materials.
 - Planned & executed commercial carbon sequestration ERW deployments in Brazil, ensuring efficient data collection, logistics, & field execution.
