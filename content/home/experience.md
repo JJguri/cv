@@ -19,82 +19,142 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Senior Cropping Systems Scientist"
-  company = "Regrow Ag"
-  company_url = "https://www.regrow.ag/"
-  location = "Brisbane, Queensland, Australia"
-  date_start = "2021-07-15"
-  date_end = "2023-06-30"
+  title = "Science Operations (SciOps) Lead"
+  company = "Terradot"
+  company_url = "https://terradot.earth/"
+  location = "Remote"
+  date_start = "2024-10-01"
+  date_end = ""
   description = """
   
-###### Responsibilities:
+###### Leadership & People Management
+- Built & led a multicultural, cross-disciplinary team of field scientists, agronomists, project managers, & data scientists to execute an MRV platform for carbon quantification (via Enhanced Rock Weathering, ERW) in agricultural fields.
+- Acted as the hiring manager, recruiting & onboarding project managers, field/data scientists, & field assistants for the SciOps Team.
+- Designed & implemented project management strategies, ensuring alignment of scientific initiatives with company goals & ERW carbon crediting methodologies.
+- Coordinated with other companies leads to ensure science & operations protocols generate useful, high-quality data for ERW carbon credit validation.
 
-**Applied Research**
+###### Research & Development for MRV
+- Designed scientifically robust field protocols for ERW in compliance with CDR registry requirements (Isometric, Puro.earth, Cascade).
+- Led experimental planning for site selection, deploying control & treatment plots & designing comprehensive soil & crop sampling plans across the entire CDR project lifecycle.
+- Enhanced sampling & uncertainty quantification protocols in collaboration with geochemical & soil scientists, improving measurement accuracy across the entire carbon flux in the critical zone  (atmosphere, crop, soil) & at landscape scale (field, catchment, farm).
+- Managed on-field data collection, ensuring accurate monitoring of crop & soil management, spatial heterogeneity data, & carbon flux dynamics.
 
-- Lead a global project [(Niche)](https://www.gatesfoundation.org/about/committed-grants/2021/10/inv030103) focused on the development and deploy of predictive analytics framework to improve on-farm field trials, refine seed product profiles and optimize seed varietal placement to further climate adaptation for small-scale producers. Funded by Bill & Melinda Gates Foundation this project includes >12 team members from 4 organisations located in 5 continents [more info here](https://nasaharvest.org/news/regrow-leads-5m-project-niche-optimize-crop-variety-placement-sub-saharan-africa).	
-- Develop and deploy new solutions for [FluroSense](https://www.regrow.ag/flurosense), a digital agronomy and conservation monitoring platform which integrates large scale automated analysis with farm management systems (e.g. Climate FieldView, Agrian, Proagrica).
--	Work with the Agricultural Production Systems sIMulator (APSIM) science and remote sensing science teams to develop and implement algorithms that help improve soil-crop management practices internationally (focus on US, Australia, and LATAM, expanding into EU).
--	Work with customers' data to evaluate the APSIM model accuracy in simulations of crop productivity in key agricultural systems worldwide.
--	Ensure engineering best practices, including phased project advancements, code documentation and review, and intellectual property documentation.
--	Work closely and guide the engineering and product to develop model-scaling approaches that would allow the decision support tools based on APSIM to be used across multiple crop types and in multiple geographies as well as across scales (from field to regional scale).
--	Develop algorithms to quantify the effects of crop management, genetics and climate variability on soil-crop processes.
--	Couple large multi-scale remotely sensed, geospatial datasets and advanced biophysical/mechanistic models at different spatial scales to evaluate drivers of yield variability to generate soil sampling schemes for large and complex conservation and soil sampling projects.
--	Implement algorithms that predict crop growth, yield, and soil health/environmental impacts in agricultural systems; bring together crop and soil models for yield, soil organic carbon, and ecosystem outcomes assessment.
--	Develop automated workflows and techniques for quantification of crop model uncertainties.
--	Research the effects of integrating cover crops into farming systems on nutrient recovery and recycling soil carbon, as well as reduced yield risks demonstrating mitigation of the impacts of climate change on agriculture.
--	Work in collaboration with CSIRO (Drs J. Whish, D. Gaydon, K. Verburg) in a project focused on the improvement of the FluroSense user interface based on farm/advisors’ interviews.
+###### MRV Tech & Platform Development
+- Spearheaded the development of a digital carbon MRV Web platform, integrating:
+  - Geolocated fields & datasets for long-term tracking across multiple fields & farms in Brazil, cropping seasons, crop types (annual & perennials) & crop/soil management zones.
+  - Automated data pipelines for weather, soil, crop, & farm management data collection.
+- Led the co-design of new ERW platform features, streamlining field & farm management data collection (sowing, harvest, tillage, lime applications, etc.).
+- Implemented operational & digital QA/QC procedures to ensure high-quality, low-uncertainty data for CDR calculations.
+
+###### Stakeholder Engagement & Strategic Partnerships
+- Conducted field visits to engage with farmers, farm cooperatives & associations & mining partners, driving enrollment in carbon programs.
+- Developed strategic partnerships with public & private organizations in the carbon market sector, enhancing MRV execution & securing long-term collaborations.
+- Coordinated with commercial & operations teams to plan & execute large-scale commercial carbon sequestration deployments for ERW.
+
+###### Key Achievements
+- Built a high-performing MRV team (5+ members) within four months, accelerating field execution & protocol implementation.
+- Developed & procured specialized MRV equipment, including weather stations, bulk density kits, lysimeters, soil auger samplers, soil & rock moisture sensors & lab materials.
+- Planned & executed commercial carbon sequestration ERW deployments in Brazil, ensuring efficient data collection, logistics, & field execution.
+- Led experimental pilot projects with external partners (e.g. LDC), optimizing data collection methodologies & logistics coordination.
 
   """
-
 [[experience]]
   title = "Science Lead"
   company = "Terradot"
   company_url = "https://terradot.earth/"
-  location = "Stanford, California, United States"
-  date_start = "2023-07-10"
-  date_end = ""
+  location = "Remote"
+  date_start = "2023-07-01"
+  date_end = "2024-10-01"
   description = """
   
-###### Overall targets: 
-  
-- Build a global science team and a global MRV platform from scratch using cutting-edge tech and strong scientific knowledge.
-- Lead and own the full science Terradot R&D stack to support a soil carbon (organic and inorganic) MRV platform.
+###### Leadership & People Management in Carbon MRV
+- Built & led a multidisciplinary global science team (soil scientists, geologists, agronomists, geochemists, modelers, engineers, data scientists) to develop a carbon MRV platform from scratch.
+- Hired & scaled the team to 10+ experts in six months, driving carbon R&D & MRV execution.
+- Defined the strategic roadmap for improving CO₂ emissions measurement & verification in agricultural land (annual & perennial crop/pasture systems).
+- Served as the primary science lead & scientific founder, playing a key role in securing $58.2M in Series A funding to enable large-scale carbon removal projects. Joined as the third employee, following the two co-founders, & helped shape the company's scientific vision & strategy.
+- Led the development of the Terradot Science White Paper, which was presented to buyers & played a key role in securing several carbon offtake agreements with Frontier & Google.
 
-###### Specific targets:
-  
-- Hire and lead a passionate team of soil scientists, geologists, agronomist, mineralogists, hydrologists, reactive transport and crop modelers, and engineers.
-- Develop a coupled multi-scale model using MIN3P and APSIM to estimate inorganic/organic C sequestration and crop yield through Enhanced Rock Weathering (ERW) practices.
-- Set the roadmap and direction for improving the measurement and verification of net CO2 emissions reduction in agricultural systems at field level.
-- Collaborate with the engineering team to set up and guide the development of Python infrastructure to integrate model runs into a core product.
-- Direct and oversee the modeling efforts (at plot and field scale), leveraging understanding of fundamental agronomy/soil science/ERW along with deep expertise working with MIN3P-APSIM to improve the current state-of-the-art.
-- Conduct simulations and calibration of APSIM for soil carbon measurement, utilizing data from field trials and farms to optimize the model and enhance accuracy.
-- Scale-up calibrated coupled models to cover additional fields in ERW projects.
-- Assess uncertainties, devise strategies to minimize them, and ensure compliance with soil organic (VERRA 0042 and 0053) and inorganic carbon (PURO, Cascade, Isometric) methodologies.
-- Communicate scientific work to various audiences, including government leaders and local communities, and collaborate across disciplines.
-- Serve as the primary liaison with the Terradot Science Advisory Board from Stanford University (Profs David Lobell, Scott Fendorf, Peter Nico and Alison Hoyt) and The University of British Columbia (Dr Ulrich Mayer), ensuring that the scientific endeavors align with industry best practices and cutting-edge research.
+###### MRV Platform & Carbon Modeling Development
+- Led the creation of a soil carbon (organic & inorganic) & crop yield MRV platform, ensuring compliance with VERRA 0042/0053, Puro.earth, Cascade, & Isometric protocols.
+- Developed a coupled multi-scale model using [MIN3P](https://www.min3p.com/) & [APSIM](https://www.apsim.info/) to estimate inorganic carbon sequestration via ERW.
+- Built Python pipelines for ground ERW data storage & automated ERW calculations & modeling, improving data processing efficiency.
+- Scaled soil sampling pipelines to deploy ERW trials across multiple regions in Brazil, ensuring broad applicability of carbon removal methodologies.
+- Designed an ERW clustering tool (including climate, soil & farm management factors) to assess field suitability for carbon sequestration, improving deployment strategies.
 
-###### Funded by: 
-  
-- Sheryl Sandberg; Sandberg Bernthal Venture Partners
-- Tom Bernthal; Sandberg Bernthal Venture Partners
-- John Doerr; Kleiner Perkins / Speed & Scale
-- George Roberts; KKR
-- Ann Miura-Ko; Floodgate
-- Evi Steyer; Ponderosa Ventures
+###### Carbon Market Engagement & Policy Alignment
+- Worked directly with carbon registries & policymakers to align MRV methodologies with carbon market certification standards.
+- Ensured compliance with soil carbon protocols (VERRA, Puro.earth, Isometric, Cascade) by assessing uncertainties & developing strategies to minimize data variability.
+- Served as the primary liaison with the Terradot Science Advisory Board (Stanford, LBNL & UBC researchers), ensuring alignment with cutting-edge carbon removal science.
+- Engaged with government leaders & local communities to communicate scientific findings & scale adoption of carbon sequestration practices.
+
+###### Scientific R&D for Carbon Sequestration
+- Conducted simulations & calibration of MIN3P-APSIM for soil carbon quantification, utilizing real-world field trial data to enhance model accuracy.
+- Directed & oversaw carbon sequestration modeling at plot, field & farm scale, improving predictions of CO₂ capture efficiency in agricultural systems.
+- Developed Python-based infrastructure to integrate model simulations into a core MRV product, ensuring seamless data-to-credit workflows.
+- Scaled up calibrated models to additional fields, expanding ERW’s role in agricultural carbon removal projects.
+
+###### Key Achievements
+- Core team member in securing $58.2M in Series A funding, enabling large-scale carbon removal projects.
+- Built a global MRV & science team (10+ experts) from scratch within six months.
+- Developed & validated a coupled ERW model for predicting carbon sequestration impacts in agriculture.
+- Automated ERW modeling workflows through Python pipelines, streamlining MRV calculations & compliance.
+- Expanded soil sampling operations, deploying ERW trials across multiple Brazilian states.
+- Created an ERW clustering tool, improving field selection for high-impact carbon sequestration projects.
+- Published 3 abstracts in the AGU24 Annual Meeting.
 
   """
-
 [[experience]]
   title = "Adjunct Senior Research Fellow"
-  company = "Centre for Sustainable Agricultural Systems, University of Southern Queensland"
-  company_url = "https://www.unisq.edu.au/research/institutes-centres/ilse/sustainable-agricultural-systems"
-  location = "Toowoomba, Queensland, Australia"
-  date_start = "2022-10-20"
+  company = "University of Southern Queensland"
+  company_url = "https://terradot.earth/"
+  location = "Remote"
+  date_start = "2022-10-01"
   date_end = ""
   description = """
 
-  """
+- Research collaborations with the Centre for Sustainable Agricultural Systems in crop modelling and remote sensing projects.
+- PhD supervision.
 
+  """
+[[experience]]
+  title = "Senior Cropping Systems Scientist"
+  company = "Regrow Ag"
+  company_url = "https://www.regrow.ag/"
+  location = "Remote"
+  date_start = "2021-07-15"
+  date_end = "2023-06-30"
+  description = """
+  
+###### Leadership & Scientific Innovation in Crop & Carbon Modeling
+- Led the [Niche Project](https://www.gatesfoundation.org/about/committed-grants/2021/10/inv030103) (funded by Bill & Melinda Gates Foundation) to develop a predictive analytics framework improving on-farm field trials, seed profiling, & climate adaptation for small-scale Sub-Saharan African producers.
+- Managed a 15+ member global team (including 3 postdocs, data scientists, & engineers) across 4 organizations (Gates Foundation, NASA Harvest, University of Lincoln & One Acre Fund) in 4 continents.
+- Collaborated with [TomorrowNow](https://www.tomorrownow.org/blog/tomorrow-now-org-brings-weather-intelligence-for-resilient-agriculture-to-africa/) through the OSIRIS Gates project to analyze climate data impacts on APSIM outputs for sustainable crop practices.
+- Spearhead multiple field campaigns in Rwanda & Kenya, visiting maize farmers & actively engaging with local communities.
+- Led development of a Python-based APSIM platform integrating climate, soil, & crop data from APIs, global open datasets & remote sensing products (e.g. Sentinel-2 NDVI data).
+- Build automated crop model uncertainty quantification workflows to improve predictions for agriculture & carbon markets.
+
+###### MRV & Carbon Modeling for Sustainable Agriculture
+- Designed new crop management algorithms for [FluroSense](https://www.regrow.ag/flurosense), a digital agronomy & conservation monitoring platform, integrating Climate FieldView, Agrian, & Proagrica farm data management systems.
+- Developed multi-scale models coupling remotely sensed data & biophysical models to optimize soil sampling for large-scale conservation projects.
+- Created algorithms for APSIM & [DNDC](https://www.dndc.sr.unh.edu/) to model the effects of soil management, genetics, & climate on soil carbon, crop productivity, & environmental impact (e.g. CO2, N2O, CH4).
+- Validated Sentinel-1 SAR data for soil moisture prediction, improving soil-water balance assessments.
+- Conducted APSIM-DNDC model intercomparison, quantifying prediction errors & uncertainties in carbon & nitrogen cycling models.
+- Implemented [SWIM3](https://www.apsim.info/documentation/model-documentation/soil-modules-documentation/swim3/) to simulate solute interactions, subsurface drainage, & water table dynamics within the [FluroSense Nitrogen Recommendation Tool](http://flurosat.com/wp-content/uploads/2020/01/3.-Crop-nutrition-1.pdf).
+
+###### Carbon Market & Policy Engagement
+- Worked with the APSIM Science Team & remote sensing experts to enhance soil-crop management best practices globally.
+- Developed soil/crop modules in DNDC, improving biomass & grain yield predictions under water & nitrogen stress conditions.
+- Submitted multiple funded proposals on satellite remote sensing, biomass & crop yield estimation, & biophysical modeling for sustainable crop-livestock systems.
+
+###### Key Achievements
+- Built a Python pipeline integrating climate, soil, crop, & genotype field data & remote sensed data with APSIM modeling, enabling automated calibration & scenario analysis.
+- Developed & validated new crop cultivars in FluroSense, optimizing regional seed placement.
+- Designed crop rotation templates (corn, soybean, wheat) for soil nitrogen & water balance simulations, improving in-season nitrogen recommendations.
+- Implemented gridded soil data extraction ([ASRIS database](https://portal.ga.gov.au/metadata/soil/australian-soil-resource-information-system/australian-soil-classification-csiro/7125b5c9-99e0-44ed-9135-67281e0f9504)) in APSIM for Australian fields, leveraging soil order probability mapping.
+- Secured funded grants, advancing crop modeling & remote sensing applications.
+- Publications: authored 3 papers in Nature Communications, Field Crops Research & Frontiers Plant Science.
+
+  """
 [[experience]]
   title = "Scientific Advisor"
   company = "Argentinian Scientific Network in Australia"
@@ -104,8 +164,19 @@ date_format = "Jan 2006"
   date_end = "2022-07-01"
   description = """
 
-  """
+###### Advancing International Scientific Collaboration
+- Facilitate networking among Argentinian researchers abroad, strengthening scientific ties with Australia.
+- Promoted bilateral research exchange, fostering collaboration between Argentine & Australian institutions while working closely with the Argentinian Ambassador in Australia.
+- Disseminate Argentinian scientific & technological advancements to an international audience, particularly in Australia.
+- Improve visibility & accessibility of highly skilled Argentinian researchers & professionals abroad.
+Engage Argentinian industry & NGOs to enhance science, technology, & innovation initiatives.
 
+###### Key Achievements
+- Organized the [AgTech Webinar](https://www.youtube.com/watch?v=qxp8RZ1Q8h4): "Agricultural Innovations & Technologies—Opportunities for Economic, Financial, & Environmental Sustainability in Australia & Argentina."
+- Reviewed the National Plan for Science, Technology, & Innovation 2030 for the Argentinian Government.
+Published an article on the Network’s website: "[Argentina, Australia, and Uruguay Collaborate on Climate Adaptation Using Crop Modeling & Remote Sensing in Agricultural Systems](https://sites.google.com/view/red-cientificos-arg-en-aus/noticias)."
+
+  """
 [[experience]]
   title = "Adjunct Researcher"
   company = "Tasmanian Institute of Agriculture, University of Tasmania"
@@ -115,8 +186,12 @@ date_format = "Jan 2006"
   date_end = "2023-07-01"
   description = """
 
-  """
+- Research collaborations with the University of Tasmania and the Tasmanian Institute of Agriculture in sustainable agriculture PhD projects.
+- PhD supervision:
+  - Ranju Chapagain (PhD granted)
+  - Francesco Tacconi (PhD granted)
 
+  """
 [[experience]]
   title = "Postdoctoral Research Fellow"
   company = "Queensland Alliance for Agriculture and Food Innovation, The University of Queensland"
