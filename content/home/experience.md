@@ -26,8 +26,9 @@ date_format = "Jan 2006"
   date_start = "2024-10-01"
   date_end = ""
   description = """
-  
-**Leadership & People Management**
+
+### Leadership & People Management in Carbon MRV
+
 - Built & led a multicultural, cross-disciplinary team of field scientists, agronomists, project managers, & data scientists to execute an MRV platform for carbon quantification (via Enhanced Rock Weathering, ERW) in agricultural fields.
 - Acted as the hiring manager, recruiting & onboarding project managers, field/data scientists, & field assistants for the SciOps Team.
 - Designed & implemented project management strategies, ensuring alignment of scientific initiatives with company goals & ERW carbon crediting methodologies.
@@ -40,9 +41,7 @@ date_format = "Jan 2006"
 - Managed on-field data collection, ensuring accurate monitoring of crop & soil management, spatial heterogeneity data, & carbon flux dynamics.
 
 **MRV Tech & Platform Development**
-- Spearheaded the development of a digital carbon MRV Web platform, integrating:
-  - Geolocated fields & datasets for long-term tracking across multiple fields & farms in Brazil, cropping seasons, crop types (annual & perennials) & crop/soil management zones.
-  - Automated data pipelines for weather, soil, crop, & farm management data collection.
+- Spearheaded the development of a digital carbon MRV Web platform, integrating 1-Geolocated fields & datasets for long-term tracking across multiple fields & farms in Brazil, cropping seasons, crop types (annual & perennials) & crop/soil management zones and 2-Automated data pipelines for weather, soil, crop, & farm management data collection.
 - Led the co-design of new ERW platform features, streamlining field & farm management data collection (sowing, harvest, tillage, lime applications, etc.).
 - Implemented operational & digital QA/QC procedures to ensure high-quality, low-uncertainty data for CDR calculations.
 
@@ -67,33 +66,33 @@ date_format = "Jan 2006"
   date_end = "2024-10-01"
   description = """
   
-###### Leadership & People Management in Carbon MRV
+**Leadership & People Management in Carbon MRV**
 - Built & led a multidisciplinary global science team (soil scientists, geologists, agronomists, geochemists, modelers, engineers, data scientists) to develop a carbon MRV platform from scratch.
 - Hired & scaled the team to 10+ experts in six months, driving carbon R&D & MRV execution.
 - Defined the strategic roadmap for improving CO₂ emissions measurement & verification in agricultural land (annual & perennial crop/pasture systems).
 - Served as the primary science lead & scientific founder, playing a key role in securing $58.2M in Series A funding to enable large-scale carbon removal projects. Joined as the third employee, following the two co-founders, & helped shape the company's scientific vision & strategy.
 - Led the development of the Terradot Science White Paper, which was presented to buyers & played a key role in securing several carbon offtake agreements with Frontier & Google.
 
-###### MRV Platform & Carbon Modeling Development
+**MRV Platform & Carbon Modeling Development**
 - Led the creation of a soil carbon (organic & inorganic) & crop yield MRV platform, ensuring compliance with VERRA 0042/0053, Puro.earth, Cascade, & Isometric protocols.
 - Developed a coupled multi-scale model using [MIN3P](https://www.min3p.com/) & [APSIM](https://www.apsim.info/) to estimate inorganic carbon sequestration via ERW.
 - Built Python pipelines for ground ERW data storage & automated ERW calculations & modeling, improving data processing efficiency.
 - Scaled soil sampling pipelines to deploy ERW trials across multiple regions in Brazil, ensuring broad applicability of carbon removal methodologies.
 - Designed an ERW clustering tool (including climate, soil & farm management factors) to assess field suitability for carbon sequestration, improving deployment strategies.
 
-###### Carbon Market Engagement & Policy Alignment
+**Carbon Market Engagement & Policy Alignment**
 - Worked directly with carbon registries & policymakers to align MRV methodologies with carbon market certification standards.
 - Ensured compliance with soil carbon protocols (VERRA, Puro.earth, Isometric, Cascade) by assessing uncertainties & developing strategies to minimize data variability.
 - Served as the primary liaison with the Terradot Science Advisory Board (Stanford, LBNL & UBC researchers), ensuring alignment with cutting-edge carbon removal science.
 - Engaged with government leaders & local communities to communicate scientific findings & scale adoption of carbon sequestration practices.
 
-###### Scientific R&D for Carbon Sequestration
+**Scientific R&D for Carbon Sequestration**
 - Conducted simulations & calibration of MIN3P-APSIM for soil carbon quantification, utilizing real-world field trial data to enhance model accuracy.
 - Directed & oversaw carbon sequestration modeling at plot, field & farm scale, improving predictions of CO₂ capture efficiency in agricultural systems.
 - Developed Python-based infrastructure to integrate model simulations into a core MRV product, ensuring seamless data-to-credit workflows.
 - Scaled up calibrated models to additional fields, expanding ERW’s role in agricultural carbon removal projects.
 
-###### Key Achievements
+**Key Achievements**
 - Core team member in securing $58.2M in Series A funding, enabling large-scale carbon removal projects.
 - Built a global MRV & science team (10+ experts) from scratch within six months.
 - Developed & validated a coupled ERW model for predicting carbon sequestration impacts in agriculture.
