@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-### Leadership & People Management in Carbon MRV
+**Leadership & People Management in Carbon MRV**
 
 - Built & led a multicultural, cross-disciplinary team of field scientists, agronomists, project managers, & data scientists to execute an MRV platform for carbon quantification (via Enhanced Rock Weathering, ERW) in agricultural fields.
 - Acted as the hiring manager, recruiting & onboarding project managers, field/data scientists, & field assistants for the SciOps Team.
@@ -124,7 +124,7 @@ date_format = "Jan 2006"
   date_end = "2023-06-30"
   description = """
   
-###### Leadership & Scientific Innovation in Crop & Carbon Modeling
+**Leadership & Scientific Innovation in Crop & Carbon Modeling**
 - Led the [Niche Project](https://www.gatesfoundation.org/about/committed-grants/2021/10/inv030103) (funded by Bill & Melinda Gates Foundation) to develop a predictive analytics framework improving on-farm field trials, seed profiling, & climate adaptation for small-scale Sub-Saharan African producers.
 - Managed a 15+ member global team (including 3 postdocs, data scientists, & engineers) across 4 organizations (Gates Foundation, NASA Harvest, University of Lincoln & One Acre Fund) in 4 continents.
 - Collaborated with [TomorrowNow](https://www.tomorrownow.org/blog/tomorrow-now-org-brings-weather-intelligence-for-resilient-agriculture-to-africa/) through the OSIRIS Gates project to analyze climate data impacts on APSIM outputs for sustainable crop practices.
@@ -132,7 +132,7 @@ date_format = "Jan 2006"
 - Led development of a Python-based APSIM platform integrating climate, soil, & crop data from APIs, global open datasets & remote sensing products (e.g. Sentinel-2 NDVI data).
 - Build automated crop model uncertainty quantification workflows to improve predictions for agriculture & carbon markets.
 
-###### MRV & Carbon Modeling for Sustainable Agriculture
+**MRV & Carbon Modeling for Sustainable Agriculture**
 - Designed new crop management algorithms for [FluroSense](https://www.regrow.ag/flurosense), a digital agronomy & conservation monitoring platform, integrating Climate FieldView, Agrian, & Proagrica farm data management systems.
 - Developed multi-scale models coupling remotely sensed data & biophysical models to optimize soil sampling for large-scale conservation projects.
 - Created algorithms for APSIM & [DNDC](https://www.dndc.sr.unh.edu/) to model the effects of soil management, genetics, & climate on soil carbon, crop productivity, & environmental impact (e.g. CO2, N2O, CH4).
@@ -140,12 +140,12 @@ date_format = "Jan 2006"
 - Conducted APSIM-DNDC model intercomparison, quantifying prediction errors & uncertainties in carbon & nitrogen cycling models.
 - Implemented [SWIM3](https://www.apsim.info/documentation/model-documentation/soil-modules-documentation/swim3/) to simulate solute interactions, subsurface drainage, & water table dynamics within the [FluroSense Nitrogen Recommendation Tool](http://flurosat.com/wp-content/uploads/2020/01/3.-Crop-nutrition-1.pdf).
 
-###### Carbon Market & Policy Engagement
+**Carbon Market & Policy Engagement**
 - Worked with the APSIM Science Team & remote sensing experts to enhance soil-crop management best practices globally.
 - Developed soil/crop modules in DNDC, improving biomass & grain yield predictions under water & nitrogen stress conditions.
 - Submitted multiple funded proposals on satellite remote sensing, biomass & crop yield estimation, & biophysical modeling for sustainable crop-livestock systems.
 
-###### Key Achievements
+**Key Achievements**
 - Built a Python pipeline integrating climate, soil, crop, & genotype field data & remote sensed data with APSIM modeling, enabling automated calibration & scenario analysis.
 - Developed & validated new crop cultivars in FluroSense, optimizing regional seed placement.
 - Designed crop rotation templates (corn, soybean, wheat) for soil nitrogen & water balance simulations, improving in-season nitrogen recommendations.
@@ -163,14 +163,14 @@ date_format = "Jan 2006"
   date_end = "2022-07-01"
   description = """
 
-###### Advancing International Scientific Collaboration
+**Advancing International Scientific Collaboration**
 - Facilitate networking among Argentinian researchers abroad, strengthening scientific ties with Australia.
 - Promoted bilateral research exchange, fostering collaboration between Argentine & Australian institutions while working closely with the Argentinian Ambassador in Australia.
 - Disseminate Argentinian scientific & technological advancements to an international audience, particularly in Australia.
 - Improve visibility & accessibility of highly skilled Argentinian researchers & professionals abroad.
 Engage Argentinian industry & NGOs to enhance science, technology, & innovation initiatives.
 
-###### Key Achievements
+**Key Achievements**
 - Organized the [AgTech Webinar](https://www.youtube.com/watch?v=qxp8RZ1Q8h4): "Agricultural Innovations & Technologies—Opportunities for Economic, Financial, & Environmental Sustainability in Australia & Argentina."
 - Reviewed the National Plan for Science, Technology, & Innovation 2030 for the Argentinian Government.
 Published an article on the Network’s website: "[Argentina, Australia, and Uruguay Collaborate on Climate Adaptation Using Crop Modeling & Remote Sensing in Agricultural Systems](https://sites.google.com/view/red-cientificos-arg-en-aus/noticias)."
@@ -186,9 +186,7 @@ Published an article on the Network’s website: "[Argentina, Australia, and Uru
   description = """
 
 - Research collaborations with the University of Tasmania and the Tasmanian Institute of Agriculture in sustainable agriculture PhD projects.
-- PhD supervision:
-  - Ranju Chapagain (PhD granted)
-  - Francesco Tacconi (PhD granted)
+- PhD supervision Ranju Chapagain (PhD granted) & Francesco Tacconi (PhD granted).
 
   """
 [[experience]]
@@ -200,41 +198,17 @@ Published an article on the Network’s website: "[Argentina, Australia, and Uru
   date_end = "2021-06-25"
   description = """
   
-###### Responsibilities:
-  
-**Research**
-- I led the sorghum biomass modelling in the UQ component of a joint project with Purdue University ([TERRA](https://www.purdue.edu/terra/)) in collaboration with
-[Prof Scott Chapman](https://scholar.google.com.au/citations?user=v-giX5UAAAAJ&hl=en), [Prof Hammer](https://qaafi.uq.edu.au/profile/189/graeme-hammer), 
-and [Peter deVoil](https://qaafi.uq.edu.au/profile/864/peter-devoil) from UQ, [Dr Archontoulis](https://www.agron.iastate.edu/people/sotirios-archontoulis) 
-from Iowa State University and [Prof Tuinstra](https://ag.purdue.edu/agry/directory/Pages/mtuinstr.aspx), 
-from Purdue University. We developed a new version of [pSIMS](https://github.com/JJguri/psimsV2) to predict biomass 
-sorghum across US environments using gridded data. 
-- Assist in supervision and engagement with PhD and Master’s students at Purdue and UQ, and utilise APSIM to 
-undertake simulations for the phenotyping of biomass sorghum using experiments from the project. Parameterise APSIM and use weather, 
-soil and other datasets to undertake scenario analysis of adaptation of biomass sorghum to diverse environments, primarily in the USA.
-- Collaborate with Pacific Seeds Australia (ADVANTA) in an experimental trial combining farm, drone data and satellite imagery relating 
-photosynthesis and RUE (Radiation Use Efficiency) with forage sorghum biomass. Use of LICOR 6800 to measure leaf photosynthesis at 
-field scale level in sorghum trials including forage and grain genotypes.
-
-**Teaching and Learning**
-- Teach undergraduate subjects into the UQ plant/crop science program.
-- Supervise students at honours and postgraduate level.
-
-###### Funded by:
-U.S. Department of Energy
-* First phase USD$6.6 million (2015)
-* Second phase USD$9 million (2019)
-
-  """
-
-[[experience]]
-  title = "Data Network Co-director"
-  company = "University of Tasmania"
-  company_url = "https://www.utas.edu.au/tia"
-  location = "Hobart, Tasmania, Australia"
-  date_start = "2019-03-01"
-  date_end = "2019-11-01"
-  description = """
+**Research Contributions**
+- Led improvement of advanced biofuel crops, specifically energy sorghum, as part of the [TERRA](https://arpa-e.energy.gov/programs-and-initiatives/view-all-programs/terra) US DOE-funded project, collaborating with Iowa State University & Purdue University. Developed a new version of [pSIMS](https://github.com/JJguri/psimsV2) to predict biomass sorghum across U.S. environments using gridded data.
+Supervised PhD & Master’s students at Purdue & UQ, utilizing APSIM to simulate phenotyping of biomass sorghum based on experimental trials & environmental scenario analysis (weather, soil, & crop data).
+- Collaborated with Pacific Seeds Australia (ADVANTA) on forage sorghum biomass research. Integrated farm, drone, & satellite imagery to analyze photosynthesis & radiation use efficiency using LICOR6800 for leaf photosynthesis measurements in sorghum trials (forage & grain genotypes).
+**Teaching & Mentorship**
+- Delivered undergraduate courses in UQ's plant & crop science program.
+- Supervised Honours & Postgraduate students.
+**Key Achievements**
+- _Software Development:_ Developed APSIM Sorghum Module to run pSIMS at a regional scale (US-wide) using netCDF input data (climate, soil, & crop management).
+- _Publications:_ First-authored a paper in Global Change Biology Bioenergy.
+- _Granted Research Proposals:_ 1-The Role of Biological Fixation in Crop Productivity, Nitrogen Use Efficiency & N₂O Emissions – Quantification at different spatio-temporal scales. Argentinian Agency for the Promotion of Research, Technological Development & Innovation (Partner). 2-Estimation of Radiation Use Efficiency of Grassland & Its Use for Characterizing Syndromes of Ecosystem Changes – Funded by Argentinian Agency for the Promotion of Research, Technological Development & Innovation (Partner).
 
   """
 
@@ -247,36 +221,71 @@ U.S. Department of Energy
   date_end = "2020-11-18"
   description = """
   
-###### Responsibilities:
-  
-**Basic research and methods**
-- Uncertainty analysis in climate change impact studies for irrigated maize systems in Spain.
-- Impact assessment of livestock farm performances regionally under different climate change scenarios in Australia, Argentina, and Uruguay.
-- Development of a tool to download gridded climate data in an APSIM format from SILO datasets across Australia.
-- Model phenological variation with sowing date and cultivar for lentil and faba bean against the climatic patterns of frost and heat in Australia. 
-- Coupling existing multiple-scaling and remote-sensing techniques with advanced biophysical models to evaluate drivers of yield variability in Australia, Argentina, and Uruguay.
-- Quantification of crop model uncertainties (input, structure and parameter uncertainty) using sensitivity analysis tools such as Sobol, Morris, ANOVA.
-- Examine alternative existing model-scaling techniques and assess drivers of yield variability at the regional scale (gridded based crop simulations).
-- Point-based crop model calibration/validation under the Water for Profit program in Tasmania, Australia.
-- Develop a new potato module in APSIM Next Generation. Evaluating how accurately APSIM NG simulates potato productivity across several agricultural systems worldwide.
+**Climate Change & Agricultural Systems**
+- _Uncertainty Analysis:_ Evaluated climate change impacts on irrigated maize systems in Spain & livestock farm performance across Australia, Argentina, & Uruguay.
+- _Crop Modelling & Climate Data:_ Developed a gridded climate data tool for APSIM using [SILO](https://www.longpaddock.qld.gov.au/silo/#:~:text=SILO%20is%20a%20database%20of,modelling%2C%20research%20and%20climate%20applications.) climate datasets across Australia.
+- _Phenology & Climate Adaptation:_ Modeled lentil & faba bean phenology against frost & heat stress patterns in Australia.
+- _Multi-Scale Crop Modelling & Remote Sensing:_ Combined biophysical models with remote sensing to evaluate crop yield variability across Australia, Argentina, & Uruguay.
+- _Model Development & Uncertainty Analysis:_ Quantified crop model uncertainties (input, structure, parameter uncertainty) using Sobol, Morris, ANOVA sensitivity analyses.
+- _Potato Modelling:_ Developed an APSIM Next Generation potato module to simulate global potato productivity across various agricultural systems.
 
-**Applied research and industry engagement**
-- Develop a virtual tool to analyze future scenarios to decision support for dual-purpose crops (canola and wheat) in Tasmania (Australia) in collaboration with GRDC and CSIRO.
-- Collect and organize several potato agricultural datasets (climate, soil and crop management) from industry partners across Tasmania (Simplot and McCain) for modelling purposes and scenario analysis with farmers.
-- Conduct workshops with Australian farming groups under a CRC Soil project focused on model development to evaluate the effect of soil constraints on crop and soil productivity.
-- Lead workshops with livestock industry decision-makers who will perform foresight exercises to explore alternative futures under climate change scenarios in Argentina, Uruguay, and Australia.
+**Applied Research & Industry Engagement**
+- _Decision-Support Tool:_ Developed a virtual scenario analysis tool for dual-purpose crops (canola & wheat) in Tasmania in collaboration with GRDC & CSIRO.
+- _Industry Collaboration:_ Collected & structured potato agricultural datasets (climate, soil, crop management) from Simplot & McCain for modelling & scenario analysis with potato farmers.
+- _Workshops & Stakeholder Engagement:_
+1. Led [CRC Soil](https://soilcrc.com.au/profile-university-of-tasmania/) workshops with Australian farming groups to evaluate soil constraints on crop productivity.
+2. Conducted foresight workshops for livestock industry decision-makers in Argentina, Uruguay & Australia, exploring climate change adaptation strategies.
 
-**Coaching, supervision and leadership activities**
-- Supervise Ph.D. students in collaboration with external co-supervisors (CSIRO Brisbane and Toowoomba).
-- UTAS Data Network Co-director (Mar-2019 to Nov-2019). Lead discussion and meeting for a group of researchers interested in data management across the University.
+**Teaching & Mentorship**
+- Supervised PhD students in collaboration with CSIRO Brisbane & Toowoomba.
+- _Guest Lecturer:_
+1. Can we trust field-scale model predictions for regional agricultural systems? (TIA-UTAS Seminars, 2018).
+2. Farming Systems & Business Management (KLA312/KLA535, TIA-UTAS, 2018).
+- UTAS Data Network Co-Director (Mar 2019 – Nov 2019): Led data management discussions across UTAS research teams.
 
-###### Funded by:
-Tasmanian Institute of Agriculture (AUD $336,423)
+**Key Achievements**
+- _Publications:_ First-authored 4 & co-authored 10 research papers.
+- _Research Granted Projects:_
+
+**2020**
+- Mapping Potato Yield & Irrigation Variability Under Climate Change Scenarios in Tasmania – JM Roberts Seed Funding for Sustainable Agriculture (Chief Investigator).
+
+**2019**
+- Biomass Estimation of Forage Resources via Remote Sensing & Crop Models – Argentinian Agency for the Promotion of Research, Technological Development & Innovation (Partner).
+- Visualizing Agricultural Uncertainties Under Climate Change – CoSE Grant Incentive Scheme, UTAS (Chief Investigator).
+Crop-Livestock Adaptation to Climate Change Using Modelling & Remote Sensing – Australian Govt. Council on Australia Latin America Relations Grant (Chief Investigator).
+
+**2018**
+- Diversity Benefits in Agricultural Systems – Australian Sustainable Agriculture Elite. Scholarship, CSIRO-TIA (Chief Investigator).
+- Estimating Uncertainty in Crop Models – CSIRO-TIA (Chief Investigator).
+- Improving Soil Productivity Representation in Decision Support Models – CRC for High-Performance Soils (Partner).
+
+**International Research Collaborations & Conferences**
+
+**2020**
+- Montpellier, France – 2nd International Crop Modelling Symposium (iCROPM2020), AgMIP-Calibration & AgMIP-Ozone Workshops (Oral & Poster Presentation).
+- Muncheberg, Germany – Research stay at ZALF (3 weeks), collaboration with Dr. Webber & Kamali (UA-DAAD Project).
+
+**2019**
+- Toowoomba, Australia – Research stay at USQ (1 week), meetings with Dr. Pembleton, CRC team, Dr. Huth & Holzworth (CSIRO).
+- Lincoln, New Zealand – Research stay at Plant & Food Research Institute (1 week), collaboration on potato modelling & crop modelling papers.
+- Gottingen, Germany – Research stay at University of Gottingen (3 weeks), strengthening Australia-Germany Joint Research Co-Operation (UA-DAAD).
+
+**2018**
+- Wageningen, Netherlands & Germany (Gottingen, Muncheberg) – Course & Workshop: Fundamentals of Crop Physiology in a Changing World (Wageningen University, 1 week).
+- Hobart, Tasmania, Australia – Hosted Dr. Lattanzi (Director, INIA Uruguay) for a 3-day research visit.
+
+**Industry Engagement & Stakeholder Meetings**
+**2020**
+- Tasmania, Australia – Data collection across 20 potato farm enterprises linked to Simplot & McCain in Northern Tasmania.
+**2019**
+- Devonport, Tasmania – Industry meetings with Simplot & McCain, presenting APSIM results & experiment setup discussions.
+- Smithton & Ulverstone, Tasmania – Stakeholder engagement with Simplot & McCain on modelling requirements & experimental setup.
 
   """
 
 [[experience]]
-  title = "Postdoctoral Research Fellow - Graduate Teaching Assistant"
+  title = "Postdoctoral Research Fellow & Graduate Teaching Assistant"
   company = "Research Council of Argentina, CONICET - Ecophysiology and Forage Production, National University of Entre Ríos"
   company_url = "https://www.conicet.gov.ar/?lan=en"
   location = "Parana, Entre Rios, Argentina"
@@ -284,24 +293,23 @@ Tasmanian Institute of Agriculture (AUD $336,423)
   date_end = "2017-11-18"
   description = """
 
-###### Responsibilities:
+**Research Contributions**
+- Research Proposal Development: Contributed to national & international research grants.
+Scientific Communication: First-authored 1 research paper in Agricultural & Forest Meteorology.
+- Data Analysis & Modelling: Analyzed & interpreted experimental results for scientific reports & high-impact journal publications.
+- Outreach & Dissemination: Engaged in research dissemination activities through seminars & workshops.
 
-**Research**
-- Participate actively in the preparation for national and international proposals and research grants.
-- Participate in dissemination activities related to my research line.
-- Collect, analyze and interpret results, prepare seminars, workshop presentations, and present oral and written scientific reports papers in high-quality journals.
-
-**Teaching**
-- Post-graduate (~15 students) and undergraduate (~50 students) courses on crop ecophysiology and agricultural systems.
-- Advised one Honours thesis (Bachelor's degree in Agronomy) at the National University of Entre Ríos. Honors thesis description: Impact of cover crops with different defoliation levels on soil carbon.
-
-###### Funded by:
-Research Council of Argentina, CONICET (AUD $35,568)
+**Teaching & Mentorship**
+- Graduate & Undergraduate Teaching: Taught Crop Ecophysiology & Agricultural Systems to:
+1. Post-graduate students (~15 students).
+2. Undergraduate students (~50 students).
+- Honours Thesis Supervision: Advised a Bachelor's thesis (Agronomy) at the National University of Entre Ríos. Thesis Topic: Impact of cover crops with different defoliation levels on soil carbon.
+- Post-Graduate Course Development: Contributed to the Crop Ecophysiology post-graduate course at the National University of Entre Ríos.
 
   """
 
 [[experience]]
-  title = "Postgraduate Research Fellow - Graduate Teaching Assistant"
+  title = "PhD Research Fellow & Graduate Teaching Assistant"
   company = "Research Council of Argentina, CONICET - Ecophysiology and Forage Production, National University of Entre Ríos"
   company_url = "https://www.conicet.gov.ar/?lan=en"
   location = "Balcarce, Buenos Aires, Argentina"
@@ -309,25 +317,53 @@ Research Council of Argentina, CONICET (AUD $35,568)
   date_end = "2017-04-01"
   description = """
 
-###### Responsibilities:
+**PhD Research Contributions**
+- _Sustainable Agricultural Systems:_ Applied ecophysiology concepts to optimize forage & grain production while minimizing environmental impact with focus on soil carbon.
+- _Climate & Crop Modelling:_ Utilized biophysical simulation models (APSIM) to analyze long-term productivity & stability of cropping systems.
+- _Field Experimentation:_ Designed & conducted a 3-year field experiment in Balcarce, Argentina (2012-2015).
+- _Soil & Water Probes Calibration:_ Calibrated soil water probes in Balcarce to understand the interaction between soil water and soil carbon dynamics, Argentina.
+- _Data Management & Analysis:_ Organized & analyzed climate, soil, & crop data from 5 experimental sites across the Argentinean Pampas.
+- _APSIM Model Development:_ Calibrated & validated APSIM for biomass prediction at both annual crop & rotation levels.
 
-**Research**
-- Apply ecophysiology concepts to the management of annual/perennial cropping systems for forage and grain production through field experimentation and biophysical simulation models, with emphasis on improving resource use efficiency with minimal environmental impact.
-- Use simulation models to analyze and predict the long-term productivity and stability of different cropping systems, encouraging the sustainable intensification of farm crop/forage production systems and improving environmental resources management strategies (solar radiation, soil water, and nutrients [mainly N]) while reducing environmental risks and climatic uncertainty.
-- Analyze and organize data for climate, soil, crop production, and management from five locations across Argentinian Pampas.
-- Calibrate and validate APSIM to predict biomass production at the crop and sequence level.
-- Design and conduct a 3-year field experiment in Balcarce, Argentina (May 2012 to May 2015).
-- Conduct probe calibration for Argiudoll soil in Balcarce, Argentina.
-- Data analysis and dissertation manuscript writing.
+**Teaching & Mentorship**
+- _Undergraduate Teaching:_ Courses on Grains & Oilseeds Ecophysiology, Forage Production (~50 students).
+- _Honours Thesis Supervision:_ Advised 4 Honours theses (Bachelor's in Agronomy & Agricultural Engineering) at the National University of Mar del Plata & Entre Ríos.
+- _International Student Mentorship:_ Supervised agronomy trials in INTA Balcarce, Argentina.
+- _Guest Lectures & Grower Outreach:_ Delivered talks for growers & industry stakeholders.
+- _Leadership & Team Coordination:_ Developed skills in team management & collaborative research.
 
-**Teaching**
-- Research and teaching “Crop Physiology and Ecology”.
-- Undergraduate course (~50 students).
-- Supervision of staff (international students).
-- Supervision of Honours theses.
+**Key Achievements**
+- _Publications:_ First-authored 7 research papers.
+- _PhD Completion:_ Successfully defended PhD dissertation on March 27, 2017. I was awarded Summa Cum Laude, the highest distinction, for my PhD dissertation.
+- _Post-Graduate Course Development:_ Contributed to Crop Ecophysiology post-graduate course at the National University of Entre Ríos.
+- _Advanced Research Instrumentation:_ Expertise in:
+1. Solar radiation & N content sampling: LI-COR LAI-2000, SPAD-502, LICOR 6400.
+2. Soil Water & Root Sampling: TROXLER 4300 neutron probe, DIVINER 2000 capacitance probe, Delta-T root washer.
+- _Field Experimentation & Simulation:_ Developed experimental design & hypothesis testing skills for crop production & environmental resource management.
+- _Scientific Communication:_ Improved presentation, publication, & lecturing skills.
 
-###### Funded by:
-Research Council of Argentina, CONICET (AUD $69,240)
+**International Research Collaborations**
+
+_Visiting Researcher (May 2015 – Mar 2016)_
+_Department of Agronomy, Purdue University, USA_
+_Funded by Fulbright Fellowship & US DOE_
+_Supervisors: Dr. J. Volenec & Dr. S. Brouder_
+
+**Research Contributions**
+- _APSIM Model Development:_ Developed new APSIM sub-models for switchgrass & Miscanthus for biofuel by modifying existing lucerne & sugarcane crop models. 
+- _Maize Model Enhancement:_ Improved APSIM maize model for continuous corn & soybean-corn rotations.
+- _Water Balance Modelling:_ Calibrated water & N flow/drainage subroutine using long-term datasets from Purdue's Water Quality Field Station.
+- _Publications:_ Contributed to 2 research papers published in high-impact journals.
+
+_Visiting Researcher (Oct 2013 – Dec 2013)_
+_University of Sydney (Camden, NSW) & TIA-UTAS (Burnie, TAS, Australia)_
+_Funded by INNOVA-T, INTA, University of Sydney & UTAS_
+_Supervisors: Dr. S. Garcia, Dr. R. Islam, Dr. K. Pembleton_
+
+**Research Contributions**
+- _Lucerne & Ryegrass Modelling:_ Evaluated APSIM performance for lucerne & annual ryegrass using Argentinian & Australian field data.
+- _Yield Predictions:_ Simulated dry matter yields for both crops in Australian environments.
+Publications: Contributed to 2 research papers published in high-impact journals.
 
   """
 
@@ -340,18 +376,20 @@ Research Council of Argentina, CONICET (AUD $69,240)
   date_end = "2012-04-01"
   description = """
 
-###### Responsibilities:
+**Responsibilities**
+- Managed & executed field experiments.
+- Assisted in seed marketing projects.
+- Provided private consulting on agricultural systems.
+- Delivered invited talks for growers.
 
-**Consultancy**
-- Responsible for field experiments.
-- Assistant for the seed marketing project.
-- Private consultant in agricultural systems.
-- Invited talks for growers.
+**Key Achievements**
+- Developed leadership skills & team coordination.
+- Successfully solved complex, real-world agricultural challenges.
+- Fostered innovation & creativity by integrating novel approaches to improve farming solutions.
 
 """
-
 [[experience]]
-  title = "Undergraduate Teaching Assistant in Mathematics"
+  title = "Undergraduate Teaching Assistant – Mathematics I & II"
   company = "National University of Entre Ríos"
   company_url = "http://www.fca.uner.edu.ar/"
   location = "Oro Verde, Entre Rios, Argentina"
@@ -359,16 +397,35 @@ Research Council of Argentina, CONICET (AUD $69,240)
   date_end = "2011-04-01"
   description = """
 
-###### Responsibilities:
+**Teaching Responsibilities**
+- Taught Mathematics I & II to over 100 undergraduate students.
+- Assisted in research & curriculum development.
 
-**Teaching**
-- Research and teaching “Mathematics”.
-- Undergraduate course (>100 students).
-- Design and conduct a field experiment in Paraná (Argentina) for one summer season.
-- Data analysis and dissertation manuscript writing.
+**Key Achievements**
+- Strengthened leadership skills & team coordination in an academic setting.
+- Gained deep expertise in mathematical functions related to crop growth & soil/climate processes.
+- Improved communication skills through lectures & academic discussions.
 
-###### Funded by:
-Argentinian Ministry of Education (AUD $9,471)
+"""
+
+[[experience]]
+  title = "Research Fellow"
+  company = "Experimental Station Paraná, National Institute of Agriculture (INTA) Paraná"
+  company_url = "https://www.argentina.gob.ar/inta"
+  location = "Oro Verde, Entre Rios, Argentina"
+  date_start = "2007-04-01"
+  date_end = "2011-04-01"
+  description = """
+
+**Research Responsibilities**
+- Designed & conducted a one-season field experiment in Paraná, Argentina under the supervision of Drs. O. Valentinuz & L. Coll.
+- Performed data analysis & manuscript writing.
+
+**Key Achievements**
+- Acquired hands-on experience in field experimentation & crop production.
+- Developed experimental design skills for on-farm research.
+- Enhanced ability to present scientific findings through written & oral communication.
+- Successfully completed Agricultural Engineering degree & authored an Honours dissertation.
 
 """
 +++
