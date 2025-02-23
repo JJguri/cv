@@ -82,22 +82,22 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "jonathanjesusojeda@gmail.com"
-phone = "+61 492 507 910"
+phone = "+549 343 620 2862"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Brisbane", region = "QLD", postcode = "4101", country = "Australia", country_code = "AU"}
+address = {street = "", city = "Parana", region = "Entre Rios", postcode = "3101", country = "Argentina", country_code = "AR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-27.469187", longitude = "153.026590"}
+coordinates = {latitude = "-31.718925", longitude = "-60.530630"}
 
 # Directions for visitors to locate you.
 directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday to Friday 08:00 to 16:00"]
+office_hours = ["Monday to Friday 07:30 to 17:00"]
 
 ## Enter an optional link for booking appointments (e.g. calendly.com).
 ## appointment_url = "https://calendly.com"
