@@ -1,91 +1,46 @@
 +++
-# A Skills section created with the Featurette widget.
-widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+widget = "featurette"
+headless = true
+active = true
+weight = 30
 
-title = "Skills"
+title = "Technical and Leadership Capabilities"
 subtitle = ""
-
-# Showcase personal skills or business features.
-# 
-# Add/remove as many `[[feature]]` blocks below as you like.
-# 
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = ""
-
-[[feature]]
-  icon = "linux"
-  icon_pack = "fab"
-  name = "Linux"
-  description = ""
-
-[[feature]]
-  icon = "satellite"
-  icon_pack = "fas"
-  name = "Remote Sensing"
-  description = "" 
-
-[[feature]]
-  icon = "ubuntu"
-  icon_pack = "fab"
-  name = "Ubuntu"
-  description = ""
-
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = ""
-
-[[feature]]
-  icon = "markdown"
-  icon_pack = "fab"
-  name = "Markdown"
-  description = ""
-
-[[feature]]
-  icon = "github"
-  icon_pack = "fab"
-  name = "GitHub"
-  description = ""
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = ""
+  name = "Carbon Accounting and MRV"
+  description = "Carbon quantification, PDDs, monitoring plans, evidence traceability and certification support. Experience with Verra VM0042 and VMD0053, Isometric, Puro.earth, Rainbow and Climate Action Reserve requirements."
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Programming and Data Science"
+  description = "Python, R, SQL and Excel/VBA. Scientific computing, statistical analysis, automated data processing, reproducible workflows and digital MRV integration."
 
 [[feature]]
   icon = "chart-area"
   icon_pack = "fas"
-  name = "Plotting"
-  description = ""
+  name = "Modelling and Uncertainty"
+  description = "Crop and soil modelling with APSIM, DNDC and MIN3P. Model calibration, validation, sensitivity analysis, uncertainty quantification and climate scenario assessment."
 
 [[feature]]
-  icon = "globe-americas"
+  icon = "satellite"
   icon_pack = "fas"
-  name = "International Networking"
-  description = "" 
-
-[[feature]]
-  icon = "comments"
-  icon_pack = "far"
-  name = "Communication"
-  description = ""
+  name = "Remote Sensing and GIS"
+  description = "QGIS, ArcGIS, GeoPandas and rasterio. Satellite-data integration, spatial stratification, field mapping and analysis of soil, crop and climate variability."
 
 [[feature]]
   icon = "users"
   icon_pack = "fas"
-  name = "Team work"
-  description = ""
+  name = "Scientific and Programme Leadership"
+  description = "Building multidisciplinary teams, coordinating field operations and research partners, managing deliverables and developing practical scientific and technical procedures."
 
-
+[[feature]]
+  icon = "globe-americas"
+  icon_pack = "fas"
+  name = "Partnerships and Project Development"
+  description = "Technical due diligence, financial modelling, investment materials, research proposals and strategic partnerships across agriculture, forestry and carbon removal."
 
 +++
