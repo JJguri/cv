@@ -19,96 +19,98 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Science Operations (SciOps) Lead"
-  company = "Terradot"
-  company_url = "https://terradot.earth/"
-  location = "Remote"
-  date_start = "2024-10-01"
+  title = "Co-Founder | Carbon Project Development"
+  company = "Tupana RGN"
+  company_url = "https://tupana.earth/"
+  location = "Entre Ríos, Argentina"
+  date_start = "2026-02-01"
   date_end = ""
   description = """
 
-**Leadership & People Management in Carbon MRV**
+- Co-founded Tupana RGN and developed a multi-plant biochar project pipeline with eucalyptus forestry and sawmill partners in Entre Ríos, building on project development initiated in 2025.
+- Built integrated financial models covering CAPEX, OPEX, production, revenues and cash flows; evaluated investment returns, sensitivities and plant-level SPV structures with financial and legal advisers.
+- Developed partnerships with forestry operators, technology suppliers, researchers and provincial authorities, including collaboration with AFOA and the provincial forestry team; advanced feedstock, site and energy arrangements through technical assessments and letters of intent.
+- Prepared project design and MRV documentation addressing feedstock eligibility, traceability, carbon quantification, lifecycle emissions and biochar end use; coordinated Rainbow certification preparation and assessed Puro.earth requirements.
+- Worked with BlueLayer on digital MRV requirements linking supplier records, plant operations, laboratory evidence and final biochar application.
+- Prepared investor presentations, data rooms, technical due diligence responses and carbon-offtake proposals, connecting scientific and operational assumptions with financing requirements and implementation milestones.
 
-- Built & led a multicultural, cross-disciplinary team of field scientists, agronomists, project managers, & data scientists to execute an MRV platform for carbon quantification (via Enhanced Rock Weathering, ERW) in agricultural fields.
-- Acted as the hiring manager, recruiting & onboarding project managers, field/data scientists, & field assistants for the SciOps Team.
-- Designed & implemented project management strategies, ensuring alignment of scientific initiatives with company goals & ERW carbon crediting methodologies.
-- Coordinated with other companies leads to ensure science & operations protocols generate useful, high-quality data for ERW carbon credit validation.
+"""
 
-**Research & Development for MRV**
-- Designed scientifically robust field protocols for ERW in compliance with CDR registry requirements (Isometric, Puro.earth, Cascade).
-- Led experimental planning for site selection, deploying control & treatment plots & designing comprehensive soil & crop sampling plans across the entire CDR project lifecycle.
-- Enhanced sampling & uncertainty quantification protocols in collaboration with geochemical & soil scientists, improving measurement accuracy across the entire carbon flux in the critical zone  (atmosphere, crop, soil) & at landscape scale (field, catchment, farm).
-- Managed on-field data collection, ensuring accurate monitoring of crop & soil management, spatial heterogeneity data, & carbon flux dynamics.
-
-**MRV Tech & Platform Development**
-- Spearheaded the development of a digital carbon MRV Web platform, integrating 1-Geolocated fields & datasets for long-term tracking across multiple fields & farms in Brazil, cropping seasons, crop types (annual & perennials) & crop/soil management zones and 2-Automated data pipelines for weather, soil, crop, & farm management data collection.
-- Led the co-design of new ERW platform features, streamlining field & farm management data collection (sowing, harvest, tillage, lime applications, etc.).
-- Implemented operational & digital QA/QC procedures to ensure high-quality, low-uncertainty data for CDR calculations.
-
-**Stakeholder Engagement & Strategic Partnerships**
-- Conducted field visits to engage with farmers, farm cooperatives & associations & mining partners, driving enrollment in carbon programs.
-- Developed strategic partnerships with public & private organizations in the carbon market sector, enhancing MRV execution & securing long-term collaborations.
-- Coordinated with commercial & operations teams to plan & execute large-scale commercial carbon sequestration deployments for ERW.
-
-**Key Achievements**
-- Built a high-performing MRV team (5+ members) within four months, accelerating field execution & protocol implementation.
-- Developed & procured specialized MRV equipment, including weather stations, bulk density kits, lysimeters, soil auger samplers, soil & rock moisture sensors & lab materials.
-- Planned & executed commercial carbon sequestration ERW deployments in Brazil, ensuring efficient data collection, logistics, & field execution.
-- Led experimental pilot projects with external partners (e.g. LDC), optimizing data collection methodologies & logistics coordination.
-
-  """
 [[experience]]
-  title = "Science Lead"
+  title = "Founder & Principal Advisor"
+  company = "Green Gold Advisors"
+  company_url = ""
+  location = "Argentina / International"
+  date_start = "2026-02-01"
+  date_end = ""
+  description = """
+
+- Established an independent advisory practice connecting agricultural science, environmental modelling, carbon project development and technical due diligence.
+- As Scientific Advisor to WayCarbon, reviewed agricultural soil-carbon modelling and monitoring under Verra VM0042 and VMD0053, including baseline assumptions, practice changes and model applicability.
+- Evaluated sampling, calibration and validation plans, field-data quality, sensitivity analysis and uncertainty treatment to identify scientific risks and evidence gaps.
+- Reviewed the consistency of monitoring procedures, model inputs, calculations and technical documentation, supporting traceable evidence for external review.
+- Delivered written scientific assessments and practical recommendations to project teams, translating methodology requirements into priorities for data collection, modelling and certification preparation.
+
+"""
+
+[[experience]]
+  title = "Head of Agricultural Benefits"
   company = "Terradot"
   company_url = "https://terradot.earth/"
-  location = "Remote"
-  date_start = "2023-07-01"
+  location = "Brazil / International"
+  date_start = "2025-08-01"
+  date_end = "2026-01-01"
+  description = """
+
+- Led agricultural-benefits research within Terradot's CDR Quantification team, defining priorities for evaluating enhanced rock weathering effects on crop productivity, nutrient cycling, soil health, liming and agronomic risks.
+- Designed and oversaw field experiments, treatment-control comparisons and monitoring programmes to assess rock-application effects alongside soil, weather and management variability.
+- Integrated crop-soil modelling with field observations to assess agricultural responses, identify evidence gaps and account for uncertainty when interpreting or extrapolating trial results.
+- Connected science, field operations, modelling, product and commercial teams, translating findings into deployment recommendations and evidence-based communication with farmers, partners and carbon buyers.
+- Delivered an invited presentation on Enhanced Weathering and Brazilian Agriculture in London in November 2025, sharing research and operational perspectives on ERW in agricultural systems.
+
+"""
+
+[[experience]]
+  title = "Science Operations (SciOps) Lead"
+  company = "Terradot"
+  company_url = "https://terradot.earth/"
+  location = "Brazil / International"
+  date_start = "2024-10-01"
+  date_end = "2025-08-01"
+  description = """
+
+- Built a Brazil science-operations team of 10+ within four months, recruiting scientists, agronomists, project managers and field staff; established operating procedures, responsibilities and delivery schedules.
+- Coordinated ERW pilots and commercial deployments involving LDC and EMBRAPA, working with farmers, cooperatives, mining partners, laboratories and research institutions across Brazilian regions.
+- Implemented site selection, spatial stratification, treatment-control designs, soil and crop sampling, equipment procurement and laboratory QA/QC to support consistent field execution and reliable project evidence.
+- Co-designed digital MRV workflows linking geolocated fields, management histories, weather observations, soil and crop measurements and laboratory results, with operational and digital quality controls.
+- Led science and field MRV work supporting Project Carcará's subsequent first Isometric credit issuance in March 2026, following independent verification by 350Solutions.
+
+"""
+
+[[experience]]
+  title = "Founding Science Lead"
+  company = "Terradot"
+  company_url = "https://terradot.earth/"
+  location = "Remote / International"
+  date_start = "2023-06-01"
   date_end = "2024-10-01"
   description = """
-  
-**Leadership & People Management in Carbon MRV**
-- Built & led a multidisciplinary global science team (soil scientists, geologists, agronomists, geochemists, modelers, engineers, data scientists) to develop a carbon MRV platform from scratch.
-- Hired & scaled the team to 10+ experts in six months, driving carbon R&D & MRV execution.
-- Defined the strategic roadmap for improving CO₂ emissions measurement & verification in agricultural land (annual & perennial crop/pasture systems).
-- Served as the primary science lead & scientific founder, playing a key role in securing $58.2M in Series A funding to enable large-scale carbon removal projects. Joined as the third employee, following the two co-founders, & helped shape the company's scientific vision & strategy.
-- Led the development of the Terradot Science White Paper, which was presented to buyers & played a key role in securing several carbon offtake agreements with Frontier & Google.
 
-**MRV Platform & Carbon Modeling Development**
-- Led the creation of a soil carbon (organic & inorganic) & crop yield MRV platform, ensuring compliance with VERRA 0042/0053, Puro.earth, Cascade, & Isometric protocols.
-- Developed a coupled multi-scale model using [MIN3P](https://www.min3p.com/) & [APSIM](https://www.apsim.info/) to estimate inorganic carbon sequestration via ERW.
-- Built Python pipelines for ground ERW data storage & automated ERW calculations & modeling, improving data processing efficiency.
-- Scaled soil sampling pipelines to deploy ERW trials across multiple regions in Brazil, ensuring broad applicability of carbon removal methodologies.
-- Designed an ERW clustering tool (including climate, soil & farm management factors) to assess field suitability for carbon sequestration, improving deployment strategies.
-
-**Carbon Market Engagement & Policy Alignment**
-- Worked directly with carbon registries & policymakers to align MRV methodologies with carbon market certification standards.
-- Ensured compliance with soil carbon protocols (VERRA, Puro.earth, Isometric, Cascade) by assessing uncertainties & developing strategies to minimize data variability.
-- Served as the primary liaison with the Terradot Science Advisory Board (Stanford, LBNL & UBC researchers), ensuring alignment with cutting-edge carbon removal science.
-- Engaged with government leaders & local communities to communicate scientific findings & scale adoption of carbon sequestration practices.
-
-**Scientific R&D for Carbon Sequestration**
-- Conducted simulations & calibration of MIN3P-APSIM for soil carbon quantification, utilizing real-world field trial data to enhance model accuracy.
-- Directed & oversaw carbon sequestration modeling at plot, field & farm scale, improving predictions of CO₂ capture efficiency in agricultural systems.
-- Developed Python-based infrastructure to integrate model simulations into a core MRV product, ensuring seamless data-to-credit workflows.
-- Scaled up calibrated models to additional fields, expanding ERW’s role in agricultural carbon removal projects.
-
-**Key Achievements**
-- Core team member in securing $58.2M in Series A funding, enabling large-scale carbon removal projects.
-- Built a global MRV & science team (10+ experts) from scratch within six months.
-- Developed & validated a coupled ERW model for predicting carbon sequestration impacts in agriculture.
-- Automated ERW modeling workflows through Python pipelines, streamlining MRV calculations & compliance.
-- Expanded soil sampling operations, deploying ERW trials across multiple Brazilian states.
-- Created an ERW clustering tool, improving field selection for high-impact carbon sequestration projects.
-- Published 3 abstracts in the AGU24 Annual Meeting.
+- Joined Terradot at its founding stage and built a multidisciplinary science team of 10+ within six months; established the scientific roadmap and coordinated engagement with the Science Advisory Board.
+- Developed coupled APSIM–MIN3P modelling, Python calculation pipelines and field-suitability analyses to investigate enhanced rock weathering, support deployment planning and assess uncertainty.
+- Led agricultural soil-carbon project documentation and APSIM model-validation work with TerraCarbon and CIMMYT collaborators under Verra VM0042 and VMD0053, including baseline and project scenarios for no-till and cover-crop practices.
+- Developed ERW monitoring and quantification approaches and assessed relevant Isometric and Puro.earth requirements to inform sampling, data collection and verification preparation.
+- Supported scientific and technical due diligence contributing to Terradot’s US$58.2 million Series A.
+- Led the Science White Paper and prepared scientific and MRV evidence for carbon-buyer due diligence involving Frontier and Google, supporting the assessment of proposed carbon-offtake transactions.
 
   """
 [[experience]]
   title = "Adjunct Senior Research Fellow"
   company = "University of Southern Queensland"
-  company_url = "https://terradot.earth/"
+  company_url = "https://www.unisq.edu.au/"
   location = "Remote"
   date_start = "2022-10-01"
-  date_end = ""
+  date_end = "2026-01-01"
   description = """
 
 **Research Contributions**
@@ -147,6 +149,7 @@ date_format = "Jan 2006"
 - Submitted multiple funded proposals on satellite remote sensing, biomass & crop yield estimation, & biophysical modeling for sustainable crop-livestock systems.
 
 **Key Achievements**
+- Prepared technical documentation supporting Climate Action Reserve (CAR) requirements, drawing on soil-carbon modelling, field measurements, model validation and uncertainty analysis.
 - Built a Python pipeline integrating climate, soil, crop, & genotype field data & remote sensed data with APSIM modeling, enabling automated calibration & scenario analysis.
 - Developed & validated new crop cultivars in FluroSense, optimizing regional seed placement.
 - Designed crop rotation templates (corn, soybean, wheat) for soil nitrogen & water balance simulations, improving in-season nitrogen recommendations.
