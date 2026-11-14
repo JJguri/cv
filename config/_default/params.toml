@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Jonathan Ojeda, PhD: carbon removal, MRV, agricultural modelling and technical due diligence. Experience in ERW, biochar, soil carbon and data science."
 
 ############################
 ## Site Features
