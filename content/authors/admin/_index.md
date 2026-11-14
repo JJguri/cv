@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Science & Technology Executive – Carbon Markets & MRV | Scientific Founder @Terradot
+role: Carbon Removal & Agricultural Systems | Science, MRV & Project Development
 
 # Organizations/Affiliations
 organizations:
 - name: jonathanjesusojeda@gmail.com
-  url: "https://agriculture.uq.edu.au/"
+  url: "mailto:jonathanjesusojeda@gmail.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dynamic and results-driven Science & Technology Executive Leader with over 15 years of experience at the intersection of environmental science, carbon markets, and sustainable agriculture.
+bio: Agricultural Engineer and PhD with 15+ years of international experience connecting agricultural science, environmental modelling, carbon removal and project delivery.
 
 interests:
 - Carbon MRV
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:j.ojeda@uq.edu.au'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jonathanjesusojeda@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.au/citations?user=5Bqcm9MAAAAJ&hl=en
@@ -65,7 +65,7 @@ social:
   link: https://github.com/JJguri
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jonathan-j-ojeda-09147047/
+  link: https://www.linkedin.com/in/jonathan-ojeda-09147047/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JonathanJOjeda
@@ -73,10 +73,10 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/scl/fi/a4tgzh1aup4ba67gljr48/cv_extended.pdf?rlkey=d12ex1ttociw3tmza9gxacaoe&st=suos9yaf&dl=0
+  link: [https://www.dropbox.com/scl/fi/a4tgzh1aup4ba67gljr48/cv_extended.pdf?rlkey=d12ex1ttociw3tmza9gxacaoe&st=suos9yaf&dl=0](https://drive.google.com/file/d/1JPK9qLeAjWh9GoTr8H1MNyODg3Ozx_S1/view?usp=sharing)
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jony@terradot.earth; jonathanjesusojeda@gmail.com"
+email: "jonathanjesusojeda@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -84,8 +84,14 @@ user_groups:
 #- Researchers
 ---
 
-Dynamic and results-driven Science & Technology Executive Leader with over 15 years of experience at the intersection of environmental science, carbon markets, and sustainable agriculture. Proven track record in structuring and executing complex international carbon removal transactions, leading multidisciplinary teams, and securing strategic partnerships. Extensive expertise in project management, stakeholder engagement, and MRV (Monitoring, Reporting, and Verification) implementation for large-scale carbon removal initiatives. Played a pivotal role in raising Series A funding ($58.2M) for Terradot and closing carbon offtake agreements. Strong advocate for integrating ESG (Environmental, Social, and Governance) principles into business strategy, ensuring that sustainability efforts not only drive financial performance but also deliver measurable environmental and social impact. Passionate about leveraging science and technology to accelerate decarbonization, improve land-use efficiency, and promote regenerative agricultural practices. Adept at aligning sustainability initiatives with corporate ESG goals, driving data-driven decision-making, and scaling nature-based and emerging carbon removal solutions to support a resilient and equitable low-carbon economy.
+I am an Agricultural Engineer and PhD with more than 15 years of international experience connecting agricultural science, environmental modelling and carbon project delivery. My work spans regenerative agriculture, enhanced rock weathering and biochar, combining scientific leadership with field operations, digital MRV, strategic partnerships and technical due diligence.
 
-Jony has a deep interest in disentangling sources of uncertainty & spatio-temporal heterogeneity to measure farm productivity & C sequestration in Ag systems. This requires a broad understanding of how environmental factors affect crop growth, how rainfall, irrigation, and applied rock influence soils, and how soil-crop-weather processes interact. Over 15 years of experience managing large soil-crop-climate datasets (>10 years using Python), developing crop/C models & applying data pipelining and optimization towards solving large-scale C deployments. Jony collected (experiments) & analyzed data including >18 crop species (annual, perennials). Jony has 26+ published articles in high-impact journals (13 as first author) and received 18 research grants with a cash value of ~USD6M.
+At Regrow Ag, I developed crop and soil modelling workflows and led the Gates Foundation-funded Niche programme, coordinating international collaborators working on agricultural productivity and climate adaptation in Sub-Saharan Africa. I subsequently joined Terradot at its founding stage, helping build its scientific capabilities and progressing through roles as Founding Science Lead, Science Operations Lead and Head of Agricultural Benefits.
 
-As part of Regrow Ag, Jony led a multicultural global team (15 people including data scientists, software developers/engineers) under the Niche project (USD4M) funded by B&MGF which focuses on the analysis of GxExM in Sub-Saharan Africa. Jony worked with multi-cultural & multi-disciplinary teams (hybrid approach - Academia & Industry) & has ground experience working in 9 countries (Argentina, Brazil, Australia, NZ, USA, The Netherlands, Germany, Rwanda & Kenya).
+At Terradot, I built multidisciplinary teams, established field and MRV operations in Brazil, and connected soil, crop and geochemical research with operational delivery. My work included APSIM–MIN3P modelling, sampling design, digital monitoring and scientific evidence for investor and carbon-buyer due diligence. The field and MRV work I helped establish supported subsequent Isometric credit issuance, independently verified by 350Solutions.
+
+Since 2025, I have been developing biochar projects with eucalyptus forestry and sawmill partners in Entre Ríos through Tupana RGN. This work connects feedstock sourcing, technology assessment, certification preparation, project economics and investor engagement. I also provide independent advice through Green Gold Advisors on carbon quantification, model validation, uncertainty and certification readiness.
+
+My academic career includes appointments at the University of Tasmania, the University of Queensland and the University of Southern Queensland, alongside collaborations across Latin America, Europe, Africa and the United States. I have authored or co-authored 28 peer-reviewed publications.
+
+I am particularly interested in turning rigorous science into practical solutions that benefit farmers, strengthen carbon-market integrity and support commercially viable climate projects. As I transition towards a non-executive role at Tupana, I am available immediately for new opportunities. Based in Argentina and an Australian citizen, I am open to remote work, international travel and relocation for the right role.
