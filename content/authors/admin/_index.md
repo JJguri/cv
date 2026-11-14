@@ -94,4 +94,4 @@ Since 2025, I have been developing biochar projects with eucalyptus forestry and
 
 My academic career includes appointments at the University of Tasmania, the University of Queensland and the University of Southern Queensland, alongside collaborations across Latin America, Europe, Africa and the United States. I have authored or co-authored 28 peer-reviewed publications.
 
-I am particularly interested in turning rigorous science into practical solutions that benefit farmers, strengthen carbon-market integrity and support commercially viable climate projects. As I transition towards a non-executive role at Tupana, I am available immediately for new opportunities. Based in Argentina and an Australian citizen, I am open to remote work, international travel and relocation for the right role.
+I am particularly interested in turning rigorous science into practical solutions that benefit farmers, strengthen carbon-market integrity and support commercially viable climate projects.
