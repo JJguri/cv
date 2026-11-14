@@ -21,12 +21,14 @@ organizations:
 bio: Agricultural Engineer and PhD with 15+ years of international experience connecting agricultural science, environmental modelling, carbon removal and project delivery.
 
 interests:
-- Carbon MRV
-- Climate Change
-- Decision support tools development
-- Sustainable agricultural practices
-- MRV Platforms
-- Data analytics
+- Carbon Removal and Digital MRV
+- Enhanced Rock Weathering and Biochar
+- Soil Carbon and Regenerative Agriculture
+- Crop and Biogeochemical Modelling
+- Data Science and Geospatial Analysis
+- Model Validation and Uncertainty
+- Carbon Project Development and Due Diligence
+- Scientific Leadership and Strategic Partnerships
 
 education:
   courses:
