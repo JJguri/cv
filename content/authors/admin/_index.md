@@ -90,7 +90,7 @@ At Regrow Ag, I developed crop and soil modelling workflows and led the Gates Fo
 
 At Terradot, I built multidisciplinary teams, established field and MRV operations in Brazil, and connected soil, crop and geochemical research with operational delivery. My work included APSIM–MIN3P modelling, sampling design, digital monitoring and scientific evidence for investor and carbon-buyer due diligence. The field and MRV work I helped establish supported subsequent Isometric credit issuance, independently verified by 350Solutions.
 
-Since 2025, I have been developing biochar projects with eucalyptus forestry and sawmill partners in Entre Ríos through Tupana RGN. This work connects feedstock sourcing, technology assessment, certification preparation, project economics and investor engagement. I also provide independent advice through Green Gold Advisors on carbon quantification, model validation, uncertainty and certification readiness.
+At Tupana RGN, I have been developing biochar projects with eucalyptus forestry and sawmill partners in Entre Ríos. This work connects feedstock sourcing, technology assessment, certification preparation, project economics and investor engagement. I also provide independent advice through Green Gold Advisors on carbon quantification, model validation, uncertainty and certification readiness.
 
 My academic career includes appointments at the University of Tasmania, the University of Queensland and the University of Southern Queensland, alongside collaborations across Latin America, Europe, Africa and the United States. I have authored or co-authored 28 peer-reviewed publications.
 
