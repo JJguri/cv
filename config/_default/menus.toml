@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "KeyWords"
+  name = "Areas of Expertise"
   url = "#tags"
   weight = 20
 
