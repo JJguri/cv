@@ -1,158 +1,29 @@
-#Navigation Links
-#To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#desired widget in your `content/home/` folder.
-#The weight parameter defines the order that the links will appear in.
-
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "/#about"
   weight = 10
 
 [[main]]
-  name = "Areas of Expertise"
-  url = "#tags"
+  name = "Experience"
+  url = "/#experience"
   weight = 20
 
 [[main]]
-  name = "Skills"
-  url = "/#skills"
+  name = "Expertise"
+  url = "/#tags"
   weight = 30
 
 [[main]]
-  name = "Experience"
-  url = "/"
+  name = "Capabilities"
+  url = "/#skills"
   weight = 40
 
 [[main]]
-  name = "Education"
-  parent = "Experience"
-  url = "/#education"
-  weight = 41
-
-[[main]]
-  name = "Work History"
-  parent = "Experience"
-  url = "/#experience"
-  weight = 42
-
-[[main]]
-  name = "Media"
-  parent = "Experience"
-  url = "/#slider"
-  weight = 15
-
-[[main]]
-  name = "Prizes"
-  parent = "Experience"
-  url = "/#prize"
-  weight = 44
-
-[[main]]
-  name = "Grants"
-  parent = "Experience"
-  url = "/#grant"
-  weight = 45
-
-[[main]]
-  name = "Research Exchange"
-  parent = "Experience"
-  url = "/#stays"
-  weight = 46
-
-[[main]]
-  name = "Partners"
-  parent = "Experience"
-  url = "/#people"
-  weight = 47
-
-[[main]]
-  name = "Research Projects"
-  url = "/"
+  name = "CV"
+  url = "https://drive.google.com/file/d/1JPK9qLeAjWh9GoTr8H1MNyODg3Ozx_S1/view?usp=sharing"
   weight = 50
 
 [[main]]
-  name = "Crop Modelling and Uncertainty"
-  parent = "Research Projects"
-  url = "/#modelling"
-  weight = 51
-
-[[main]]
-  name = "Linking Crop Models with Remote Sensing"
-  parent = "Research Projects"
-  url = "/#remote-sensing"
-  weight = 52
-
-[[main]]
-  name = "Coding"
-  url = "/"
-  weight = 60
-
-[[main]]
-  name = "Bestiapop Python package"
-  parent = "Coding"
-  url = "/#bestiapop"
-  weight = 61
-
-[[main]]
-  name = "Data Science"
-  parent = "Coding"
-  url = "/#coding"
-  weight = 62
-
-[[main]]
-  name = "APSIM Applications"
-  parent = "Coding"
-  url = "/#apsim"
-  weight = 63
-
-[[main]]
-  name = "Communication"
-  url = "#communication"
-  weight = 70
-
-[[main]]
-  name = "Research Papers"
-  parent = "Communication"
-  url = "/#publications"
-  weight = 71
-
-[[main]]
-  name = "Conference & Poster Presentations"
-  parent = "Communication"
-  url = "/#talks"
-  weight = 72
-
-[[main]]
-  name = "Talks List"
-  parent = "Communication"
-  url = "/#list"
-  weight = 73
-
-[[main]]
-  name = "Mentoring"
-  url = "/"
-  weight = 80
-
-[[main]]
-  name = "PhD Supervision"
-  parent = "Mentoring"
-  url = "/#phd"
-  weight = 81
-
- [[main]]
-  name = "Honours Supervision"
-  parent = "Mentoring"
-  url = "/#honours"
-  weight = 82
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[main]]
-  name = "CV"
-  url = "https://drive.google.com/file/d/1JPK9qLeAjWh9GoTr8H1MNyODg3Ozx_S1/view?usp=sharing"
-  weight = 90
-
-[[main]]
   name = "Contact"
-  url = "#contact"
-  weight = 100
+  url = "/#contact"
+  weight = 60
